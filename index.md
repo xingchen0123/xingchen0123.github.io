@@ -42,12 +42,12 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 
 ## Conference Presentations
--2021.7  Fifth CCER Summer Institute, Beijing, China
--2019.12 中国经济学年会，天津，中国
--2019.8 The 8th Congress of the East Asian Association of Environmental and Resource Economics, China
--2018.6 The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
--2017.8 Asian Development Review Conference, Seoul, Korea
+- 2021.7  Fifth CCER Summer Institute, Beijing, China
+- 2019.12 China Economic Annual Conference, Tianjin, China
+- 2019.8 The 8th Congress of the East Asian Association of Environmental and Resource Economics, China
+- 2018.6 The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
+- 2017.8 Asian Development Review Conference, Seoul, Korea
 
 ## Service
--2017. 09 –，Research Fellow，EfD in China/EEPC  [[Link]([(https://efdinitiative.org/about-efd/people/chen-xing)))]
+- 2017. 09 –，Research Fellow，EfD in China/EEPC  [[Link]([(https://efdinitiative.org/about-efd/people/chen-xing)))]
 
