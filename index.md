@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. 
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-## News
+## Education Background
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[July. 2020]** PhD in Environmental Economics, Peking University.
+- **[July. 2015]** Bachelor in Encironmental Science, Peking University.
+- **[Sept.2017-Sept.2018]** Visiting scholar, UC Berkeley.
 
 ## Publications
 
@@ -48,3 +47,10 @@ I am a Ph.D. student at ...
 
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV.
+
+## Teaching
+
+- 公共部门绩效评估.
+- 社会科学研究方法
+- 社会科学研究方法(高级)
+- 定量研究方法
