@@ -27,7 +27,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 ## Fundings and Projects
 - Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank).完善可再生能源电价补贴和价格形成机制研究，委托单位：国家发展与改革委员会、国家能源局、国家高端智库，世界银行中国可再生能源规模化发展项目，2016-2017年（参与）[[Link](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)]
-- 必和必拓-北京大学工业碳捕集、封存和利用研究，2016年6月-2021年5月（参与）
+- BHP-PKU Carbon Capture, Use and Storage Research必和必拓-北京大学工业碳捕集、封存和利用研究，2016年6月-2021年5月（参与）[[Link](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)]
 
 ## Working in Progress
 - "Coordinated Environmental Regulation in China" with Yana Jin.
