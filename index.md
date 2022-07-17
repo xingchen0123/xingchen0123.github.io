@@ -6,21 +6,19 @@ layout: homepage
 
 Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. My research interests are environmental economics and policy evaluation.
 
-## Education Background
+## Education Background(教育背景)
 
 - **[July. 2020]** PhD in Environmental Economics, Peking University.
-- **[July. 2015]** Bachelor in Encironmental Science, Peking University.
+- ***supervisor: Prof. Jintao Xu of National School of Development***
 - **[Sept.2017-Sept.2018]** Visiting scholar, UC Berkeley.
+- -***supervisor: Prof. Peter Berck of Department of Agricultural and Resource Economics***
+- **[July. 2015]** Bachelor in Environmental Science, Peking University.
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF]([https://arxiv.org/pdf/2002.10211.pdf](https://webvpn.fudan.edu.cn/https/77726476706e69737468656265737421f4fe53992424265d771cc7a99c40/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of))]<strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
@@ -43,7 +41,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - Conference Reviewers: NeurIPS 2020, CVPR 2020.
 - Journal Reviewers: T-PAMI, IJCV.
 
-## Teaching
+## Teaching(教学)
 
 - 公共部门绩效评估.
 - 社会科学研究方法
