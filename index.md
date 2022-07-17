@@ -4,12 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. 
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. My research interests are environmental economics and policy evaluation.
 
 ## Education Background
 
