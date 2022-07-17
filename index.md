@@ -7,11 +7,13 @@ layout: homepage
 Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. My research interests are Environmental Economics and Policy Evaluation.
 
 ## Education Background
-- **Sept.2015-July.2020** PhD in Environmental Economics, Peking University.
-- ***Supervisor: Prof. Jintao Xu of National School of Development***
-- **Sept.2017-Sept.2018** Visiting scholar, UC Berkeley.
-- -***Supervisor: Prof. Peter Berck of Department of Agricultural and Resource Economics***
-- **Sept.2011-July. 2015** Bachelor in Environmental Science, Peking University.
+- Sept.2015-July.2020 PhD in Environmental Economics, Peking University.
+<br>
+***Supervisor: Prof. Jintao Xu of National School of Development***
+- Sept.2017-Sept.2018 Visiting scholar, UC Berkeley.
+<br>
+***Supervisor: Prof. Peter Berck of Department of Agricultural and Resource Economics***
+- Sept.2011-July. 2015 Bachelor in Environmental Science, Peking University.
 
 ## Publications
 - **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018**[[PDF]([https://arxiv.org/pdf/2002.10211.pdf])
@@ -26,8 +28,11 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 ## Teaching
 
 **Graguate：** Research Methods in Social Science,Quantitative research methods in public administration
+<br>
 **Undergraguate：** quantitative research method, Environmental policy and management, Performance Evaluation in Public Sector
+<br>
 **MPA:** Performance evaluation and strategic management
+<br>
 **Teaching Assistant：** Microeconomic(Institute of South-South Cooperation and Developme, Peking University)
 
 
