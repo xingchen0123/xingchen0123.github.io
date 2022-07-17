@@ -25,17 +25,17 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[Link]([http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf](https://webvpn.fudan.edu.cn/https/77726476706e69737468656265737421fbf952d2243e635930068cb8/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5l6nsMKFDgOh2Az05iLQMy1))]
 
 ## Teaching
-- **Graduate：**
+##### Graguate：
 - Research Methods in Social Science
 - Quantitative research methods in public administration
-- **Undergraguate：**
+##### Undergraguate：
  - quantitative research method
  - Environmental policy and management
  - Performance Evaluation in Public Sector
-- **MPA：**
+##### MPA
 - Performance evaluation and strategic management
-- **Teaching Assistant：**
-- Microeconomic, Institute of South-South Cooperation and Developme，Peking University
+##### Teaching Assistant：
+- Microeconomic, Institute of South-South Cooperation and Developme, Peking University
 
 
 ## Conference Presentations
