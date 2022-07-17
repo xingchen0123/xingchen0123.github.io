@@ -35,10 +35,10 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 ## Teaching
 
-- **Graguate：** Research Methods in Social Science,Quantitative research methods in public administration
-- **Undergraguate：** quantitative research method, Environmental policy and management, Performance Evaluation in Public Sector
+- **Graguate：** Research Methods in Social Science, Quantitative research methods in public administration
+- **Undergraguate：** Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
 - **MPA:** Performance evaluation and strategic management
-- **Teaching Assistant：** Microeconomic(Institute of South-South Cooperation and Developme, Peking University)
+- **Teaching Assistant：** Microeconomics(Institute of South-South Cooperation and Developme, Peking University)
 
 
 ## Conference Presentations
@@ -49,5 +49,5 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - 2017.8 Asian Development Review Conference, Seoul, Korea
 
 ## Other Service
-- Research Fellow, EfD in China/EEPC.
+- Research Fellow, EfD in China/EEPC.[[Link](https://www.efdinitiative.org/about-efd/people/chen-xing)]
 
