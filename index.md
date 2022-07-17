@@ -25,6 +25,14 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - 陈醒：“辨析中国风电和光伏发电补贴政策存在的问题”，王敏、徐晋涛、黄滢、谢伦裕等著，《中国风电和光伏发电补贴政策研究》，第102-149页。北京：中国社会科学出版社，2018年。ISBN：9787520326971
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.
 
+## Fundings and Project
+- 完善可再生能源电价补贴和价格形成机制研究，委托单位：国家发展与改革委员会、国家能源局、国家高端智库，世界银行中国可再生能源规模化发展项目，2016-2017年（参与）
+- 必和必拓-北京大学工业碳捕集、封存和利用研究，2016年6月-2021年5月（参与）
+
+## Working in Progress
+- "Coordinated Environmental Regulation in China" with Yana Jin.
+- "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
+
 ## Teaching
 
 - **Graguate：** Research Methods in Social Science,Quantitative research methods in public administration
