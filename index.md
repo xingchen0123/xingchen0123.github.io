@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. My research interests are Environmental Economics and Policy Evaluation.
+Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. My research interests broadly cover environmental economics, policy evaluation and climate change.
 
 ## Education Background
-- Sept.2015-July.2020 PhD in Environmental Economics, Peking University.
+- PhD in Environmental Economics, Peking University, 2020
 <br>
 ***Supervisor: Prof. Jintao Xu(National School of Development)***
-- Sept.2017-Sept.2018 Visiting scholar, UC Berkeley.
+- Visiting scholar, UC Berkeley, 2017-2018
 <br>
 ***Supervisor: Prof. Peter Berck(Department of Agricultural and Resource Economics)***
-- Sept.2011-July. 2015 Bachelor in Environmental Science, Peking University.
+- B.S.in Environmental Science, Peking University, 2015
 
 ## Publications
 - **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018.** [[PDF](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)]
@@ -25,8 +25,8 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - 陈醒：“辨析中国风电和光伏发电补贴政策存在的问题”，王敏、徐晋涛、黄滢、谢伦裕等著，《中国风电和光伏发电补贴政策研究》，第102-149页。北京：中国社会科学出版社，2018年。ISBN：9787520326971[[Link](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)]
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[Link](https://link.springer.com/book/10.1007/978-981-16-4310-1)]
 
-## Fundings and Project
-- 完善可再生能源电价补贴和价格形成机制研究，委托单位：国家发展与改革委员会、国家能源局、国家高端智库，世界银行中国可再生能源规模化发展项目，2016-2017年（参与）
+## Fundings and Projects
+- Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank).完善可再生能源电价补贴和价格形成机制研究，委托单位：国家发展与改革委员会、国家能源局、国家高端智库，世界银行中国可再生能源规模化发展项目，2016-2017年（参与）[[Link](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)]
 - 必和必拓-北京大学工业碳捕集、封存和利用研究，2016年6月-2021年5月（参与）
 
 ## Working in Progress
