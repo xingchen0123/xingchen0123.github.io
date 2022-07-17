@@ -9,10 +9,10 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 ## Education Background
 - Sept.2015-July.2020 PhD in Environmental Economics, Peking University.
 <br>
-***Supervisor: Prof. Jintao Xu of National School of Development***
+***Supervisor: Prof. Jintao Xu(National School of Development)***
 - Sept.2017-Sept.2018 Visiting scholar, UC Berkeley.
 <br>
-***Supervisor: Prof. Peter Berck of Department of Agricultural and Resource Economics***
+***Supervisor: Prof. Peter Berck(Department of Agricultural and Resource Economics)***
 - Sept.2011-July. 2015 Bachelor in Environmental Science, Peking University.
 
 ## Publications
@@ -21,9 +21,9 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - **陈醒,徐晋涛.化工企业污染物影子价格的估计——基于参数化的方向性距离函数[J].北京大学学报(自然科学版),2021,57(02):341-350.**
 
 ## Book Chapter
-- 陈醒，徐晋涛：“中国碳交易试点运行进展总结”，薛进军等主编《中国低碳经济发展报告2017》第五章，北京：中国社会科学文献出版社，2017年。ISBN：9787520119610.
-- 陈醒：“辨析中国风电和光伏发电补贴政策存在的问题”，王敏、徐晋涛、黄滢、谢伦裕等著，《中国风电和光伏发电补贴政策研究》，第102-149页。北京：中国社会科学出版社，2018年。ISBN：9787520326971
-- Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.
+- 陈醒，徐晋涛：“中国碳交易试点运行进展总结”，薛进军等主编《中国低碳经济发展报告2017》第五章，北京：中国社会科学文献出版社，2017年。ISBN：9787520119610.[[Link](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)]
+- 陈醒：“辨析中国风电和光伏发电补贴政策存在的问题”，王敏、徐晋涛、黄滢、谢伦裕等著，《中国风电和光伏发电补贴政策研究》，第102-149页。北京：中国社会科学出版社，2018年。ISBN：9787520326971[[Link](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)]
+- Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[Link](https://link.springer.com/book/10.1007/978-981-16-4310-1)]
 
 ## Fundings and Project
 - 完善可再生能源电价补贴和价格形成机制研究，委托单位：国家发展与改革委员会、国家能源局、国家高端智库，世界银行中国可再生能源规模化发展项目，2016-2017年（参与）
