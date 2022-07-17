@@ -18,7 +18,6 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 - **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018**[[PDF]([https://arxiv.org/pdf/2002.10211.pdf])
 
-
 - **关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究[J].国际经济评论,2018(04):67-85+6.**[[PDF]([http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf])]
 
 - **陈醒,徐晋涛.化工企业污染物影子价格的估计——基于参数化的方向性距离函数[J].北京大学学报(自然科学版),2021,57(02):341-350.**[[PDF]([http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf])]
@@ -29,10 +28,15 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[Link]([http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf](https://webvpn.fudan.edu.cn/https/77726476706e69737468656265737421fbf952d2243e635930068cb8/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5l6nsMKFDgOh2Az05iLQMy1))]
 
 ## Teaching
-- 研究生课程：社会科学研究方法，社会科学研究方法（高级），公共行政学定量研究方法
-- 本科生课程：定量研究方法，环境政策与管理，公共部门绩效评估
-- MPA课程：绩效评价与战略管理
-- 研究生课程（助教）：微观经济学，北京大学南南合作与发展学院
+- Graduate：
+- Research Methods in Social Science
+- Quantitative research methods in public administration
+- Undergraguate：
+ - quantitative research method
+ - Environmental policy and management
+ - Performance Evaluation in Public Sector
+- MPA：Performance evaluation and strategic management
+- Teaching Assistant：Microeconomic, Peking University
 
 
 ## Conference Presentations
@@ -42,6 +46,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - 2018.6 The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
 - 2017.8 Asian Development Review Conference, Seoul, Korea
 
+
 ## Service
-- 2017. 09 –，Research Fellow，EfD in China/EEPC  [[Link]([(https://efdinitiative.org/about-efd/people/chen-xing)))]
+- 2017.09 –，Research Fellow, EfD in China/EEPC [[Link]([(https://efdinitiative.org/about-efd/people/chen-xing)))]
 
