@@ -16,7 +16,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - Sept.2011-July. 2015 Bachelor in Environmental Science, Peking University.
 
 ## Publications
-- **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018**[[PDF]([https://arxiv.org/pdf/2002.10211.pdf])
+- **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018.** [[PDF](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)]
 - **关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究[J].国际经济评论,2018(04):67-85+6.**
 - **陈醒,徐晋涛.化工企业污染物影子价格的估计——基于参数化的方向性距离函数[J].北京大学学报(自然科学版),2021,57(02):341-350.**
 
