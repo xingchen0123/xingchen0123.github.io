@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. My research interests broadly cover environmental economics, policy evaluation and climate change.
+Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. My research interests broadly cover environmental economics, policy evaluation and climate change. Here is my [[CV](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)] [[中文简历](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)]
 
 ## Education Background
 - PhD in Environmental Economics, Peking University, 2020
