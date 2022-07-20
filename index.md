@@ -18,16 +18,16 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 ## Publications
 - **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018.** [[Link](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)]
 - **A study on the subsidy gap and large proportion of abandoned electricity generation in China for wind and photovoltaic power generation[J]. International Economic Review,2018(04):67-85+6.(In Chinese)关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究[J].国际经济评论,2018(04):67-85+6.**[[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)]
-- **Chen, Xing.,Xu, JT. Estimation of shadow prices of pollutants in chemical companies - based on parameterized directional distance function[J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2021,57(02):341-350.(in Chinese)陈醒,徐晋涛.化工企业污染物影子价格的估计——基于参数化的方向性距离函数[J].北京大学学报(自然科学版),2021,57(02):341-350.**
+- **Chen, Xing.,Xu, JT. Estimation of shadow prices of pollutants in chemical companies - based on parameterized directional distance function[J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2021,57(02):341-350.(in Chinese).**
 
 ## Book Chapter
-- "Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)陈醒，徐晋涛：“中国碳交易试点运行进展总结”，薛进军等主编《中国低碳经济发展报告2017》第五章，北京：中国社会科学文献出版社，2017年。ISBN：9787520119610.[[Link](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)]
-- "Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese). 陈醒：“辨析中国风电和光伏发电补贴政策存在的问题”，王敏、徐晋涛、黄滢、谢伦裕等著，《中国风电和光伏发电补贴政策研究》，第102-149页。北京：中国社会科学出版社，2018年。ISBN：9787520326971[[Link](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)]
+- "Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[Link](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)]
+- "Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese).[[Link](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)]
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[Link](https://link.springer.com/book/10.1007/978-981-16-4310-1)]
 
 ## Fundings and Projects
-- Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank).完善可再生能源电价补贴和价格形成机制研究，委托单位：国家发展与改革委员会、国家能源局、国家高端智库，世界银行中国可再生能源规模化发展项目，2016-2017年（参与）[[Link](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)]
-- BHP-PKU Carbon Capture, Use and Storage Research必和必拓-北京大学工业碳捕集、封存和利用研究，2016年6月-2021年5月（参与）[[Link](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)]
+- Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank).[[Link](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)]
+- BHP-PKU Carbon Capture, Use and Storage Research[[Link](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)]
 
 ## Working in Progress
 - "Coordinated Environmental Regulation in China" with Yana Jin.
@@ -35,9 +35,9 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 ## Teaching
 
-- **Graduate：** Research Methods in Social Science(社会科学研究方法), Quantitative research methods in public administration(公共行政学定量研究方法)
-- **Undergraduate：** Quantitative Research Method(定量研究方法), Environmental policy and management(环境政策与管理), Performance Evaluation in Public Sector(公共部门绩效评估)
-- **MPA:** Performance evaluation and strategic management(绩效评价与战略管理)
+- **Graduate：** Research Methods in Social Science, Quantitative research methods in public administration
+- **Undergraduate：** Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
+- **MPA:** Performance evaluation and strategic management
 - **Teaching Assistant：** Microeconomics(Institute of South-South Cooperation and Developme, Peking University)
 
 
