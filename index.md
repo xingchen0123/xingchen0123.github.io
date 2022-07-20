@@ -17,7 +17,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 ## Publications
 - **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018.** [[Link](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)]
-- **A study on the subsidy gap and large proportion of abandoned electricity generation in China for wind and photovoltaic power generation[J]. International Economic Review,2018(04):67-85+6.(In Chinese)关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究[J].国际经济评论,2018(04):67-85+6.**[[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)]
+- **A study on the subsidy gap and large proportion of abandoned electricity generation in China for wind and photovoltaic power generation[J]. International Economic Review,2018(04):67-85+6.(In Chinese)**[[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)]
 - **Chen, Xing.,Xu, JT. Estimation of shadow prices of pollutants in chemical companies - based on parameterized directional distance function[J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2021,57(02):341-350.(in Chinese).**
 
 ## Book Chapter
