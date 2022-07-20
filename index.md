@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. My research interests broadly cover environmental economics, policy evaluation and climate change. 
+Hi! Welcome to my homepage! I am an assistant professor at School of International Relations and Public Affairs at Fudan University. My research interests broadly cover environmental economics, the political economy of public policy, and especially, how environmental regulation fails and works in China. 
 
 ## Education Background
 - PhD in Environmental Economics, Peking University, 2020
@@ -17,7 +17,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 ## Publications
 - **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018.** [[PDF](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)]
-- **关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究[J].国际经济评论,2018(04):67-85+6.**[[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)]
+- **A study on the subsidy gap and large proportion of abandoned electricity generation in China for wind and photovoltaic power generation[J]. International Economic Review,2018(04):67-85+6.(In Chinese)关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究[J].国际经济评论,2018(04):67-85+6.**[[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)]
 - **陈醒,徐晋涛.化工企业污染物影子价格的估计——基于参数化的方向性距离函数[J].北京大学学报(自然科学版),2021,57(02):341-350.**
 
 ## Book Chapter
@@ -35,8 +35,8 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 ## Teaching
 
-- **Graguate：** Research Methods in Social Science, Quantitative research methods in public administration
-- **Undergraguate：** Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
+- **Graduate：** Research Methods in Social Science, Quantitative research methods in public administration
+- **Undergraduate：** Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
 - **MPA:** Performance evaluation and strategic management
 - **Teaching Assistant：** Microeconomics(Institute of South-South Cooperation and Developme, Peking University)
 
