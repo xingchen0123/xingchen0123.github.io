@@ -35,9 +35,9 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 ## Teaching
 
-- **Graduate：** Research Methods in Social Science, Quantitative research methods in public administration
-- **Undergraduate：** Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
-- **MPA:** Performance evaluation and strategic management
+- **Graduate：** Research Methods in Social Science(社会科学研究方法), Quantitative research methods in public administration(公共行政学定量研究方法)
+- **Undergraduate：** Quantitative Research Method(定量研究方法), Environmental policy and management(环境政策与管理), Performance Evaluation in Public Sector(公共部门绩效评估)
+- **MPA:** Performance evaluation and strategic management(绩效评价与战略管理)
 - **Teaching Assistant：** Microeconomics(Institute of South-South Cooperation and Developme, Peking University)
 
 
