@@ -16,13 +16,13 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - B.S.in Environmental Science, Peking University, 2015
 
 ## Publications
-- **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018.** [[PDF](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)]
-- **A study on the subsidy gap and large proportion of abandoned electricity generation in China for wind and photovoltaic power generation[J]. International Economic Review,2018(04):67-85+6.(In Chinese)关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究[J].国际经济评论,2018(04):67-85+6.**[[PDF](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)]
-- **陈醒,徐晋涛.化工企业污染物影子价格的估计——基于参数化的方向性距离函数[J].北京大学学报(自然科学版),2021,57(02):341-350.**
+- **Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018.** [[Link](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)]
+- **A study on the subsidy gap and large proportion of abandoned electricity generation in China for wind and photovoltaic power generation[J]. International Economic Review,2018(04):67-85+6.(In Chinese)关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究[J].国际经济评论,2018(04):67-85+6.**[[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)]
+- **Chen, Xing.,Xu, JT. Estimation of shadow prices of pollutants in chemical companies - based on parameterized directional distance function[J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2021,57(02):341-350.(in Chinese)陈醒,徐晋涛.化工企业污染物影子价格的估计——基于参数化的方向性距离函数[J].北京大学学报(自然科学版),2021,57(02):341-350.**
 
 ## Book Chapter
-- 陈醒，徐晋涛：“中国碳交易试点运行进展总结”，薛进军等主编《中国低碳经济发展报告2017》第五章，北京：中国社会科学文献出版社，2017年。ISBN：9787520119610.[[Link](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)]
-- 陈醒：“辨析中国风电和光伏发电补贴政策存在的问题”，王敏、徐晋涛、黄滢、谢伦裕等著，《中国风电和光伏发电补贴政策研究》，第102-149页。北京：中国社会科学出版社，2018年。ISBN：9787520326971[[Link](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)]
+- "Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)陈醒，徐晋涛：“中国碳交易试点运行进展总结”，薛进军等主编《中国低碳经济发展报告2017》第五章，北京：中国社会科学文献出版社，2017年。ISBN：9787520119610.[[Link](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)]
+- "Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese). 陈醒：“辨析中国风电和光伏发电补贴政策存在的问题”，王敏、徐晋涛、黄滢、谢伦裕等著，《中国风电和光伏发电补贴政策研究》，第102-149页。北京：中国社会科学出版社，2018年。ISBN：9787520326971[[Link](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)]
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[Link](https://link.springer.com/book/10.1007/978-981-16-4310-1)]
 
 ## Fundings and Projects
