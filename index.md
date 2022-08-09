@@ -34,12 +34,11 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
 
 ## Teaching
-- *Instructor at Fudan University*
+### *Instructor at Fudan University*
 - **Graduate Courses：** Research Methods in Social Science, Quantitative research methods in public administration
 - **Undergraduate Courses：** Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
 - **MPA Courses:** Performance evaluation and strategic management
-
-- *Teaching Assistant at Peking University*
+### *Teaching Assistant at Peking University*
 - **Graduate Courses：** Microeconomics(Institute of South-South Cooperation and Development)
 
 
