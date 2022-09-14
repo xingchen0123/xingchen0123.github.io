@@ -38,7 +38,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 ## Teaching
 ### *Instructor at Fudan University*
 - **Graduate Courses：** Research Methods in Social Science, Quantitative research methods in public administration
-- **Undergraduate Courses：** Principles of Economics,Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
+- **Undergraduate Courses：** Principles of Economics, Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
 - **MPA Courses:** Performance evaluation and strategic management
 
 ### *Teaching Assistant at Peking University*
