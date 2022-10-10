@@ -45,7 +45,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - **Graduate Courses：** Microeconomics(Institute of South-South Cooperation and Development)
 
 ## Reviewer for Journals
-- World Development, China Economic Quarterly, Journal of Chinese Political Science
+- World Development(1), China Economic Quarterly(1), Journal of Chinese Political Science(1), Chinese Political Science Review(1)
 
 
 ## Conference Presentations
