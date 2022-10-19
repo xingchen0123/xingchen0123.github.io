@@ -31,7 +31,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 ## Working in Progress
 - "Land Reform, Consultative Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with Yuanyuan Yi.
-- "Give and Take: Undertaking other citys' Pollution to Promotion" with Hanchen Jiang and Jiaheng Ling.
+- "Give and Take: Undertaking other citys' Pollution to Promotion" with Hanchen Jiang.
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
 - "Coordinated Environmental Regulation in China" with Yana Jin.
 
