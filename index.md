@@ -30,8 +30,9 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - BHP-PKU Carbon Capture, Use and Storage Research[[Link](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)]
 
 ## Working in Progress
+- "Free riding and promotion: how border effect of pollution influences promotion tournament in a multitasking context" with Hanchen Jiang and Jiaheng Ling.
+- "People's attitudes towards the Dynamic COVID-Zero Strategy" with Jianhua Xu and Jiakun Zheng.
 - "Land Reform, Consultative Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with Yuanyuan Yi.
-- "Give and Take: Undertaking other citys' Pollution to Promotion" with Hanchen Jiang.
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
 - "Coordinated Environmental Regulation in China" with Yana Jin.
 
