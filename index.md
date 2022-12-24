@@ -30,7 +30,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - BHP-PKU Carbon Capture, Use and Storage Research[[Link](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)]
 
 ## Working in Progress
-- "Negotiation to Promotion: How Heterogeneous Environmental Targets Affect Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling.
+- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling.[[Link](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510)]
 - "Counterfactual thinking and public attitude toward risk policies—— the case of covid-19" with Jianhua Xu and Jiakun Zheng.
 - "Land Reform, Consultative Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with Yuanyuan Yi.
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
