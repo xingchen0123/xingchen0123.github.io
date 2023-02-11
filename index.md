@@ -20,6 +20,14 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - **A study on the subsidy gap and large proportion of abandoned electricity generation in China for wind and photovoltaic power generation[J]. International Economic Review,2018(04):67-85+6.(In Chinese)**[[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)]
 - **Chen, Xing.,Xu, JT. Estimation of shadow prices of pollutants in chemical companies - based on parameterized directional distance function[J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2021,57(02):341-350.(in Chinese).**
 
+## Working in Progress
+- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling.[[Link](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510)]
+- "Counterfactual thinking and public attitude toward risk policies—— the case of covid-19" with Jianhua Xu and Jiakun Zheng.
+- "Land Reform, Consultative Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with Yuanyuan Yi.
+- "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
+- "Coordinated Environmental Regulation in China" with Yana Jin.
+
+
 ## Book Chapter
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[Link](https://link.springer.com/book/10.1007/978-981-16-4310-1)]
 - "Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[Link](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)]
@@ -28,13 +36,6 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 ## Fundings and Projects
 - Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank).[[Link](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)]
 - BHP-PKU Carbon Capture, Use and Storage Research[[Link](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)]
-
-## Working in Progress
-- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling.[[Link](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510)]
-- "Counterfactual thinking and public attitude toward risk policies—— the case of covid-19" with Jianhua Xu and Jiakun Zheng.
-- "Land Reform, Consultative Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with Yuanyuan Yi.
-- "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
-- "Coordinated Environmental Regulation in China" with Yana Jin.
 
 
 
@@ -46,9 +47,6 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 
 ### *Teaching Assistant at Peking University*
 - **Graduate Courses：** Microeconomics(Institute of South-South Cooperation and Development)
-
-## Reviewer for Journals
-- World Development(1), China Economic Quarterly(1), Journal of Chinese Political Science(1), Chinese Political Science Review(1)
 
 
 ## Conference Presentations
