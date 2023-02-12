@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! Welcome to my homepage! I am an assistant professor at [School of International Relations and Public Affairs at Fudan University(https://sirpa.fudan.edu.cn/)]. My research interests broadly cover environmental economics, the political economy of public policy, and especially, how environmental regulation fails and works in China. 
+Hi! Welcome to my homepage! I am an assistant professor at [School of International Relations and Public Affairs at Fudan University](https://sirpa.fudan.edu.cn/). My research interests broadly cover environmental economics, the political economy of public policy, and especially, how environmental regulation fails and works in China. 
 
 ## Education Background
 - PhD in Environmental Economics, Peking University, 2020
@@ -22,8 +22,8 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 ## Working in Progress
 - "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling.[[Link](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510)]
-- "Counterfactual thinking and public attitude toward risk policies—— the case of covid-19" with [Jianhua Xu(https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm)] and [Jiakun Zheng(http://sf.ruc.edu.cn/info/1389/9164.htm)].
-- "Land Reform, Consultative Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with [Yuanyuan Yi(https://sites.google.com/view/yuanyuanyi/home)].
+- "Counterfactual thinking and public attitude toward risk policies—— the case of covid-19" with [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) and [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm).
+- "Land Reform, Consultative Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with [Yuanyuan Yi](https://sites.google.com/view/yuanyuanyi/home).
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
 - "Coordinated Environmental Regulation in China" with Yana Jin.
 
@@ -34,8 +34,8 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 - "Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese).[[Link](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)]
 
 ## Fundings and Projects
-- [Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank)(https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)]
-- [BHP-PKU Carbon Capture, Use and Storage Research(https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)]
+- [Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank)](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)
+- [BHP-PKU Carbon Capture, Use and Storage Research](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)
 
 
 
