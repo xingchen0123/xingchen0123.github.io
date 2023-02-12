@@ -46,7 +46,7 @@ Hi! Welcome to my homepage! I am an assistant professor at School of Internation
 - **MPA Courses:** Public Economics, Performance evaluation and strategic management
 
 ### *Teaching Assistant at Peking University*
-- **Graduate Courses：** Microeconomics(Institute of South-South Cooperation and Development)
+- **Graduate Courses：** Microeconomics([[Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/)])
 
 
 ## Conference Presentations
