@@ -19,12 +19,11 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 - Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018. [[link](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)]
 - A study on the subsidy gap and large proportion of abandoned electricity generation in China for wind and photovoltaic power generation[J]. International Economic Review,2018(04):67-85+6.(In Chinese)[[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)]
 - Chen, Xing.,Xu, JT. Estimation of shadow prices of pollutants in chemical companies - based on parameterized directional distance function[J]. Acta Scientiarum Naturalium Universitatis Pekinensis,2021,57(02):341-350.(in Chinese).
-## Working papers
-- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling.
 
 ## Working in Progress
 - "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) and [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm).
 - "Land Reform, Consultative Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with [Yuanyuan Yi](https://sites.google.com/view/yuanyuanyi/home).
+- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling.
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, [Tianyang Xi](https://www.xitianyang.com/) and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm).
 - "Coordinated Environmental Regulation in China" with Yana Jin.
 
