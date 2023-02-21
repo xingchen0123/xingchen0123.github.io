@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi! Welcome to my homepage! I am an assistant professor at [School of International Relations and Public Affairs at Fudan University](https://sirpa.fudan.edu.cn/). My research interests broadly cover environmental economics, public attitudes towards environmental regulation and other public policies. 
+Hi! Welcome to my homepage! I am an assistant professor at [School of International Relations and Public Affairs at Fudan University](https://sirpa.fudan.edu.cn/). I am applied economist working on environmental and governance issues. Recently I am interesed in public attitudes towards public policies. 
+
+
 
 ## Education
 - PhD in Environmental Economics, Peking University, 2020
