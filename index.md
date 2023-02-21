@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! Welcome to my homepage! I am an assistant professor at [School of International Relations and Public Affairs at Fudan University](https://sirpa.fudan.edu.cn/). I am applied economist focusing on environmental and governance issues. My research aims to provide empirical evidence on the effectiveness, implementation process, and consultation mechanisms of public policies in China. Currently, I am interested in studying people's attitudes towards public policies, especially risk policies.
+Hi! Welcome to my homepage! I am an assistant professor at [School of International Relations and Public Affairs at Fudan University](https://sirpa.fudan.edu.cn/). I am an applied economist focusing on environmental and governance issues. My research aims to provide empirical evidence on how the heterogeneous costs and benefits affect the effectiveness of public policies in China. Currently I am interested in studying people's attitudes toward risk policies.
  
 ## Education
 - PhD in Environmental Economics, Peking University, 2020
