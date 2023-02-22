@@ -25,7 +25,7 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 ## Working in Progress
 - "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm) and [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) 
-- "Land Reform, Consultative Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with [Yuanyuan Yi](https://sites.google.com/view/yuanyuanyi/home), [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm) and Andong Zhuge.
+- "Land Reform, Grassroot Democracy and Political Trust: Evidence from China's Collective Forest Tenure Reform" with [Yuanyuan Yi](https://sites.google.com/view/yuanyuanyi/home), [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm) and Andong Zhuge.
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, [Tianyang Xi](https://www.xitianyang.com/) and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm).
 
 ## Book Chapters
