@@ -38,12 +38,12 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 ## Teaching
 ### *Instructor at Fudan University*
-- **Graduate Courses：** Research Methods in Social Science, Quantitative research methods in public administration
-- **Undergraduate Courses：** Principles of Economics, Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
+- **Graduate Courses:** Research Methods in Social Science, Quantitative research methods in public administration
+- **Undergraduate Courses:** Principles of Economics, Quantitative Research Method, Environmental policy and management, Performance Evaluation in Public Sector
 - **MPA Courses:** Public Economics, Performance evaluation and strategic management
 
 ### *Teaching Assistant at Peking University*
-- **Graduate Courses：** Microeconomics([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
+- **Graduate Courses:** Microeconomics([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
 
 
 ## Conference Presentations
