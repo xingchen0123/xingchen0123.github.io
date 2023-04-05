@@ -13,6 +13,10 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 <br>
 - B.S.in Environmental Science, Peking University, 2015
 
+## Research Interest
+- Environment and Development Economics, Chinese Economy
+
+
 ## Publications
 - [Xing Chen, Jintao Xu. Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects, Asian Development Review, vol.35, no. 2, pp. 131-152. Aug 2018.](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
 - [A study on the subsidy gap and large proportion of abandoned electricity generation in China for wind and photovoltaic power generation[J]. International Economic Review,2018(04):67-85+6.(In Chinese)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)
@@ -24,7 +28,7 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 ## Working in Progress
 - "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm) and [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) 
-- "covid-related experience and risk preference" with [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm) and [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) 
+- "Covid-related experience and risk preference" with [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm) and [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) 
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with [Xuan Wang](https://nsd.pku.edu.cn/szdw/qzjs/w/517540.htm), [Tianyang Xi](https://www.xitianyang.com/) and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm).
 
 ## Book Chapters
@@ -47,12 +51,11 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 - **Graduate Courses:** Microeconomics([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
 
 
-## Conference Presentations
-- 2021.7  Fifth CCER Summer Institute, Beijing, China
-- 2019.12 China Economic Annual Conference, Tianjin, China
-- 2019.8 The 8th Congress of the East Asian Association of Environmental and Resource Economics, China
-- 2018.6 The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
-- 2017.8 Asian Development Review Conference, Seoul, Korea
+## Conference and Seminars
+- 2021: Fifth CCER Summer Institute, Beijing, China
+- 2019: China Economic Annual Conference, Tianjin, China; The 8th Congress of the East Asian Association of Environmental and Resource Economics, Beijing, China
+- 2018: The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
+- 2017: Asian Development Review Conference, Seoul, Korea
 
 ## Other Service
 - Research Fellow, EfD in China/EEPC.[[Link](https://www.efdinitiative.org/about-efd/people/chen-xing)]
