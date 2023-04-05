@@ -14,7 +14,7 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 - B.S.in Environmental Science, Peking University, 2015
 
 ## Research Interest
-- Environment and Development Economics, Chinese Economy
+- Environmental Economics, Chinese Economy
 
 
 ## Publications
