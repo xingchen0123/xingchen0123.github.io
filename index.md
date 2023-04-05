@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi! Welcome to my homepage! I am an assistant professor at [School of International Relations and Public Affairs at Fudan University](https://sirpa.fudan.edu.cn/). I am an applied economist focusing on environmental and governance issues. My research aims to provide empirical evidence on how the heterogeneous costs and benefits affect the effectiveness of public policies in China. 
+Hi! Welcome to my homepage! I am an assistant professor at [School of International Relations and Public Affairs at Fudan University](https://sirpa.fudan.edu.cn/). I am an empiricist focusing on environmental and governance issues. My research areas include environmental economics, political economy, and Chinese economy. Currently I am particularly interested in studying public opinion towards public policies, especially risk policies. 
+
+I am particularly interested in research topics of , environment and health, and digital economy. 
 
 ## Academic Position
 - Assistant professor(2020-present), School of International Relations and Public Affairs, Fudan University
@@ -16,8 +18,6 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 <br>
 - B.S.in Environmental Science, Peking University, 2015
 
-## Research Interest
-- Environmental Economics, Chinese Economy
 
 
 ## Publications
@@ -65,7 +65,3 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 ## Other Service
 - Research Fellow, EfD in China/EEPC.[[Link](https://www.efdinitiative.org/about-efd/people/chen-xing)]
 
-## Skills
-- Stata, ArcGIS, Latex
-- Mandarian(native), Englisht(Fluent)
-- Piano, Pipa
