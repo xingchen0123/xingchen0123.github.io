@@ -24,6 +24,7 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 ## Working in Progress
 - "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm) and [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) 
+- "covid-related experience and risk preference" with [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm) and [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) 
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with [Xuan Wang](https://nsd.pku.edu.cn/szdw/qzjs/w/517540.htm), [Tianyang Xi](https://www.xitianyang.com/) and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm).
 
 ## Book Chapters
