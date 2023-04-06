@@ -67,4 +67,4 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 ## Skills
 - Language: English (Fluent); Chinese (Native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
-- Miscellaneous: Hiking, Piano, Traveling
+- Miscellaneous: Hiking, Piano
