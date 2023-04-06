@@ -64,3 +64,7 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 ## Other Service
 - Research Fellow, EfD in China/EEPC.[[Link](https://www.efdinitiative.org/about-efd/people/chen-xing)]
 
+## Skills
+- Language: English (Fluent); Chinese (Native)
+- Software: Stata, MATLAB, ArcGIS, LaTeX
+- Miscellaneous: Hiking, Piano, Traveling
