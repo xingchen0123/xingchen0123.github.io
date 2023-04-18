@@ -31,6 +31,7 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 ## Working in Progress
 - "Covid-related experience and risk preference" with Jiakun Zheng and Jianhua Xu
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
+- information exposure and awareness.
 
 ## Book Chapters
 - [Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.](https://link.springer.com/book/10.1007/978-981-16-4310-1)
