@@ -24,13 +24,13 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 
 ## Working Papers
-- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with [Hanchen Jiang](http://schpa.uibe.edu.cn//szdw/xxjs/xzglx/9b83fc2c01da4f1385242d764dbeaf3a.htm) and Jiaheng Ling. (Under Review)
-- "Land Reform, Grassroot Democracy and Political Trust: Evidence from China's Forestland Reform" with [Yuanyuan Yi](https://sites.google.com/view/yuanyuanyi/home), [Jintao Xu](https://nsd.pku.edu.cn/szdw/qzjs/x/262188.htm#) and Andong Zhuge.
-- "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm) and [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) 
+- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling. (Under Review)
+- "Land Reform, Grassroot Democracy and Political Trust: Evidence from China's Forestland Reform" with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
+- "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with Jiakun Zheng and Jianhua Xu
 
 ## Working in Progress
-- "Covid-related experience and risk preference" with [Jiakun Zheng](http://sf.ruc.edu.cn/info/1389/9164.htm) and [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) 
-- "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with [Xuan Wang](https://nsd.pku.edu.cn/szdw/qzjs/w/517540.htm), [Tianyang Xi](https://www.xitianyang.com/) and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm).
+- "Covid-related experience and risk preference" with Jiakun Zheng and Jianhua Xu
+- "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
 
 ## Book Chapters
 - [Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.](https://link.springer.com/book/10.1007/978-981-16-4310-1)
