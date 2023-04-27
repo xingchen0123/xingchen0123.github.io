@@ -3,6 +3,9 @@ position: Assistant Professor
 affiliation: Fudan University
 email: xingc (at) fudan.edu.cn
 keywords: Xing Chen
+
+# If you don't need one of them, you may delete the corresponding line.
+# cv_link: assets/files/curriculum_vitae.pdf
 google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=LvEEvEgAAAAJ
 avatar: ./assets/img/2.2_meitu_cut.jpg
 google_analytics: UA-111540567-4
