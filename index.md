@@ -34,7 +34,7 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 - "Information exposure and Awareness"
 
 ## Book Chapters
-- Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[link](https://link.springer.com/book/10.1007/978-981-16-4310-1)
+- Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
 - Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[link]](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)
 - Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese).[[link]](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)
 
