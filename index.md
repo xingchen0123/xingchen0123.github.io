@@ -24,15 +24,14 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 
 ## Working Papers
-- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling. (Under Review)
+- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling. *Under Review*
 - "Land Reform, Grassroot Democracy and Political Trust: Evidence from China's Forestland Reform" with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
 - "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with Jiakun Zheng and Jianhua Xu
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
 
-
 ## Working in Progress
 - "Covid-related experience and risk preference" with Jiakun Zheng and Jianhua Xu
-- Information exposure and Awareness.
+- "Information exposure and Awareness"
 
 ## Book Chapters
 - [Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.](https://link.springer.com/book/10.1007/978-981-16-4310-1)
@@ -53,7 +52,6 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 ### *Teaching Assistant at Peking University*
 - **Graduate Courses:** Microeconomics([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
-
 
 ## Conference and Invited talks
 - 2023: Political Science Speaker Series(virtual) 
