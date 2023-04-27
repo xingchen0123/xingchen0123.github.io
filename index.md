@@ -19,8 +19,8 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 
 ## Publications
-- Chen, Xing, and Jintao Xu. 2018. “Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects.” Asian Development Review 35(2): 131–52.[link](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
-- United Research Group of China Center for Energy and Development at Peking University,and Department of Energy Economics at Renmin University of China. 2018. “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China.” International Economic Review (4): 67-85+6.(in Chinese)[link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)
+- Chen, Xing, and Jintao Xu. 2018. “Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects.” Asian Development Review 35(2): 131–52.[[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
+- United Research Group of China Center for Energy and Development at Peking University,and Department of Energy Economics at Renmin University of China. 2018. “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China.” International Economic Review (4): 67-85+6.(in Chinese)[[link]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)
 
 
 ## Working Papers
@@ -35,13 +35,13 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 ## Book Chapters
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[link](https://link.springer.com/book/10.1007/978-981-16-4310-1)
-- Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[link](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)
-- Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese).[link](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)
+- Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[link]](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)
+- Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese).[[link]](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)
 
 
 ## Fundings and Projects
-- Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank)[link](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)
-- BHP-PKU Carbon Capture, Use and Storage Research[link](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)
+- Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank)[[link]](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)
+- BHP-PKU Carbon Capture, Use and Storage Research[[link]](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)
 
 
 ## Teaching
