@@ -24,9 +24,9 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 
 ## Working Papers
-- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling. [[link]]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433178](https://www.researchgate.net/publication/370398304_Addressing_multitasking_problems_through_promotion_incentives_Addressing_multitasking_problems_through_promotion_incentives))*Under Review*
+- "Free Riding and Promotion: How Border Effect of Pollution Influences Promotion Tournament in a Multitasking Context" with Hanchen Jiang and Jiaheng Ling. [[link]](https://www.researchgate.net/publication/370398304_Addressing_multitasking_problems_through_promotion_incentives_Addressing_multitasking_problems_through_promotion_incentives)*Under Review*
 - "Land Reform, Grassroot Democracy and Political Trust: Evidence from China's Forestland Reform" with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
-- "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with Jiakun Zheng and Jianhua Xu. [[link]]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433193](https://www.researchgate.net/publication/370398301_Public_attitudes_towards_the_zero-COVID_policy_in_China_the_sound_of_the_silent_majority))
+- "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with Jiakun Zheng and Jianhua Xu. [[link]](https://www.researchgate.net/publication/370398301_Public_attitudes_towards_the_zero-COVID_policy_in_China_the_sound_of_the_silent_majority)
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
 
 ## Working in Progress
