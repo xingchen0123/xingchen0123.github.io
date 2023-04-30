@@ -31,7 +31,7 @@ Hi! Welcome to my homepage! I am an assistant professor at [School of Internatio
 
 ## Working in Progress
 - "Covid-related experience and risk preference" with Jiakun Zheng and Jianhua Xu
-- "Information exposure and Awareness"
+- "Information exposure and Awareness" with Xiaoxiao Shen.
 
 ## Book Chapters
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
