@@ -30,7 +30,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
 
 ## Working in Progress
-- "Heterogeneous Satisfaction" with Fan Xia
+- "Environmental Regulation and Heterogeneous Satisfaction" with Fan Xia
 - "Experience and Risk Preference" with Yana Jin, Jiakun Zheng and Jianhua Xu. 
 
 ## Book Chapters
