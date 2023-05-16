@@ -54,9 +54,9 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - **Graduate Courses:** Microeconomics([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
 
 ## Conference and Invited talks
-- 2023: Political Science Speaker Series(virtual) 
+- 2023: China Economics Annual Conference, Guangzhou, China; Political Science Speaker Series, virtual 
 - 2021: CCER Summer Institute, Beijing, China
-- 2019: China Economic Annual Conference, Tianjin, China; The 8th Congress of the East Asian Association of Environmental and Resource Economics, Beijing, China
+- 2019: China Economics Annual Conference, Tianjin, China; The 8th Congress of the East Asian Association of Environmental and Resource Economics, Beijing, China
 - 2018: The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
 - 2017: Asian Development Review Conference, Seoul, Korea
 
