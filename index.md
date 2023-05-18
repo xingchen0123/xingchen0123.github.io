@@ -60,6 +60,8 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - 2018: The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
 - 2017: Asian Development Review Conference, Seoul, Korea
 
+## Referee for
+World Development, 经济学季刊, Journal of Chinese Political Science, Chinese Political Science Review, Global public policy and governance
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
