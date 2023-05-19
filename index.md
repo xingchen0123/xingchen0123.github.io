@@ -23,7 +23,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 
 ## Working Papers
-- "Addressing multitasking problems through promotion incentives" with Hanchen Jiang and Jiaheng Ling. [[link]](https://www.researchgate.net/publication/370398425_Addressing_multitasking_problems_through_promotion_incentives#fullTextFileContent) *Under Review*
+- "Addressing multitasking problems through promotion incentives" with Hanchen Jiang and Jiaheng Ling. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612) *Under Review*
 - "Land Reform, Grassroot Democracy and Political Trust: Evidence from China’s Collective Forest Tenure Reform." with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
 - "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with Jiakun Zheng and Jianhua Xu. 
 - "Information Disclosure and Political trust" with Xiaoxiao Shen.
@@ -61,7 +61,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - 2017: Asian Development Review Conference, Seoul, Korea
 
 ## Referee for
-World Development, China Economic Quarterly(经济学季刊), Journal of Chinese Political Science, Chinese Political Science Review, Global public policy and governance
+World Development, China Economic Quarterly(经济学季刊), Journal of Chinese Political Science
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
