@@ -7,7 +7,7 @@ layout: homepage
 Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist focusing on environmental economics, public opinion, and related governance topics. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies in comtemporary China. 
 
 ## Academic Position
-- Assistant professor(2020-present), School of International Relations and Public Affairs, Fudan University
+- Assistant professor (2020-present), School of International Relations and Public Affairs, Fudan University
  
 ## Education
 - PhD in Environmental Economics, Peking University, 2020
@@ -19,20 +19,20 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 ## Publications
 - Chen, Xing, and Jintao Xu. 2018. “Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects.” Asian Development Review 35(2): 131–52.[[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
-- United Research Group of China Center for Energy and Development at Peking University,and Department of Energy Economics at Renmin University of China. 2018. “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China.” International Economic Review (4): 67-85+6.(in Chinese)[[link]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)
+- United Research Group of China Center for Energy and Development at Peking University, and Department of Energy Economics at Renmin University of China. 2018. “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China.” International Economic Review (4): 67-85+6.(in Chinese)[[link]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5nJEjc-IgpmA_sNq0xJpMq2)
 
 
 ## Working Papers
 - "Addressing multitasking problems through promotion incentives" with Hanchen Jiang and Jiaheng Ling. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612) *Under Review* 
 - "Land reform, grassroot democracy, and political trust: evidence from China forest tenure reform" with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
 - "Living with COVID versus zero COVID: public attitudes towards risk policies—— the case of covid-19" with Jiakun Zheng and Jianhua Xu. 
-- "Information Disclosure and Political trust" with Xiaoxiao Shen.
+- "Information Disclosure and Political trust" with Xiaoxiao Shen and Andong Zhuge.
 - "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis" with Xuan Wang, Tianyang Xi and Jintao Xu.
 
 ## Working in Progress
 - "Heterogeneous Satisfaction" with Fan Xia
-- "Shared hometown prosperity: the impact of the same origins"
-- "Experience and Risk Preference" with Yana Jin, Jiakun Zheng and Jianhua Xu. 
+- "Shared hometown prosperity: the impact of the same origins" with Hanchen Jiang.
+- "Experience and Risk Preference" with Yana Jin, Jiakun Zheng and Jianhua Xu.
 
 ## Book Chapters
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
@@ -55,14 +55,14 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - **Graduate Courses:** Microeconomics([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
 
 ## Conference and Invited talks
-- 2023: CCER Summer Institute(scheduled); China Economics Annual Conference; Political Science Speaker Series(virtual)
+- 2023: PKU-Fudan National Governance Forum (scheduled); CCER Summer Institute (scheduled); China Economics Annual Conference; Political Science Speaker Series (virtual)
 - 2021: CCER Summer Institute
 - 2019: China Economics Annual Conference; The 8th Congress of the East Asian Association of Environmental and Resource Economics
 - 2018: The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
 - 2017: Asian Development Review Conference, Seoul, Korea
 
 ## Referee for
-World Development, China Economic Quarterly(经济学季刊), Journal of Chinese Political Science, Chinese Political Science Review
+World Development, China Economic Quarterly (经济学季刊), Journal of Chinese Political Science, Chinese Political Science Review
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
