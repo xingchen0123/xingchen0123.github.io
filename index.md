@@ -24,7 +24,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 ## Working Papers
 - "Addressing multitasking problems through promotion incentives" with Hanchen Jiang and Jiaheng Ling. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612) *Under Review* 
-- "Complete democracy or complete dictatorship?" with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
+- "Land reform, grassroot democracy, and political trust: evidence from China forest tenure reform" with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
 - "Living with COVID versus zero COVID: public attitude toward risk policies—— the case of covid-19" with Jiakun Zheng and Jianhua Xu. 
 - "Information Disclosure and Political trust" with Xiaoxiao Shen.
 - "Economic Efficiency, Abatement Cost and Environmental Tax for Firms in China: A Shadow Price Approach" with Xuan Wang, Tianyang Xi and Jintao Xu.
