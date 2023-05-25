@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist focusing on environmental economics, public opinion, and related governance topics. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies in comtemporary China. 
+Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist focusing on environmental economics, public opinion, and related governance topics. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
 
 ## Academic Position
 - Assistant professor (2020-present), School of International Relations and Public Affairs, Fudan University
@@ -26,12 +26,12 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - "Addressing multitasking problems through promotion incentives" with Hanchen Jiang and Jiaheng Ling. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612) *Under Review* 
 - "Land reform, grassroot democracy, and political trust: evidence from China forest tenure reform" with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
 - "Living with COVID versus zero COVID: public attitudes towards risk policies—— the case of covid-19" with Jiakun Zheng and Jianhua Xu. 
-- "Information Disclosure and Political trust" with Xiaoxiao Shen and Andong Zhuge.
+- "Information Disclosure and political trust" with Xiaoxiao Shen and Andong Zhuge.
 - "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis" with Xuan Wang, Tianyang Xi and Jintao Xu.
 
 ## Working in Progress
 - "Heterogeneous Satisfaction" with Fan Xia
-- "Shared hometown prosperity: the impact of the same origins" with Hanchen Jiang.
+- "Shared hometown prosperity" with Hanchen Jiang.
 - "Experience and Risk Preference" with Yana Jin, Jiakun Zheng and Jianhua Xu.
 
 ## Book Chapters
