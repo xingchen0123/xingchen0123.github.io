@@ -31,7 +31,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 ## Working in Progress
 - "Heterogeneous Satisfaction" with Fan Xia
-- "Shared hometown prosperity" with Hanchen Jiang.
+- "Shared hometown prosperity" 
 - "Experience and Risk Preference" with Yana Jin, Jiakun Zheng and Jianhua Xu.
 
 ## Book Chapters
