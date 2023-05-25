@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist focusing on **environmental economics**, **public opinion**, and related governance topics. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies in comtemporary China. 
+Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist focusing on environmental economics, public opinion, and related governance topics. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies in comtemporary China. 
 
 ## Academic Position
 - Assistant professor(2020-present), School of International Relations and Public Affairs, Fudan University
@@ -55,7 +55,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - **Graduate Courses:** Microeconomics([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
 
 ## Conference and Invited talks
-- 2023: CCER Summer Institute; China Economics Annual Conference; Political Science Speaker Series(virtual)
+- 2023: CCER Summer Institute(scheduled); China Economics Annual Conference; Political Science Speaker Series(virtual)
 - 2021: CCER Summer Institute
 - 2019: China Economics Annual Conference; The 8th Congress of the East Asian Association of Environmental and Resource Economics
 - 2018: The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
