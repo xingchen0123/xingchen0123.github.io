@@ -33,6 +33,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - "Heterogeneous Satisfaction" with Fan Xia
 - "Shared hometown prosperity" 
 - "learning and counterfactual thinking" with Yana Jin, Jiakun Zheng and Jianhua Xu.
+- "Cross-border Media Exposure" with Renji Zhou, Qingjie Zeng
 
 ## Book Chapters
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
