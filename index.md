@@ -53,7 +53,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - **MPA Courses:** Public Economics, Performance evaluation and strategic management
 
 ### *Teaching Assistant at Peking University*
-- **Graduate Courses:** Microeconomics ([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
+- **Graduate Courses:** Microeconomics ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
 
 ## Conference and Invited talks
 - 2023: PKU-Fudan National Governance Forum (scheduled); CCER Summer Institute (scheduled); China Economics Annual Conference; Political Science Speaker Series (virtual)
