@@ -31,7 +31,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 ## Working in Progress
 - "Heterogeneous Satisfaction" with Fan Xia
-- "learning through infection" with Yana Jin, Jiakun Zheng and Jianhua Xu.
+- "learning and counterfactual thinking" with Yana Jin, Jiakun Zheng and Jianhua Xu.
 - "Cross-border Media Exposure" with Renji Zhou, Qingjie Zeng
 
 ## Book Chapters
