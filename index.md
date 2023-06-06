@@ -19,7 +19,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 ## Publications
 - Chen, Xing, and Jintao Xu. 2018. “Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects.” Asian Development Review 35(2): 131–52.[[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
-- United Research Group of China Center for Energy and Development at Peking University, and Department of Energy Economics at Renmin University of China. 2018. “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China.” International Economic Review (4): 67-85+6.(in Chinese)[[link]]([https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i0-kJR0HYBJ80QN9L51zrP966MayE9SnlIqGs1LWo67oVZeyahNUzo-ufK2V9pawy&uniplatform=NZKPT](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=NZKPT))
+- United Research Group of China Center for Energy and Development at Peking University, and Department of Energy Economics at Renmin University of China. 2018. “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China.” International Economic Review (4): 67-85+6.(in Chinese)[[link]](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=OVERSEA&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5kwko9MWWXZVS7HRJIIzrBd)
 
 
 ## Working Papers
