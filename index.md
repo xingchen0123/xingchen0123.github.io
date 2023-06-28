@@ -26,7 +26,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - "Addressing multitasking problems through promotion incentives" with Hanchen Jiang and Jiaheng Ling. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612) *Revise and Resubmit* 
 - "Land reform, grassroot democracy, and political trust: evidence from China forest tenure reform" with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
 - "Public attitudes towards COVID policy" with Jiakun Zheng and Jianhua Xu. *submitted*
-- "Pollution Matters: The Political Impact of Information Disclosure" with Xiaoxiao Shen and Andong Zhuge.[[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089) *submitted*
+- "Pollution Matters: The Political Impact of Information Disclosure" with Xiaoxiao Shen and Andong Zhuge.[[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089) *under review*
 - "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis" with Xuan Wang, Tianyang Xi and Jintao Xu. *Submitted*
 
 ## Working in Progress
