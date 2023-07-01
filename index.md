@@ -30,10 +30,11 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis" with Xuan Wang, Tianyang Xi and Jintao Xu. *Submitted*
 
 ## Working in Progress
-- "Heterogeneous satisfaction" with Fan Xia
-- "learning and counterfactual thinking" with Yana Jin, Jiakun Zheng and Jianhua Xu.
+- "learning and counterfactual thinking" with Yana Jin, Jiakun Zheng and Jianhua Xu
+- "Shared hometown prosperity" with Xiaoxiao Shen and Hanchen Jiang
 - "Cross-border Media Exposure" with Renji Zhou, Qingjie Zeng
-- "Shared hometown prosperity"
+- "Heterogeneous satisfaction" with Fan Xia
+
 
 ## Book Chapters
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
