@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist focusing on environmental economics, public opinion, and related governance topics. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
+Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist focusing on *environmental economics, public opinion, and political economy*. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
 
 ## Academic Position
 - Assistant professor (2020-present), School of International Relations and Public Affairs, Fudan University
@@ -25,14 +25,14 @@ Hi! I am an assistant professor at [School of International Relations and Public
 ## Working Papers
 - "Addressing multitasking problems through promotion incentives" with Hanchen Jiang and Jiaheng Ling. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612) *Revise and Resubmit* 
 - "Land reform, grassroot democracy, and political trust: evidence from China forest tenure reform" with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
-- "Public attitudes towards COVID policy" with Jiakun Zheng and Jianhua Xu. *submitted*
+- "Public attitudes towards COVID policy" with Jiakun Zheng and Jianhua Xu. *under review*
 - "Pollution Matters: The Political Impact of Information Disclosure" with Xiaoxiao Shen and Andong Zhuge.[[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089) *under review*
-- "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis" with Xuan Wang, Tianyang Xi and Jintao Xu. *Submitted*
+- "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis" with Xuan Wang, Tianyang Xi and Jintao Xu.*submitted*
 
 ## Working in Progress
-- "learning and counterfactual thinking" with Yana Jin, Jiakun Zheng and Jianhua Xu
+- "Learning through infection" with Yana Jin, Jiakun Zheng and Jianhua Xu
 - "Shared hometown prosperity" with Xiaoxiao Shen and Hanchen Jiang
-- "Cross-border Media Exposure" with Renji Zhou, Qingjie Zeng
+- "Cross-border media exposure" with Renji Zhou, Qingjie Zeng
 - "Heterogeneous satisfaction" with Fan Xia
 
 
