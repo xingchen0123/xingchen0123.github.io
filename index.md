@@ -33,7 +33,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - "Learning through infection" with Yana Jin, Jiakun Zheng and Jianhua Xu
 - "Shared hometown prosperity" with Xiaoxiao Shen and Hanchen Jiang
 - "Cross-border media exposure" with Renji Zhou, Qingjie Zeng
-- "Heterogeneous satisfaction" with Fan Xia
+- "The heterogeneous satisfaction with environmental regulation in China" with Fan Xia
 
 
 ## Book Chapters
