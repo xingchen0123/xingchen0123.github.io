@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist focusing on *environmental economics, public opinion, and political economy*. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
+Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist focusing on **environmental economics, public opinion, and political economy**. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
 
 ## Academic Position
 - Assistant professor (2020-present), School of International Relations and Public Affairs, Fudan University
