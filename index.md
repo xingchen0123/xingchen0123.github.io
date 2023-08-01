@@ -81,4 +81,4 @@ World Development, China Economic Quarterly (经济学季刊), Journal of Chines
 ## Skills
 - Language: English (Fluent); Chinese (Native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
-- Miscellaneous: Hiking, Piano
+- Miscellaneous: Hiking, Piano, Astrology
