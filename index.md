@@ -76,7 +76,7 @@ World Development, China Economic Quarterly (经济学季刊), Journal of Chines
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
-- Bilibili: [Content Creator](https://space.bilibili.com/5577989?spm_id_from=333.337.0.0) (I occasionally upload econometric lecture video into bilibili :))
+- Bilibili: [Content Creator](https://space.bilibili.com/5577989?spm_id_from=333.337.0.0) (I occasionally upload econometrics lecture video into bilibili :))
 
 ## Skills
 - Language: English (Fluent); Chinese (Native)
