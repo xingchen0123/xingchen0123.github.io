@@ -64,25 +64,25 @@ Hi! I am an assistant professor at [School of International Relations and Public
 ## Teaching
 At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels. At Peking University, I taught an graduate-level microeconomics for international students. You can find a summary of these courses below.
 ### *Instructor at Fudan University*
-- **Research Methods in Social Science**: Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
+- **Research Methods in Social Science**: POLI620041, Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
   (Student evaluations: 99.76/100)
 
-- **Quantitative research methods in public administration**: Graduate Course. An advanced course covering panel data analysis, as well as elementary techniques for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to manipulate data, create graphs and tables, and conduct basic statistical analysis.
+- **Quantitative research methods in public administration**: POLI630112, Graduate Course. An advanced course covering panel data analysis, as well as elementary techniques for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to manipulate data, create graphs and tables, and conduct basic statistical analysis.
   (Student evaluations: 99.64/100)
 
-- **Principles of Economics**: Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan
+- **Principles of Economics**: POLI130004, Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan
   (Student evaluations: 93.1/100)
   
-- **Quantitative Research Method**: Undergraduate Course. An introduction course covering basic statistical analysis.
+- **Quantitative Research Method**: POLI130173, Undergraduate Course. An introduction course covering basic statistical analysis.
   (Student evaluations: 89.76/100)
   
-- **Environmental policy and management**: Undergraduate Course. This course provides an overview of China's environmental governance system. We will begin with a brief historical overview of China's environmental regulation development from 2000 to the present.
+- **Environmental policy and management**: POLI130226, Undergraduate Course. This course provides an overview of China's environmental governance system. We will begin with a brief historical overview of China's environmental regulation development from 2000 to the present.
   (Student evaluations: 92.44/100)
   
-- **Performance Evaluation in Public Sector**: Undergraduate Course. An introductory course for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM).
+- **Performance Evaluation in Public Sector**: POLI130114, Undergraduate Course. An introductory course for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM).
   (Student evaluations: 95.87/100)
   
-- **Public Economics**: MPA course
+- **Public Economics**:MPA630060, MPA course,  (Student evaluations: 99.55/100)
 - **Performance evaluation and strategic management**: MPA course
 
 ### *Teaching Assistant at Peking University*
