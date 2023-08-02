@@ -66,7 +66,14 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 ### *Instructor at Fudan University*
 - **Graduate Courses:**
   - Research Methods in Social Science
+    
+  This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
+(Student evaluations: 99.76/100)
+
   - Quantitative research methods in public administration
+    An advanced course covering panel data analysis, as well as elementary techniques for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to manipulate data, create graphs and tables, and conduct basic statistical analysis.
+(Student evaluations: 99.64/100)
+
 - **Undergraduate Courses:**
   - Principles of Economics
   - Quantitative Research Method
