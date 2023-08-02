@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist currently working on topics including **Public Opinion, Environmental Governance, and Political Economy**, with the regional focus on China. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
 
-​Please find my CV [here](https://www.dropbox.com/s/q33l9ng9wgw2isf/CV_XingChen_June2023.pdf?dl=0), my SSRN profile [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510), and my Google Scholar profile [here](https://scholar.google.com/citations?hl=zh-CN&user=LvEEvEgAAAAJ).
+​Please find my CV [here](https://www.dropbox.com/s/hnvkp0tzn1bh0p6/CV_XingChen_June2023.pdf?dl=0), my SSRN profile [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510), and my Google Scholar profile [here](https://scholar.google.com/citations?hl=zh-CN&user=LvEEvEgAAAAJ).
 
 ## Academic Position
 - Assistant professor (2020-present), School of International Relations and Public Affairs, Fudan University
