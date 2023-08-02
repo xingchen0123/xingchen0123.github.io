@@ -104,6 +104,10 @@ World Development, China Economic Quarterly (经济学季刊), Journal of Chines
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
 - [Bilibili: Content Creator](https://space.bilibili.com/5577989?spm_id_from=333.337.0.0) (I occasionally upload econometrics lecture video into bilibili)
 
+## RA opportunity
+I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
+Previously, I advised Xintian Wang (Fudan), Renji Zhou ( U Michigan), Andong Zhuge (Fudan), Jiaheng Ling (Tshinghua)
+
 ## Skills
 - Language: English (Fluent); Chinese (Native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
