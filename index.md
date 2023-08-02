@@ -72,12 +72,16 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 
 - **Principles of Economics**: Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan
   (Student evaluations: 93.1/100)
+  
 - **Quantitative Research Method**: Undergraduate Course. An introduction course covering basic statistical analysis.
   (Student evaluations: 89.76/100)
+  
 - **Environmental policy and management**: Undergraduate Course. This course provides an overview of China's environmental governance system. We will begin with a brief historical overview of China's environmental regulation development from 2000 to the present.
   (Student evaluations: 92.44/100)
+  
 - **Performance Evaluation in Public Sector**: Undergraduate Course. An introductory course for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM).
   (Student evaluations: 95.87/100)
+  
 - **Public Economics**: MPA course
 - **Performance evaluation and strategic management**: MPA course
 
