@@ -44,7 +44,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
     Abstract:This paper presents an in-depth analysis of the Marginal Abatement Cost Curve (MACC) for CO2 of China’s industrial sector. Leveraging comprehensive firm-level panel data spanning the period 2011-2015, we employ a parameterized directional output distance function to estimate the shadow price of CO2. By doing so, we derive the marginal abatement cost for individual firms across different years, which provides crucial insights into two fundamental aspects: first, the variation in shadow prices as indicators of the economic efficiency of existing climate policies; and second, the carbon price levels necessary to achieve CO2 mitigation targets in the future. Furthermore, we conduct scenario simulations to assess the potential industrial output loss resulting from forthcoming carbon policies, such as the European Union's Carbon Border Adjustment Mechanism (CBAM). Our findings underscore the necessity for a considerably higher tax rate to stimulate pollution reduction in order to meet the desired emission targets.
 
 ## Working in Progress
-- "Learning through infection", with Yana Jin, Jiakun Zheng and Jianhua Xu
+- "Learning through infection", with [Yana Jin](http://scholar.pku.edu.cn/yjin/bio), Jiakun Zheng and Jianhua Xu
 - "Shared hometown prosperity" with Xiaoxiao Shen and Hanchen Jiang
 - "Cross-border media exposure" with Renji Zhou, Qingjie Zeng
 - "The heterogeneous satisfaction with environmental regulation in China" with [Fan Xia](https://scholar.google.com/citations?user=xhdRNSEAAAAJ&hl=en)
