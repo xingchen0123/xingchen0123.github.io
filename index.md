@@ -19,7 +19,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 ## Publications
 - “Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects” with [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm),  *Asian Development Review*, 2018, 35(2): 131–52.[[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
-- “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China.” International Economic Review,2018, (4): 67-85+6.(in Chinese)[[link]](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=OVERSEA&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5kwko9MWWXZVS7HRJIIzrBd)
+- “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China”, *International Economic Review*, 2018, (4): 67-85+6.(in Chinese)[[link]](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=OVERSEA&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5kwko9MWWXZVS7HRJIIzrBd)
 
 
 ## Working Papers
