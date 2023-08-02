@@ -43,7 +43,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
   
 - *"Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis", First author with [Xuan Wang](https://sites.google.com/umich.edu/xuanwang/home), [Tianyang Xi](https://www.xitianyang.com/) and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm).*submitted*.*
   
-    Abstract:This paper presents an in-depth analysis of the Marginal Abatement Cost Curve (MACC) for CO2 of China’s industrial sector. Leveraging comprehensive firm-level panel data spanning the period 2011-2015, we employ a parameterized directional output distance function to estimate the shadow price of CO2. By doing so, we derive the marginal abatement cost for individual firms across different years, which provides crucial insights into two fundamental aspects: first, the variation in shadow prices as indicators of the economic efficiency of existing climate policies; and second, the carbon price levels necessary to achieve CO2 mitigation targets in the future. Furthermore, we conduct scenario simulations to assess the potential industrial output loss resulting from forthcoming carbon policies, such as the European Union's Carbon Border Adjustment Mechanism (CBAM). Our findings underscore the necessity for a considerably higher tax rate to stimulate pollution reduction in order to meet the desired emission targets.
+    Abstract: This paper presents an in-depth analysis of the Marginal Abatement Cost Curve (MACC) for CO2 of China’s industrial sector. Leveraging comprehensive firm-level panel data spanning the period 2011-2015, we employ a parameterized directional output distance function to estimate the shadow price of CO2. By doing so, we derive the marginal abatement cost for individual firms across different years, which provides crucial insights into two fundamental aspects: first, the variation in shadow prices as indicators of the economic efficiency of existing climate policies; and second, the carbon price levels necessary to achieve CO2 mitigation targets in the future. Furthermore, we conduct scenario simulations to assess the potential industrial output loss resulting from forthcoming carbon policies, such as the European Union's Carbon Border Adjustment Mechanism (CBAM). Our findings underscore the necessity for a considerably higher tax rate to stimulate pollution reduction in order to meet the desired emission targets.
 
 ## Working in Progress
 - "Learning through infection", with [Yana Jin](http://scholar.pku.edu.cn/yjin/bio), Jiakun Zheng and Jianhua Xu
@@ -66,26 +66,26 @@ Hi! I am an assistant professor at [School of International Relations and Public
 ## Teaching
 At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels. At Peking University, I taught an graduate-level microeconomics for international students. You can find a summary of these courses below.
 ### *Instructor at Fudan University*
-- **Research Methods in Social Science**: POLI620041, Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
+- **Research Methods in Social Science (社会科学研究方法)**: POLI620041, Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
   (Student evaluations: 99.76/100)
 
-- **Quantitative research methods in public administration**: POLI630112, Graduate Course. An advanced course covering panel data analysis, as well as elementary techniques for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to manipulate data, create graphs and tables, and conduct basic statistical analysis.
+- **Quantitative research methods in public administration (公共行政学定量研究方法)**: POLI630112, Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to manipulate data, create graphs and tables, and conduct basic statistical analysis.
   (Student evaluations: 99.64/100)
 
-- **Principles of Economics**: POLI130004, Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan
+- **Principles of Economics (西方经济学基础)**: POLI130004, Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan
   (Student evaluations: 93.1/100)
   
-- **Quantitative Research Method**: POLI130173, Undergraduate Course. An introduction course covering basic statistical analysis.
+- **Quantitative Research Method (定量研究方法)**: POLI130173, Undergraduate Course. An introduction course covering basic statistical analysis.
   (Student evaluations: 89.76/100)
   
-- **Environmental policy and management**: POLI130226, Undergraduate Course. This course provides an overview of China's environmental governance system. We will begin with a brief historical overview of China's environmental regulation development from 2000 to the present.
+- **Environmental policy and management (环境政策与管理)**: POLI130226, Undergraduate Course. This course provides an overview of China's environmental governance system. We will begin with a brief historical overview of China's environmental regulation development from 2000 to the present.
   (Student evaluations: 92.44/100)
   
-- **Performance Evaluation in Public Sector**: POLI130114, Undergraduate Course. An introductory course for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM).
+- **Performance Evaluation in Public Sector (公共部门绩效评估)**: POLI130114, Undergraduate Course. An introductory course for causal inference and policy evaluation techniques in the context of China governance.
   (Student evaluations: 95.87/100)
   
-- **Public Economics**:MPA630060, MPA course,  (Student evaluations: 99.55/100)
-- **Performance evaluation and strategic management**: MPA course
+- **Public Economics (公共经济学)**:MPA630060, MPA course,  (Student evaluations: 99.55/100)
+- **Performance evaluation and strategic management (绩效评价与战略管理)**: MPA course
 
 ### *Teaching Assistant at Peking University*
 -  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
