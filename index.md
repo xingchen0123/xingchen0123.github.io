@@ -71,14 +71,31 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 (Student evaluations: 99.76/100)
 
   - Quantitative research methods in public administration
-    An advanced course covering panel data analysis, as well as elementary techniques for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to manipulate data, create graphs and tables, and conduct basic statistical analysis.
+  
+  An advanced course covering panel data analysis, as well as elementary techniques for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to manipulate data, create graphs and tables, and conduct basic statistical analysis.
 (Student evaluations: 99.64/100)
 
 - **Undergraduate Courses:**
   - Principles of Economics
+    
+  An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.
+(Student evaluations: 93.1/100)
+
   - Quantitative Research Method
+    
+     An introduction course covering basic statistical analysis.
+(Student evaluations: 89.76/100)
+
   - Environmental policy and management
+    
+    This course provides an overview of China's environmental governance system. We will begin with a brief historical overview of China's environmental regulation development from 2000 to the present. 
+(Student evaluations: 92.44/100)
+
   - Performance Evaluation in Public Sector
+    
+        An introductory course for causal inference, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM).
+(Student evaluations: 95.87/100)
+
 - **MPA Courses:**
   - Public Economics
   - Performance evaluation and strategic management
