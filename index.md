@@ -18,16 +18,16 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 
 ## Publications
-- “Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects”,  Co-first author with [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm),  *Asian Development Review*, 2018, 35(2): 131–52.[[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
+- “Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects”,  First author with [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm),  *Asian Development Review*, 2018, 35(2): 131–52.[[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
 - “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China”, *International Economic Review*, 2018, (4): 67-85+6.(in Chinese)[[link]](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=OVERSEA&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5kwko9MWWXZVS7HRJIIzrBd)
 
 
 ## Working Papers
-- "Addressing multitasking problems through promotion incentives", Co-First author with Hanchen Jiang and Jiaheng Ling. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612) *Revise and Resubmit*
-- "The impact of grassroot democracy on hierarchical government trust in rural China", Co-First author  with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
-- "Public attitudes towards COVID policy", Co-First author with Jiakun Zheng and Jianhua Xu. *submitted*
-- "Pollution Matters: The Political Impact of Information Disclosure", Co-First and Corresponding author with Xiaoxiao Shen and Andong Zhuge.[[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089) *under review*
-- "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis", Co-First author with Xuan Wang, Tianyang Xi and Jintao Xu.*submitted*
+- "Addressing multitasking problems through promotion incentives", First author with Hanchen Jiang and Jiaheng Ling. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612) *Revise and Resubmit*
+- "The impact of grassroot democracy on hierarchical government trust in rural China", First author  with Yuanyuan Yi, Jintao Xu and Andong Zhuge.
+- "Public attitudes towards COVID policy", First author with Jiakun Zheng and Jianhua Xu. *submitted*
+- "Pollution Matters: The Political Impact of Information Disclosure", First and Corresponding author with Xiaoxiao Shen and Andong Zhuge.[[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089) *under review*
+- "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis", First author with Xuan Wang, Tianyang Xi and Jintao Xu.*submitted*
 
 ## Working in Progress
 - "Learning through infection", with Yana Jin, Jiakun Zheng and Jianhua Xu
