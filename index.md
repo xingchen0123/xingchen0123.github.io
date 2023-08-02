@@ -25,9 +25,9 @@ Hi! I am an assistant professor at [School of International Relations and Public
 ## Working Papers
 - "Addressing multitasking problems through promotion incentives", First author with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/xzglx/9b83fc2c01da4f1385242d764dbeaf3a.htm) and Jiaheng Ling. [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612) *Revise and Resubmit*
 - "Pollution Matters: The Political Impact of Information Disclosure", First and Corresponding author with [Xiaoxiao Shen](https://xiaoxiaoshen.co/) and Andong Zhuge.[[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089) *under review*
-- "The impact of grassroot democracy on hierarchical government trust in rural China", First author  with [Yuanyuan Yi](https://sites.google.com/view/yuanyuanyi/home), Jintao Xu and Andong Zhuge.
-- "Public attitudes towards COVID policy", First author with Jiakun Zheng and Jianhua Xu. *submitted*
-- "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis", First author with Xuan Wang, Tianyang Xi and Jintao Xu.*submitted*
+- "The impact of grassroot democracy on hierarchical government trust in rural China", First author  with [Yuanyuan Yi](https://sites.google.com/view/yuanyuanyi/home), [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm) and Andong Zhuge.
+- "Public attitudes towards COVID policy", First author with [Jiakun Zheng](https://scholar.google.com/citations?user=c-6NWRcAAAAJ&hl=fr) and [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm). *submitted*
+- "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis", First author with [Xuan Wang](https://sites.google.com/umich.edu/xuanwang/home), [Tianyang Xi](https://www.xitianyang.com/) and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm).*submitted*
 
 ## Working in Progress
 - "Learning through infection", with Yana Jin, Jiakun Zheng and Jianhua Xu
