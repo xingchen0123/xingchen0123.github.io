@@ -111,4 +111,4 @@ Previously, I advised Xintian Wang (Fudan), Renji Zhou (U Michigan), Andong Zhug
 ## Skills
 - Language: English (Fluent); Chinese (Native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
-- Miscellaneous: Hiking, Piano, Astrology
+- Miscellaneous: Hiking, Piano
