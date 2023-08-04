@@ -78,7 +78,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 - **Quantitative Research Method (定量研究方法)**: POLI130173, Undergraduate Course. An introduction course covering basic statistical analysis.
   (Student evaluations: 89.76/100)
   
-- **Environmental policy and management (环境政策与管理)**: POLI130226, Undergraduate Course. This course provides an overview of China's environmental governance system. We will begin with a brief historical overview of China's environmental regulation development from 2000 to the present.
+- **Environmental policy and management (环境政策与管理)**: POLI130226, Undergraduate Course. This course provides an overview of China's environmental governance since 2000. By introducing the microeconomic foundations of environmental policies, analyzing China's pollution control efforts, and examining the impacts of environmental regulation, this course aims to equip students with the knowledge about the policy design and implementation in addressing future environmental challenges.
   (Student evaluations: 92.44/100)
   
 - **Performance Evaluation in Public Sector (公共部门绩效评估)**: POLI130114, Undergraduate Course. An introductory course for causal inference and policy evaluation techniques in the context of China governance.
