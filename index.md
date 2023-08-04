@@ -64,7 +64,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 
 ## Teaching
-At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels. At Peking University, I taught an graduate-level microeconomics for international students. You can find a summary of these courses below.
+At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels. At Peking University, I taught graduate-level microeconomics for international students. You can find a summary of these courses below.
 ### *Instructor at Fudan University*
 - **Research Methods in Social Science (社会科学研究方法)**: POLI620041, Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis. [[slides](https://www.dropbox.com/scl/fo/v3s13hmyw4n4zntshz8lj/h?rlkey=e3he03k7m7b3hhcpzev13dgop&dl=0)]
   (Student evaluations: 99.76/100)
