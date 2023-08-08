@@ -50,7 +50,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 - "Shared hometown prosperity" with Xiaoxiao Shen and Hanchen Jiang
 - "Cross-border media exposure" with Renji Zhou, Qingjie Zeng
 - "The heterogeneous satisfaction with environmental regulation in China" with [Fan Xia](https://scholar.google.com/citations?user=xhdRNSEAAAAJ&hl=en)
-
+- "historical trauma and distorted expenditure"
 
 ## Book Chapters
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
