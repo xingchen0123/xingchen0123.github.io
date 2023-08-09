@@ -20,9 +20,9 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 
 ## Publications
-- Forthcoming. "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis", First author with [Xuan Wang](https://sites.google.com/umich.edu/xuanwang/home), [Tianyang Xi](https://www.xitianyang.com/) and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm), *China Economic Journal*
-- "Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects",  First author with [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm),  *Asian Development Review*, 2018, 35(2): 131–52.[[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
-- “Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China”, *International Economic Review*, 2018, (4): 67-85+6.(in Chinese)[[link]](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=OVERSEA&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5kwko9MWWXZVS7HRJIIzrBd)
+- Forthcoming. "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China's Industrial Sector: A Firm-Level Analysis", First author with [Xuan Wang](https://sites.google.com/umich.edu/xuanwang/home), [Tianyang Xi](https://www.xitianyang.com/) and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm), *China Economic Journal*.
+- 2018. "Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects",  First author with [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm),  *Asian Development Review*, 2018, 35(2): 131–52.[[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
+- 2018. "Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China", *International Economic Review*, 2018, (4): 67-85+6.(in Chinese)[[link]](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=OVERSEA&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5kwko9MWWXZVS7HRJIIzrBd)
 
 
 ## Working Papers
