@@ -9,7 +9,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 ​Please find my CV [here](https://www.dropbox.com/scl/fi/pf15gbwrys9y84yta9vuz/CV_XingChen.pdf?rlkey=7naynk8vh9fqvzqw8ke3246l8&dl=0), my SSRN profile [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510), and my Google Scholar profile [here](https://scholar.google.com/citations?hl=zh-CN&user=LvEEvEgAAAAJ).
 
 ## Academic Position
-- Assistant professor (2020-present), School of International Relations and Public Affairs, Fudan University
+-  2020-present, Assistant professor, School of International Relations and Public Affairs, Fudan University
  
 ## Education
 - PhD in Environmental Economics, Peking University, 2020
