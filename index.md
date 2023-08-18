@@ -103,7 +103,7 @@ World Development, China Economic Quarterly (经济学季刊), Journal of Chines
 
 ## RA opportunity
 I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
-Previously, I advised Xintian Wang (Fudan), Renji Zhou (U Michigan), Andong Zhuge (now Fudan PhD), Jiaheng Ling (now Tsinghua PhD)
+Previously, I advised Jiaheng Ling (now Tsinghua PhD), Andong Zhuge (now Fudan PhD), Renji Zhou (U Michigan), Xintian Wang (Fudan) 
 
 ## Skills
 - Language: English (Fluent); Chinese (Native)
