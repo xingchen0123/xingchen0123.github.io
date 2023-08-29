@@ -85,7 +85,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 - **Performance evaluation and strategic management (绩效评价与战略管理)**: MPA course,  (Student evaluations: 99.55/100)
 
 ### *Teaching Assistant at Peking University*
--  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
+-  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
 
 ## Conference and Invited talks
 - 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
