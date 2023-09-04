@@ -41,11 +41,15 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 ## Working in Progress
 - Learning through infection, with [Yana Jin](http://scholar.pku.edu.cn/yjin/bio), Jiakun Zheng and Jianhua Xu
-- Shared hometown prosperity, with Xiaoxiao Shen and Hanchen Jiang
 - Cross-border media exposure, with Renji Zhou, Qingjie Zeng
-- The heterogeneous satisfaction with environmental regulation in China, with [Fan Xia](https://scholar.google.com/citations?user=xhdRNSEAAAAJ&hl=en)
 - How Politicians’ Historical Trauma Distort Fiscal Expenditure, with Andong Zhuge
-
+- Reallocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm)
+  
+## Currently Resting
+- The heterogeneous satisfaction with environmental regulation in China, with [Fan Xia](https://scholar.google.com/citations?user=xhdRNSEAAAAJ&hl=en)
+- Shared hometown prosperity, with Xiaoxiao Shen and Hanchen Jiang
+ 
+  
 ## Book Chapters
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[Read]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
 - Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[Read]](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)
