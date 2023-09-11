@@ -47,7 +47,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 ## Working in Progress
 - Cross-border media exposure, with Renji Zhou, Qingjie Zeng
 - How Politicians’ Historical Trauma Distort Fiscal Expenditure, with Andong Zhuge
-- Reallocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm)
+- Relocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm)
   
 ## Currently Resting
 - The heterogeneous satisfaction with environmental regulation in China, with [Fan Xia](https://scholar.google.com/citations?user=xhdRNSEAAAAJ&hl=en)
