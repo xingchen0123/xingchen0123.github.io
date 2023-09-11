@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist currently working on topics including **Public Opinion, Environmental Governance, and Political Economy**, with the regional focus on China. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
+Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist working on topics including **Public Opinion, Environmental Governance, and Political Economy**, with the regional focus on China. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
 
-​Please find my CV [here](https://www.dropbox.com/scl/fi/tqiiexkdhebcerht9qazo/CV_XingChen.pdf?rlkey=uofmmhhw04gy3br4al61rk3qn&dl=0), my school website [here](https://faculty.fudan.edu.cn/xingchen/zh_CN/index.htm), my SSRN profile [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510), and my Google Scholar profile [here](https://scholar.google.com/citations?hl=zh-CN&user=LvEEvEgAAAAJ).
+​Please find my CV [here](https://www.dropbox.com/scl/fi/tqiiexkdhebcerht9qazo/CV_XingChen.pdf?rlkey=uofmmhhw04gy3br4al61rk3qn&dl=0), my school website [here](https://faculty.fudan.edu.cn/xingchen/zh_CN/index.htm), SSRN profile [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510), and Google Scholar profile [here](https://scholar.google.com/citations?hl=zh-CN&user=LvEEvEgAAAAJ).
 
 ## Academic Position
 -  2020-present, Assistant professor, School of International Relations and Public Affairs, Fudan University
@@ -66,7 +66,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 
 ## Teaching
-At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels. At Peking University, I taught graduate-level microeconomics for international students. You can find a summary of these courses below.
+At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels and sometimes received incredibly high teaching evaluation scores. At Peking University, I taught graduate-level microeconomics for international students. 
 ### *Instructor at Fudan University*
 - **Research Methods in Social Science (社会科学研究方法)**: POLI620041, Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis. [[slides](https://www.dropbox.com/scl/fo/v3s13hmyw4n4zntshz8lj/h?rlkey=e3he03k7m7b3hhcpzev13dgop&dl=0)]
   (Student evaluations: 99.76/100)
