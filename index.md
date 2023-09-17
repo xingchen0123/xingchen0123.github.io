@@ -28,9 +28,9 @@ Hi! I am an assistant professor at [School of International Relations and Public
 
 ## Working Papers
 - *Pollution Matters: The Political Cost of Information Disclosure (First and Corresponding author with [Xiaoxiao Shen](https://xiaoxiaoshen.co/) and Andong Zhuge). Under Review, [[Read]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089).*
- <details><summary>Abstract:</summary>
+  <details><summary>Abstract:</summary>
  This paper examines the causal impact of information disclosure on political trust and provides a possible psychological mechanism through which the effect occurred. Using a Difference-in-Difference strategy, this paper examines the causal effect of environmental information disclosure on political trust, by looking into a staggered rolled-out implementation of a national program in China that provides real-time air-pollution information to the public. We found that the information disclosure had a significantly positive impact on citizens’ political trust. However, this positive “disclosure effect” was moderated by the local pollution levels residents were exposed to. Notably and surprisingly, the adverse impact was more pronounced for less polluted areas. Our heterogeneity analysis also showed that the effect is more pronounced among middle-aged, internet using, and urban residents with children. Furthermore, we established that the causal effect operated through the channels of citizens’ mental well-being, demonstrated by a large and statistically significant increase in the risk of mild depression and self-dissatisfaction.
- </details>
+   </details>
 
 - *The impact of grassroot democracy on hierarchical government trust in rural China (First author  with [Yuanyuan Yi](https://sites.google.com/view/yuanyuanyi/home), [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm) and Andong Zhuge). submitted.[[Read]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967)*
   <details><summary>Abstract:</summary>
@@ -69,26 +69,36 @@ Hi! I am an assistant professor at [School of International Relations and Public
 ## Teaching
 At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels and sometimes received incredibly high teaching evaluation scores. At Peking University, I taught graduate-level microeconomics for international students. 
 ### *Instructor at Fudan University*
-- **Research Methods in Social Science (社会科学研究方法)**: POLI620041, Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis. [[slides](https://www.dropbox.com/scl/fo/v3s13hmyw4n4zntshz8lj/h?rlkey=e3he03k7m7b3hhcpzev13dgop&dl=0)]
-  (Student evaluations: 99.76/100)
+- **Research Methods in Social Science (社会科学研究方法)**: POLI620041. Student evaluations: 99.76/100.[[slides](https://www.dropbox.com/scl/fo/v3s13hmyw4n4zntshz8lj/h?rlkey=e3he03k7m7b3hhcpzev13dgop&dl=0)]
+  <details><summary>Introduction:</summary>
+  Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
+  </details>
+- **Quantitative research methods in public administration (公共行政学定量研究方法)**: POLI630112. Student evaluations: 99.64/100.[[slides](https://www.dropbox.com/scl/fo/8zw2nzi5oc29eu37pu59i/h?rlkey=ygr5qgwlmpqlsj7a9kjy1c6a3&dl=0)]
+  <details><summary>Introduction:</summary>
+  Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference and empirical strategy, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to clean data, create graphs and tables, and conduct basic statistical analysis.
+   </details>
 
-- **Quantitative research methods in public administration (公共行政学定量研究方法)**: POLI630112, Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference and empirical strategy, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to clean data, create graphs and tables, and conduct basic statistical analysis.[[slides](https://www.dropbox.com/scl/fo/8zw2nzi5oc29eu37pu59i/h?rlkey=ygr5qgwlmpqlsj7a9kjy1c6a3&dl=0)]
-  (Student evaluations: 99.64/100)
-
-- **Principles of Economics (西方经济学基础)**: POLI130004, Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.[[slides](https://www.dropbox.com/scl/fo/4lr7infcxsp0vvcbgvrc3/h?rlkey=3qrszd8uhv2cd0j0guqcgwtt0&dl=0)]
-  (Student evaluations: 93.1/100)
+- **Principles of Economics (西方经济学基础)**: POLI130004. Student evaluations: 93.1/100. Student evaluations: 93.1/100.[[slides](https://www.dropbox.com/scl/fo/4lr7infcxsp0vvcbgvrc3/h?rlkey=3qrszd8uhv2cd0j0guqcgwtt0&dl=0)]
+  <details><summary>Introduction:</summary>
+Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.
+   </details>
   
-- **Quantitative Research Method (定量研究方法)**: POLI130173, Undergraduate Course. An introduction course covering basic statistical analysis.
-  (Student evaluations: 89.76/100)
+- **Quantitative Research Method (定量研究方法)**: POLI130173. Student evaluations: 89.76/100.
+    <details><summary>Introduction:</summary>
+ Undergraduate Course. An introduction course covering basic statistical analysis. 
+   </details>
+   
+- **Environmental policy and management (环境政策与管理)**: POLI130226. Student evaluations: 92.44/100.
+  <details><summary>Introduction:</summary>
+  Undergraduate Course. This course provides an overview of China's environmental governance since 2000. By introducing the microeconomic foundations of environmental policies, analyzing China's pollution control efforts, and examining the impacts of environmental regulation, this course aims to equip students with the knowledge about the policy design and implementation in addressing future environmental challenges.
+   </details>
   
-- **Environmental policy and management (环境政策与管理)**: POLI130226, Undergraduate Course. This course provides an overview of China's environmental governance since 2000. By introducing the microeconomic foundations of environmental policies, analyzing China's pollution control efforts, and examining the impacts of environmental regulation, this course aims to equip students with the knowledge about the policy design and implementation in addressing future environmental challenges.
-  (Student evaluations: 92.44/100)
-  
-- **Performance Evaluation in Public Sector (公共部门绩效评估)**: POLI130114, Undergraduate Course. An introductory course for causal inference and policy evaluation techniques in the context of China governance.
-  (Student evaluations: 95.87/100)
-  
+- **Performance Evaluation in Public Sector (公共部门绩效评估)**: POLI130114. Student evaluations: 95.87/100.
+  <details><summary>Introduction:</summary>
+  Undergraduate Course. An introductory course for causal inference and policy evaluation techniques in the context of China governance.
+   </details>
 - **Public Economics (公共经济学)**:MPA630060, MPA course
-- **Performance evaluation and strategic management (绩效评价与战略管理)**: MPA course,  (Student evaluations: 99.55/100)
+- **Performance evaluation and strategic management (绩效评价与战略管理)**: MPA course. Student evaluations: 99.55/100
 
 ### *Teaching Assistant at Peking University*
 -  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
