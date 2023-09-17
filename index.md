@@ -48,8 +48,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
 ## Working in Progress
 - Cross-border media exposure, with Renji Zhou, Qingjie Zeng
 - How Politicians’ Historical Trauma Distort Fiscal Expenditure, with Andong Zhuge
-- Relocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm)
-  
+- Relocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm)  
 ## Currently Resting
 - The heterogeneous satisfaction with environmental regulation in China, with [Fan Xia](https://scholar.google.com/citations?user=xhdRNSEAAAAJ&hl=en)
 - Shared hometown prosperity, with Xiaoxiao Shen and Hanchen Jiang
@@ -78,7 +77,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
   Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference and empirical strategy, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to clean data, create graphs and tables, and conduct basic statistical analysis.
    </details>
 
-- **Principles of Economics (西方经济学基础)**: POLI130004. Student evaluations: 93.1/100. Student evaluations: 93.1/100.[[slides](https://www.dropbox.com/scl/fo/4lr7infcxsp0vvcbgvrc3/h?rlkey=3qrszd8uhv2cd0j0guqcgwtt0&dl=0)]
+- **Principles of Economics (西方经济学基础)**: POLI130004. Student evaluations: 93.1/100.[[slides](https://www.dropbox.com/scl/fo/4lr7infcxsp0vvcbgvrc3/h?rlkey=3qrszd8uhv2cd0j0guqcgwtt0&dl=0)]
   <details><summary>Introduction:</summary>
 Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.
    </details>
