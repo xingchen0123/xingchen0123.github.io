@@ -47,7 +47,7 @@ Hi! I am an assistant professor at [School of International Relations and Public
   </details>
   
 # Working in Progress
-- Cross-border media exposure, with Renji Zhou, Qingjie Zeng
+- Cross-border media exposure, with Renji Zhou
 - How Politicians’ Historical Trauma Distort Fiscal Expenditure, with Andong Zhuge
 - Relocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm)
 
