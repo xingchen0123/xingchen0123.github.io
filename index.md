@@ -4,7 +4,7 @@ layout: homepage
 
 # About Me
 
-Hi! I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist working on topics including **Public Opinion, Environmental Governance, and Political Economy**, with the regional focus on China. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
+Hi! My name is Xing Chen(陈醒). I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I am an empiricist working on topics including **Public Opinion, Environmental Governance, and Political Economy**, with the regional focus on China. Currently I am particularly interested in studying how personal experience, learning capacity, and information disclosure result in heterogeneous public attitudes towards public policies. 
 
 ​Please find my CV [here](https://www.dropbox.com/scl/fi/tqiiexkdhebcerht9qazo/CV_XingChen.pdf?rlkey=uofmmhhw04gy3br4al61rk3qn&dl=0), my school website [here](https://faculty.fudan.edu.cn/xingchen/zh_CN/index.htm), SSRN profile [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510), and Google Scholar profile [here](https://scholar.google.com/citations?hl=zh-CN&user=LvEEvEgAAAAJ).
 
