@@ -98,7 +98,7 @@ Undergraduate Course. An introduction course to core concepts and theories of ec
   <details><summary>Introduction:</summary>
   Undergraduate Course. An introductory course for causal inference and policy evaluation techniques in the context of China governance.
    </details>
-- **Public Economics (公共经济学)**:MPA630060, MPA course
+- **Public Economics**:MPA630060, MPA course
 - **Performance evaluation and strategic management**: MPA course. Student evaluations: 99.55/100
 
 ### *Teaching Assistant at Peking University*
@@ -116,7 +116,6 @@ World Development, China Economic Quarterly, Journal of Chinese Political Scienc
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
-- [Bilibili: Content Creator](https://space.bilibili.com/5577989?spm_id_from=333.337.0.0) (I occasionally upload econometrics lecture video into bilibili)
 
 ## RA opportunity
 I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
@@ -125,4 +124,4 @@ Previously, I advised Jiaheng Ling (now Tsinghua PhD), Andong Zhuge (now Fudan P
 ## Skills
 - Language: English (Fluent); Chinese (Native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
-- Miscellaneous: Hiking, Piano, Astrology
+- Miscellaneous: Hiking, Piano, Astrology, [Bilibili Content Creator](https://space.bilibili.com/5577989?spm_id_from=333.337.0.0)
