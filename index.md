@@ -117,9 +117,10 @@ World Development, China Economic Quarterly, Journal of Chinese Political Scienc
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
 
-## RA opportunity
-I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
-Previously, I advised Jiaheng Ling (now Tsinghua PhD), Andong Zhuge (now Fudan PhD), Renji Zhou (U Michigan), Xintian Wang (Fudan) 
+## Students Advising&Placements
+- Undergraduate Students: Renji Zhou (MA, U Michigan), Xintian Wang (MA, Fudan) 
+- Master Students: Jiaheng Ling (PhD, Public administration, Tsinghua), Andong Zhuge (PhD, Public administration, Fudan)
+(I’m currently looking for a part-time research assistant. Please send me an email if you are interested.)
 
 ## Skills
 - Language: English (Fluent); Chinese (Native)
