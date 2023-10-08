@@ -120,8 +120,8 @@ World Development, China Economic Quarterly, Journal of Chinese Political Scienc
 ## Students Advising&Placements
 - Undergraduate Students: Renji Zhou (MA, U Michigan), Xintian Wang (MA, Fudan) 
 - Master Students: Jiaheng Ling (PhD, Tsinghua), Andong Zhuge (PhD, Fudan)
-(I’m currently looking for a part-time research assistant. Please send me an email if you are interested.)
-
+- I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
+  
 ## Skills
 - Language: English (Fluent); Chinese (Native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
