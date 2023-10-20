@@ -54,7 +54,6 @@ Hi! My name is Xing Chen(陈醒). I am an assistant professor at [School of Inte
   
 ## Working in Progress
 - Cross-border media exposure, with Renji Zhou
-- How Politicians’ Historical Trauma Distort Fiscal Expenditure, with Andong Zhuge
 - Relocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm)
 
 ## Currently Resting
