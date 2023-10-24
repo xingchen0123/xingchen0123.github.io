@@ -121,6 +121,10 @@ World Development, China Economic Quarterly, Journal of Chinese Political Scienc
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
+  
+## Awards
+Third prize for excellent papers in China Public Administration Annual Conference (2013), Peking University Outstanding Research Award(2019)
+
 
 ## Students Advising&Placements
 - Undergraduate Students: Renji Zhou (MA, U Michigan), Xintian Wang (MA, Fudan) 
