@@ -20,7 +20,7 @@ Hi! My name is Xing Chen(陈醒). I am an assistant professor at [School of Inte
 
 
 ## Publications
-- Chen, Xing, Jiaheng Ling, and Hanchen Jiang. 2023. "Addressing multitasking problems through promotion incentives: An empirical study of local governments in China." *Public Performance & Management Review*, forthcoming [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612).
+- Chen, Xing, Jiaheng Ling, and Hanchen Jiang. 2023. "Addressing multitasking problems through promotion incentives: An empirical study of local governments in China." *Public Performance & Management Review*, forthcoming [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612).
 - Chen, Xing, Xuan Wang, Tianyang Xi, and Jintao Xu. 2023. “Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China’s Industrial Sector: A Firm-Level Analysis.” *China Economic Journal* 16(2): 217–39.[[link]](https://www.tandfonline.com/doi/abs/10.1080/17538963.2023.2244281)[[PDF]](https://www.dropbox.com/scl/fi/gr3vm1ktbbhjp03tt9elj/Estimating-the-CO2-marginal-abatement-cost-and-implications-for-climate-policies-in-China-s-industrial-sector-A-firm-level-analysis.pdf?rlkey=onayf0x48pwa3tymmfw2seom5&dl=0)
 - Chen, Xing, and Jintao Xu. 2018. “Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects.” *Asian Development Review* 35(2): 131–52.[[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)[[PDF]](https://www.dropbox.com/scl/fi/i9uh9jhm752v6jiooa93r/1.ADR.pdf?rlkey=zje9pc6y9tl5eqqq2pwmvwxe4&dl=0)
 - Subsidy Crisis and Large-Scale Curtailment of Wind and Solar Power in China关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究, *International Economic Review*, 2018, (4): 67-85+6.(in Chinese)[[link]](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=OVERSEA&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5kwko9MWWXZVS7HRJIIzrBd)[[PDF]](https://www.dropbox.com/scl/fi/hrryf7cbds9y7ppkarfr2/2..pdf?rlkey=pl94l7x84ecwsjk6zj76z2clh&dl=0)
@@ -59,9 +59,9 @@ Hi! My name is Xing Chen(陈醒). I am an assistant professor at [School of Inte
  
   
 ## Book Chapters
-- Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[Read]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
-- Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[Read]](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)
-- Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese).[[Read]](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)
+- Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
+- Review of the Progress of China's Carbon Trading Pilots," Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[link]](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)
+- Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese).[[link]](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)
 
 
 ## Fundings and Projects
