@@ -51,10 +51,11 @@ Hi! My name is Xing Chen(陈醒). I am an assistant professor at [School of Inte
    This paper investigates how individual-level infection experiences shape mass support for the restrictive policies during the Covid-19 pandemic. Grounded in theories of affect and decision making, we test our hypotheses in China using panel data which allow us to identify the role of infection in support for restrictive policies while controlling for individual heterogeneity. We find that experiencing infection of Covid-19 had a negative impact on supporting restrictive measures (zero-COVID policy), whereas infection severity moderated this effect, with individuals who had severe infections showing heightened support for the zero-Covid and a decreased tolerance for risk. This shift can be attributed to people updating their perceptions of costs and benefits of live-with-Covid during their infection. Interestingly, heterogeneity analysis shows that the “learning” effects are most pronounced among Han ethnicity males who do not have religious affiliations, have high incomes, and are not affiliated with the China Communist Party (CCP). These findings shed light on the experience mechanism by which citizens swiftly change their policy preference in response to health risks. 
   </details>
 
+
   
 ## Working in Progress
-- Cross-border media exposure, with Renji Zhou
 - Relocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Ma.
+- The Voice of Extravagance, with Renji Zhou 
 - Happy without accountability，with Xiaoxiao Shen
 - E-Government, with Hanchen Jiang
  
