@@ -51,11 +51,14 @@ Hi! My name is Xing Chen(陈醒). I am an assistant professor at [School of Inte
    This paper investigates how individual-level infection experiences shape mass support for the restrictive policies during the Covid-19 pandemic. Grounded in theories of affect and decision making, we test our hypotheses in China using panel data which allow us to identify the role of infection in support for restrictive policies while controlling for individual heterogeneity. We find that experiencing infection of Covid-19 had a negative impact on supporting restrictive measures (zero-COVID policy), whereas infection severity moderated this effect, with individuals who had severe infections showing heightened support for the zero-Covid and a decreased tolerance for risk. This shift can be attributed to people updating their perceptions of costs and benefits of live-with-Covid during their infection. Interestingly, heterogeneity analysis shows that the “learning” effects are most pronounced among Han ethnicity males who do not have religious affiliations, have high incomes, and are not affiliated with the China Communist Party (CCP). These findings shed light on the experience mechanism by which citizens swiftly change their policy preference in response to health risks. 
   </details>
 
+- The Voice of Extravagance(corresponding author with Renji Zhou).
+  <details><summary>Abstract:</summary>
+   This study examines the impact of non-political media on long-term political attitudes by exploiting the unintended introduction of cross-border TV signal in the early 1980s in China. We find that rural residents in counties with better Hong Kong free-to-air TV (HKTV) signals have lower political trust towards local governments. The effect persists for two decades and is driven by heavy TV viewers, namely the cohorts exposed to HKTV during their adolescence, but this effect would be mitigated by media censorship. Regarding possible mechanisms, we find that individuals exposed to entertainment TV as children were more cognitively sophisticated and civic-minded as adults.
+  </details>
 
   
 ## Working in Progress
 - Relocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Ma.
-- The Voice of Extravagance, with Renji Zhou 
 - Happy without accountability，with Xiaoxiao Shen
 - E-Government, with Hanchen Jiang
  
