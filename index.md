@@ -47,13 +47,9 @@ Hi! My name is Xing Chen(陈醒). I am an assistant professor at [School of Inte
     This study investigates the prevalence of self-censorship among the Chinese and its impact on public policy support. Specifically, we explore the characteristics of individuals who tend to self-censor and endorse public policies blindly, as opposed to those who rationally assess the policy in light of changing circumstances. We focuse on the controversial zero-COVID policy, which was in place for nearly three years before a sudden governmental shift to  living-with-COVID. We examine how individuals perceived this abrupt shift once the pressure of self-censorship was alleviated. By assessing whether individuals' perceptions of policy cost-benefit changes align with their evolving policy preferences, we find that individuals with lower levels of education, lower income, and religious affiliations demonstrate unwavering support for policies. Intriguingly, affiliation with the China Communist Party does not necessarily indicate unwavering support. We provides valuable insights into the complex interplay of self-censorship and public opinion dynamics in China.
    </details>
 
-- The Voice of Extravagance(corresponding author with Renji Zhou).
-  <details><summary>Abstract:</summary>
-   This study examines the impact of non-political media on long-term political attitudes by exploiting the unintended introduction of cross-border TV signal in the early 1980s in China. We find that rural residents in counties with better Hong Kong free-to-air TV (HKTV) signals have lower political trust towards local governments. The effect persists for two decades and is driven by heavy TV viewers, namely the cohorts exposed to HKTV during their adolescence, but this effect would be mitigated by media censorship. Regarding possible mechanisms, we find that individuals exposed to entertainment TV as children were more cognitively sophisticated and civic-minded as adults.
-  </details>
-
   
 ## Working in Progress
+- The Voice of Extravagance(with Renji Zhou)
 - Relocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Ma.
 - Happy without accountability，with Xiaoxiao Shen
 - E-Government, with Hanchen Jiang
