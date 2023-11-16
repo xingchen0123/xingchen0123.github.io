@@ -8,7 +8,7 @@ Hi! My name is Xing Chen(陈醒). I am an assistant professor at [School of Int
 
 My experience at Fudan University ignited my interest in Political Science and Public Administration, despite my formal education background not being in these fields. Currently I am working on topics including **Public Opinion, Environmental Politics, and Political Economy**, with the regional focus on China. I use applied econometrics to uncover the role of information, trauma experience, and cultural norms in shaping political attitudes and decision making.
 
-​Please find my CV [here](https://www.dropbox.com/scl/fi/tqiiexkdhebcerht9qazo/CV_XingChen.pdf?rlkey=uofmmhhw04gy3br4al61rk3qn&dl=0), my school website [here](https://faculty.fudan.edu.cn/xingchen/zh_CN/index.htm), ssrn [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510), and Google Scholar [here](https://scholar.google.com/citations?hl=zh-CN&user=LvEEvEgAAAAJ).
+​Please find my school website [here](https://faculty.fudan.edu.cn/xingchen/zh_CN/index.htm), ssrn [here](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3125510), and Google Scholar [here](https://scholar.google.com/citations?hl=zh-CN&user=LvEEvEgAAAAJ).
 
 ## Academic Position
 -  2020-present, Assistant professor, School of International Relations and Public Affairs, Fudan University
