@@ -45,9 +45,9 @@ My experience at Shanghai ignited my interest in Political Science and Public Ad
   </details>
   
 - Learning Through Infection: Public Opinion Dynamics during China’s COVID Policy (First author  with [Jiakun Zheng](https://scholar.google.com/citations?hl=zh-CN&user=c-6NWRcAAAAJ), [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) and [Yana Jin](http://scholar.pku.edu.cn/yjin/bio)). 
-    <details><summary>Abstract:</summary>
-This study investigates the public opinion dynamics between a strict zero-COVID policy to a relaxed live-with-COVID policy, using data from a two-wave panel survey conducted in August 2022 and January 2023 in China. We find substantial support for zero-COVID initially (79.42%), which remains notable (45.73%) post-policy relaxation. Sociodemographic factors generally show limited influence on policy support, with the exception of iOS users, indicating a distinct information sources. Additionally, a clear alignment between public policy preferences and individuals' perceived personal cost and benefit of the two contradicting policies, indicating active public engagement. Notably, personal COVID-19 infection experiences, particularly severe cases, significantly increase preferences for stringent zero-COVID policy. This research sheds light on the relationship between public health policy and public attitudes during a pandemic.
-   </details>
+  <details><summary>Abstract:</summary>
+   This study investigates the dynamics of public opinion concerning the transition from zero-COVID policy to live-with-COVID policy, using data from a two-wave panel survey conducted in August 2022 and January 2023 in China. We find substantial support for zero-COVID initially (79.42%), which remained notable (45.73%) post-policy relaxation. Sociodemographic factors generally showed limited influence on policy support, with the exception of iOS users, indicating a distinct information sources. Additionally, a clear alignment between public policy preferences and individuals' perceived personal cost and benefit of the two contradicting policies, indicating active public engagement. Notably, personal COVID-19 infection experiences, particularly severe cases, significantly increased preferences for stringent zero-COVID policy. This research sheds light on the relationship between public health policy and public attitudes during a pandemic.
+  </details>
 
   
 ## Working in Progress
