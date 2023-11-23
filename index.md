@@ -51,7 +51,7 @@ My experience at Shanghai ignited my interest in Political Science and Public Ad
 
   
 ## Working in Progress
-- The Voice of Extravagance(with Renji Zhou)
+- The Voice of Extravagance, with Renji Zhou
 - Relocation to Boosting, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Ma.
 - Happy without accountability，with Xiaoxiao Shen
 - E-Government, with Hanchen Jiang
