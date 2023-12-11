@@ -49,7 +49,7 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
   </details>
   
 ## Working in Progress
-- Relocation to Urbanization: Assessing the Role of Government Relocation in Regional Development, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Ma.
+- Relocation to Urbanization: Re-assessing the Role of Government Relocation in Regional Development, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Ma.
 - Happy without accountability，with Xiaoxiao Shen
 - E-Government, with Hanchen Jiang
 - Coordinated environmental regulation, with [Juan Du](https://faculty.ecnu.edu.cn/_s35/dj2_23449/main.psp)
