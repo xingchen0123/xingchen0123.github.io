@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! My name is Xing Chen(陈醒). I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my PhD in Environmental Economics from [Peking University](https://english.pku.edu.cn/), the top 1 university in China, where I also received my bachelor degree in Environmental Science. My advisor was Professor [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm) from [National School of Development](https://en.nsd.pku.edu.cn/aboutus/about/index.htm). Additionally, I was a visiting scholar at [UC Berkeley](https://are.berkeley.edu/) from 2017 to 2018, supervised by the esteemed environmental economist, [Peter Berck](https://are.berkeley.edu/users/peter-berck).
 
-My experience at Shanghai ignited my interest in Politics, a field distinct from my formal academic training. However, through self-study, currently I am working on topics including **Environmental Politics, Public Opinion, and Political Economy**, with the regional focus on China. Leveraging my skills in applied econometrics, I provide empirical insights into how information, trauma, and political participation shape political attitudes and decision making. My research has appeared or is forthcoming in **Governance**, **Public Performance&Management Review**, among other journals. For collaboration inquiries, please feel free to email me.
+My experience at Shanghai ignited my interest in Politics, a field distinct from my formal academic training. However, through self-study, currently I am working on topics including **Environmental Politics, Public Opinion, and Political Economy**, with the regional focus on China. Leveraging my skills in applied econometrics, I provide empirical insights into how information, trauma, and political participation shape political attitudes and decision making. My research has appeared or is forthcoming in **Governance**, **Public Performance&Management Review**, among others. If you want to collaborate, please feel free to email me.
 
 ## Academic Position
 -  2020-present, Assistant professor, School of International Relations and Public Affairs, Fudan University
@@ -50,9 +50,9 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
   </details>
   
 ## Working in Progress
+- Bridging Trust in Governance: The Impact of Digital Government Initiatives on Citizen political trust, with Hanchen Jiang
 - Relocation to Urbanization: Re-assessing the Role of Government Relocation in Regional Development, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Ma.
 - Happy without accountability，with Xiaoxiao Shen
-- E-Government, with Hanchen Jiang
 - Pollution Worsened at Borders in a Coordinated Way: Consequences of Spatially Differentiated Target-based Environmental Regulation in China, with [Juan Du](https://faculty.ecnu.edu.cn/_s35/dj2_23449/main.psp)
   
 ## Book Chapters
