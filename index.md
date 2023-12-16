@@ -50,10 +50,10 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
   </details>
   
 ## Working in Progress
-- Bridging Trust in Governance: The Impact of Digital Government Initiatives on Citizen political trust, with Hanchen Jiang
-- Relocation to Urbanization: Re-assessing the Role of Government Relocation in Regional Development, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Ma.
+- e-Government, with Hanchen Jiang
+- Relocation to Urbanization, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Gu.
 - Happy without accountability，with Xiaoxiao Shen
-- Pollution Worsened at Borders in a Coordinated Way: Consequences of Spatially Differentiated Target-based Environmental Regulation in China, with [Juan Du](https://faculty.ecnu.edu.cn/_s35/dj2_23449/main.psp)
+- Coordinated Environmental Regulation in China, with [Juan Du](https://faculty.ecnu.edu.cn/_s35/dj2_23449/main.psp)
   
 ## Book Chapters
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
