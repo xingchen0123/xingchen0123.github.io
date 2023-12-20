@@ -21,7 +21,7 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
 
 
 ## Publications
-- Pollution Matters: The Political Cost of Information Disclosure (first and corresponding author with [Xiaoxiao Shen](https://xiaoxiaoshen.co/) and Andong Zhuge),  ***Governance***, Forthcoming. [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089)[[slides]](https://www.dropbox.com/scl/fi/vzt8thgaaq263f3ta75h5/Disclosure_Trust_xingchen.pdf?rlkey=j56g1b6pschyeu19hyk528hmk&dl=0)
+- Pollution Matters: The Political Cost of Information Disclosure (first and corresponding author with [Xiaoxiao Shen](https://xiaoxiaoshen.co/) and Andong Zhuge),  ***Governance***, Forthcoming. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089)[[slides]](https://www.dropbox.com/scl/fi/vzt8thgaaq263f3ta75h5/Disclosure_Trust_xingchen.pdf?rlkey=j56g1b6pschyeu19hyk528hmk&dl=0)
 - Addressing multitasking problems through promotion incentives: An empirical study of local governments in China (first author with Jiaheng Ling and [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/dpa/409af343e573423d9fecc98e39474c7e.htm)),
 ***Public Performance & Management Review***, Forthcoming. [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612)
 - Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China’s Industrial Sector: A Firm-Level Analysis (first author with [Xuan Wang](https://sites.google.com/umich.edu/xuanwang/home), [Tianyang Xi](https://www.xitianyang.com/), and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm)),
