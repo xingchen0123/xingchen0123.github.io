@@ -21,7 +21,6 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
 
 
 ## Publications
-Pollution matters: The political cost of information disclosure. Governance, 1–23. https://doi.org/10.1111/gove.12847
 - Pollution Matters: The Political Cost of Information Disclosure (first and corresponding author with [Xiaoxiao Shen](https://xiaoxiaoshen.co/) and Andong Zhuge),  ***Governance***, 1–23.[[link]](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4486089)[[slides]](https://www.dropbox.com/scl/fi/vzt8thgaaq263f3ta75h5/Disclosure_Trust_xingchen.pdf?rlkey=j56g1b6pschyeu19hyk528hmk&dl=0)
 - Addressing multitasking problems through promotion incentives: An empirical study of local governments in China (first author with Jiaheng Ling and [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/dpa/409af343e573423d9fecc98e39474c7e.htm)),
 ***Public Performance & Management Review***, Forthcoming. [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4449612)
