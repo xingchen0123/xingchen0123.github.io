@@ -100,7 +100,7 @@ Undergraduate Course. An introduction course to core concepts and theories of ec
 - **Performance evaluation and strategic management**: MPA course. Student evaluations: 99.55/100
 
 ### *Teaching Assistant at Peking University*
--  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://www.isscad.pku.edu.cn/))
+-  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
 
 ## Conference and Invited talks
 - 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
