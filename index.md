@@ -77,7 +77,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
   Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference and empirical strategy, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to clean data, create graphs and tables, and conduct basic statistical analysis.
    </details>
 
-- **Principles of Economics**: POLI130004. Student evaluations: 93.1/100.[[slides](https://www.dropbox.com/scl/fo/4lr7infcxsp0vvcbgvrc3/h?rlkey=3qrszd8uhv2cd0j0guqcgwtt0&dl=0)]
+- **Principles of Economics**: POLI130004. Student evaluations: 93.1/100.
   <details><summary>Introduction:</summary>
 Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.
    </details>
