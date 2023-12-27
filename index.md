@@ -68,11 +68,11 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
 ## Teaching
 At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels and sometimes received incredibly high teaching evaluation scores. At Peking University, I taught graduate-level microeconomics for international students. 
 ### *Instructor at Fudan University*
-- **Research Methods in Social Science**: POLI620041. Student evaluations: 99.76/100.[[slides](https://www.dropbox.com/scl/fo/v3s13hmyw4n4zntshz8lj/h?rlkey=e3he03k7m7b3hhcpzev13dgop&dl=0)]
+- **Research Methods in Social Science**: POLI620041. Student evaluations: 99.76/100.
   <details><summary>Introduction:</summary>
   Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
   </details>
-- **Quantitative research methods in public administration**: POLI630112. Student evaluations: 99.64/100.[[slides](https://www.dropbox.com/scl/fo/8zw2nzi5oc29eu37pu59i/h?rlkey=ygr5qgwlmpqlsj7a9kjy1c6a3&dl=0)]
+- **Quantitative research methods in public administration**: POLI630112. Student evaluations: 99.64/100.[[readinglist](https://www.dropbox.com/scl/fi/0niw72qcwv1hiib7byzrf/Method_reading_list.pdf?rlkey=ztn32vemmm39po2ggu9yojq1f&dl=0)]
   <details><summary>Introduction:</summary>
   Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference and empirical strategy, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to clean data, create graphs and tables, and conduct basic statistical analysis.
    </details>
