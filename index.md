@@ -44,7 +44,6 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
   </details>
 
 - Enhancing trust through institution and service process: the causal effect of digital government policy on political trust （with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/dpa/409af343e573423d9fecc98e39474c7e.htm))
-  
 - “The Voice of Extravagance”: Evidence from Cross-Border Media Exposure in Pearl River Delta(Corresponding author with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
   
 ## Working in Progress
