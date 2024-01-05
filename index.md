@@ -107,7 +107,7 @@ Undergraduate Course. An introduction course to core concepts and theories of ec
 - 2017: Asian Development Review Conference, Seoul, Korea
 
 ## Referee for
-World Development, China Economic Quarterly, Journal of Chinese Political Science, Chinese Political Science Review，Public Administration and Development，International Journal of Public Administration，Global Public Policy and Governance
+World Development, China Economic Quarterly, Journal of Chinese Political Science, Chinese Political Science Review, Public Administration and Development, International Journal of Public Administration, Global Public Policy and Governance
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
