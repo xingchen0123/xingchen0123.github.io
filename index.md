@@ -43,10 +43,10 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
    This study delves into the understudied nexus between officials’ personal trauma experiences and their fiscal decision-making, with a particular emphasis on childhood famine experiences and the inclination toward fiscal conservatism. Using data from Chinese cities spanning 2008 to 2018, we find that officials imprinted with childhood famine trauma demonstrate a significant increase in Year-End Spending Spikes (YESS), a phenomenon characterized by a rush to exhaust surplus budgets at year end due to “use it or lose it” budget rule. This behavior correlates with a decrease in both GDP growth rate and fiscal efficiency. Furthermore, the imprint effect is pronounced among officials who endured famine between ages 3 to 8, suggesting a critical window of impressionable years. Moreover, working in cities less reliant on financial transfers, and extensive local networks accentuate this effect. We further explore the psychological mechanisms, highlighting a correlation between mild depression and fiscal behavior, thus providing new insights into the profound and enduring effects of early trauma on public financial management.
   </details>
 
-- Enhancing trust through institution and service process: the causal effect of digital government policy on political trust （with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/dpa/409af343e573423d9fecc98e39474c7e.htm))
 - “The Voice of Extravagance”: Evidence from Cross-Border Media Exposure in Pearl River Delta(Corresponding author with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
   
 ## Working in Progress
+- digital divide, with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/dpa/409af343e573423d9fecc98e39474c7e.htm)
 - Relocation to Urbanization, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Gu.
 - Happy without accountability，with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)
 - Coordinated Environmental Regulation, with [Juan Du](https://faculty.ecnu.edu.cn/_s35/dj2_23449/main.psp)
