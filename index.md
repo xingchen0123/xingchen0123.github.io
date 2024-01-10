@@ -48,7 +48,7 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
 ## Working in Progress
 - digital divide, with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/dpa/409af343e573423d9fecc98e39474c7e.htm)
 - Relocation to Urbanization, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Gu.
-- Happy without accountability，with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)
+- I feel as if they were me，with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)
 - Coordinated Environmental Regulation, with [Juan Du](https://faculty.ecnu.edu.cn/_s35/dj2_23449/main.psp)
 - corruption, with [Maoliang Ye](https://www.sustech.edu.cn/en/faculties/yemaoliang.html)
   
