@@ -49,6 +49,9 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
   </details>
 
 - “The Voice of Extravagance”: Evidence from Cross-Border Media Exposure in Pearl River Delta(Corresponding author with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
+  <details><summary>Abstract:</summary>
+   This research navigates away from the conventional analysis of political and propagandist media effects, turning the lens on the political ramifications of non-political entertainment media. The accidental reception of Hong Kong television signals in rural Guangdong, China, during the 1980s serves as a natural experiment. Rural residents, in contrast to their urban counterparts, often resorted to alternative means to access television due to the lack of cable services, creating a unique context for analysis. Utilizing the Irregular Terrain Model for signal strength estimation and a longitudinal panel dataset enhanced by a cohort difference-in-difference strategy, we find a pronounced decline in political trust among rural residents exposed to Hong Kong television, particularly among those who were adolescents during the exposure period. Regarding possible mechanisms, we find that exposure to entertainment media that transmit contemporary concepts such as gender equality and justice, prompts critical reflection, increases civic consciousness and heightened awareness of social issues, thereby challenging authoritarian ideologies. Our findings illuminate the significant, albeit indirect, effects of entertainment media from democratic regions on individuals in authoritarian regimes.
+  </details>
   
 ## Working in Progress
 - I feel as if they were me，with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)
