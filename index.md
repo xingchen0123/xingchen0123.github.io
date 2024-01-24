@@ -73,36 +73,39 @@ My experience at Shanghai ignited my interest in Politics, a field distinct from
 ## Teaching
 At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels and sometimes received incredibly high teaching evaluation scores. At Peking University, I taught graduate-level microeconomics for international students. 
 ### *Instructor at Fudan University*
-- **Research Methods in Social Science**: POLI620041. Student evaluations: 99.76/100.[[slides]](https://www.dropbox.com/scl/fo/v3s13hmyw4n4zntshz8lj/h?rlkey=e3he03k7m7b3hhcpzev13dgop&dl=0)
+#### *Unvergraduate Courses*
+- **Principles of Economics(POLI130004)**: Fall 2022, Fall 2023, Average Ratings: 93.1/100.[[slides]](https://www.dropbox.com/scl/fo/4lr7infcxsp0vvcbgvrc3/h?rlkey=3qrszd8uhv2cd0j0guqcgwtt0&dl=0)
   <details><summary>Introduction:</summary>
-  Graduate Course. This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
+   An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.
+   </details>
+  
+- **Quantitative Research Method (POLI130173)**: Fall 2022, Average Ratings: 89.76/100.
+    <details><summary>Introduction:</summary>
+     An introduction course covering basic statistical analysis. 
+   </details>
+   
+- **Environmental policy and management (POLI130226)**:Spring 2022, Average Ratings: 92.44/100.
+  <details><summary>Introduction:</summary>
+   This course provides an overview of China's environmental governance since 2000. By introducing the microeconomic foundations of environmental policies, analyzing China's pollution control efforts, and examining the impacts of environmental regulation, this course aims to equip students with the knowledge about the policy design and implementation in addressing future environmental challenges.
+   </details>
+  
+- **Performance Evaluation in Public Sector (POLI130114)**: Spring 2021, Spring 2022, Average Ratings: 95.87/100.
+  <details><summary>Introduction:</summary>
+   An introductory course for causal inference and policy evaluation techniques in the context of China governance.
+   </details>
+   
+#### *Graduate Courses*
+- **Research Methods in Social Science(POLI620041)**:Fall 2021 Average Ratings: 99.76/100.[[slides]](https://www.dropbox.com/scl/fo/v3s13hmyw4n4zntshz8lj/h?rlkey=e3he03k7m7b3hhcpzev13dgop&dl=0)
+  <details><summary>Introduction:</summary>
+  This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
   </details>
-- **Quantitative research methods in public administration**: POLI630112. Student evaluations: 99.64/100.[[readinglist](https://www.dropbox.com/scl/fi/0niw72qcwv1hiib7byzrf/Method_reading_list.pdf?rlkey=ztn32vemmm39po2ggu9yojq1f&dl=0)][[slides]](https://www.dropbox.com/scl/fo/8zw2nzi5oc29eu37pu59i/h?rlkey=ygr5qgwlmpqlsj7a9kjy1c6a3&dl=0)
+- **Quantitative research methods in public administration (POLI630112)**: Spring 2021, Spring 2022, Spring
+2024, Average Ratings: 99.64/100.[[readinglist](https://www.dropbox.com/scl/fi/0niw72qcwv1hiib7byzrf/Method_reading_list.pdf?rlkey=ztn32vemmm39po2ggu9yojq1f&dl=0)][[slides]](https://www.dropbox.com/scl/fo/8zw2nzi5oc29eu37pu59i/h?rlkey=ygr5qgwlmpqlsj7a9kjy1c6a3&dl=0)
   <details><summary>Introduction:</summary>
   Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference and empirical strategy, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to clean data, create graphs and tables, and conduct basic statistical analysis.
    </details>
-
-- **Principles of Economics**: POLI130004. Student evaluations: 93.1/100.[[slides]](https://www.dropbox.com/scl/fo/4lr7infcxsp0vvcbgvrc3/h?rlkey=3qrszd8uhv2cd0j0guqcgwtt0&dl=0)
-  <details><summary>Introduction:</summary>
-Undergraduate Course. An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.
-   </details>
-  
-- **Quantitative Research Method**: POLI130173. Student evaluations: 89.76/100.
-    <details><summary>Introduction:</summary>
- Undergraduate Course. An introduction course covering basic statistical analysis. 
-   </details>
-   
-- **Environmental policy and management**: POLI130226. Student evaluations: 92.44/100.
-  <details><summary>Introduction:</summary>
-  Undergraduate Course. This course provides an overview of China's environmental governance since 2000. By introducing the microeconomic foundations of environmental policies, analyzing China's pollution control efforts, and examining the impacts of environmental regulation, this course aims to equip students with the knowledge about the policy design and implementation in addressing future environmental challenges.
-   </details>
-  
-- **Performance Evaluation in Public Sector**: POLI130114. Student evaluations: 95.87/100.
-  <details><summary>Introduction:</summary>
-  Undergraduate Course. An introductory course for causal inference and policy evaluation techniques in the context of China governance.
-   </details>
-- **Public Economics**:MPA630060, MPA course
-- **Performance evaluation and strategic management**: MPA course. Student evaluations: 99.55/100
+- **Public Economics (MPA630060)**:Spring 2023, MPA course
+- **Performance evaluation and strategic management**: Spring 2021, MPA course. Average Ratings: 99.55/100
 
 ### *Teaching Assistant at Peking University*
 -  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
@@ -115,7 +118,7 @@ Undergraduate Course. An introduction course to core concepts and theories of ec
 - 2017: Asian Development Review Conference, Seoul, Korea
 
 ## Referee for
-World Development, China Economic Quarterly, Journal of Chinese Political Science, Chinese Political Science Review, Public Administration and Development, International Journal of Public Administration, Global Public Policy and Governance
+World Development, 经济学(季刊), Journal of Chinese Political Science, Chinese Political Science Review, Public Administration and Development, International Journal of Public Administration, Global Public Policy and Governance
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
