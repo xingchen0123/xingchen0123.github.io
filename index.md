@@ -32,7 +32,6 @@ My experience at Shanghai ignited my interest in politics, a field differs from 
  (First author  with [Jiakun Zheng](https://scholar.google.com/citations?hl=zh-CN&user=c-6NWRcAAAAJ), [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) and [Yana Jin](http://scholar.pku.edu.cn/yjin/bio)). 
 - From Scarcity to Spike: The Impact of Childhood Famine Trauma on Fiscal Expenditure Behavior (with Andong Zhuge). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4646240). under review
 - Bridging trust through institution and process: the causal effect of e-government on political trust (with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/dpa/409af343e573423d9fecc98e39474c7e.htm)).under review
-
 - Unintended Liberation : The Political Impact of Hong Kong Entertainment TV (with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
   
 ## Working in Progress
