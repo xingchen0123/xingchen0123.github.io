@@ -113,4 +113,4 @@ Third prize for excellent papers in China Public Administration Annual Conferenc
 ## Skills
 - Language: English (Fluent); Chinese (Native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
-- Miscellaneous: Hiking, [Astrology](https://www.dropbox.com/scl/fi/wv0q96j399oex5f3u445g/astrology.pdf?rlkey=luq3dipyk9kyyvtgdo1ap476o&dl=0)
+- Miscellaneous: Hiking, Astrology
