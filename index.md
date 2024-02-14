@@ -105,8 +105,8 @@ World Development, 经济学(季刊), Journal of Chinese Political Science, Chin
 Third prize for excellent papers in China Public Administration Annual Conference (2023), Peking University Outstanding Research Award(2019)
 
 
-## Placements of RAs
-- Undergraduate Students: Renji Zhou (MA in Regional Studies, Michigan), Xintian Wang (PhD in political science, Rochester) 
+## PhD Program Placements of RAs
+- Undergraduate Students: Xintian Wang (PhD in political science, Rochester) 
 - Master Students: Jiaheng Ling (PhD in Public Administration, Tsinghua), Andong Zhuge (PhD in Public Administration, Fudan)
 - I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
   
