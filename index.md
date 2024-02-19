@@ -89,7 +89,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 -  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
 
 ## Conference and Invited talks
-- 2024:(scheduled)MPSA，IRSPM，International Conference on Comparative Public Policy
+- 2024:(scheduled)MPSA; IRSPM; International Conference on Comparative Public Policy
 - 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
 - 2021: CCER Summer Institute
 - 2019: China Economics Annual Conference; The 8th Congress of the East Asian Association of Environmental and Resource Economics
