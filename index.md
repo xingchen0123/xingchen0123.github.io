@@ -97,7 +97,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 - 2017: Asian Development Review Conference, Seoul, Korea
 
 ## Referee for
-World Development, 经济学(季刊), Journal of Chinese Political Science, Chinese Political Science Review, Public Administration and Development, International Journal of Public Administration, Global Public Policy and Governance
+World Development, 经济学季刊(✖️2), Journal of Chinese Political Science, Chinese Political Science Review, Public Administration and Development, International Journal of Public Administration, Global Public Policy and Governance
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
