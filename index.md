@@ -97,7 +97,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 - 2017: Asian Development Review Conference, Seoul, Korea
 
 ## Referee for
-World Development, 经济学季刊(*2), Journal of Chinese Political Science, Chinese Political Science Review, Public Administration and Development, International Journal of Public Administration, Global Public Policy and Governance
+World Development, 经济学季刊(✖️2), Journal of Chinese Political Science, Chinese Political Science Review, Public Administration and Development, International Journal of Public Administration, Global Public Policy and Governance
 
 ## Other Service
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
@@ -111,7 +111,7 @@ Third prize for excellent papers in China Public Administration Annual Conferenc
 - Master Students: Jiaheng Ling (PhD in Public Administration, Tsinghua), Andong Zhuge (PhD in Public Administration, Fudan)
 - I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
   
-## Skills
+## Additional Information
 - Language: English (Fluent); Chinese (Native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
-- Miscellaneous: Hiking, [Astrology](https://www.dropbox.com/scl/fi/mwd6zrp249c8at016sbmx/astrology.pdf?rlkey=8o904od5jyw0dmm4r1sm0v5yn&dl=0)
+- Interests: Hiking, [Astrology](https://www.dropbox.com/scl/fi/mwd6zrp249c8at016sbmx/astrology.pdf?rlkey=8o904od5jyw0dmm4r1sm0v5yn&dl=0)
