@@ -32,13 +32,13 @@ My experience at Shanghai ignited my interest in politics, a field differs from 
  (First author  with [Jiakun Zheng](https://scholar.google.com/citations?hl=zh-CN&user=c-6NWRcAAAAJ), [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) and [Yana Jin](http://scholar.pku.edu.cn/yjin/bio)). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162) 
 - From Scarcity to Spike: The Impact of Childhood Famine Trauma on Fiscal Expenditure Behavior (with Andong Zhuge). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4646240). under review
 - Bridging trust through institution and process: the causal effect of e-government on political trust (with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/dpa/409af343e573423d9fecc98e39474c7e.htm)).under review
-- Unintended Liberation : The Political Impact of Hong Kong Entertainment TV (with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
   
 ## Working in Progress
 - I feel as if they were me，with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)
 - Coordinated Environmental Regulation, with [Juan Du](https://faculty.ecnu.edu.cn/_s35/dj2_23449/main.psp)
 - Relocation to Urbanization, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Gu
 - corruption, with [Maoliang Ye](https://www.sustech.edu.cn/en/faculties/yemaoliang.html)
+- Unintended Liberation : The Political Impact of Hong Kong Entertainment TV (with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
   
 ## Book Chapters
 - Xing Chen, Jun Fu, Jintao Xu: "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1)
