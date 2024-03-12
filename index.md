@@ -115,5 +115,5 @@ Third prize for excellent papers in China Public Administration Annual Conferenc
 - Language: English (fluent); Mandarin Chinese (native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
 - Personal: born in 1993, married
-- Interests: Hiking, [Astrology](https://www.dropbox.com/scl/fi/mwd6zrp249c8at016sbmx/astrology.pdf?rlkey=8o904od5jyw0dmm4r1sm0v5yn&dl=0)
+- Interests: Hiking, [Astrology](https://www.dropbox.com/scl/fi/i0fz5znkpvxnhtjcjyvvn/astrology.pdf?rlkey=f88s2ca17gbmhq9p7242zezv2&dl=0)
 
