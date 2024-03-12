@@ -112,6 +112,7 @@ Third prize for excellent papers in China Public Administration Annual Conferenc
 - I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
   
 ## Additional Information
-- Language: English (fluent); Chinese (native)
+- Language: English (fluent); Mandarin Chinese (native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
 - Interests: Hiking, [Astrology](https://www.dropbox.com/scl/fi/mwd6zrp249c8at016sbmx/astrology.pdf?rlkey=8o904od5jyw0dmm4r1sm0v5yn&dl=0)
+- Personal: born in 1993, married
