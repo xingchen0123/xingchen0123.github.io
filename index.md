@@ -35,7 +35,7 @@ My experience at Shanghai ignited my interest in politics, a field differs from 
   
 ## Working in Progress
 - I feel as if they were me，with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)
-- Coordinated Environmental Regulation, with [Juan Du](https://faculty.ecnu.edu.cn/_s35/dj2_23449/main.psp)
+- Motivated free-riding
 - Relocation to Urbanization, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Gu
 - corruption, with [Maoliang Ye](https://www.sustech.edu.cn/en/faculties/yemaoliang.html)
 - Unintended Liberation : The Political Impact of Hong Kong Entertainment TV (with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
