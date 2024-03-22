@@ -31,7 +31,7 @@ My experience at Shanghai ignited my interest in politics, diverging from my ini
  (First author  with [Jiakun Zheng](https://scholar.google.com/citations?hl=zh-CN&user=c-6NWRcAAAAJ), [Jianhua Xu](https://www.ghd.pku.edu.cn/English/People/Faculty_fe5100f8d50a4875a92ad8991380a172/X_fe5100f8d50a4875a92ad8991380a172/XUjianhua/index.blk.htm) and [Yana Jin](http://scholar.pku.edu.cn/yjin/bio)). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162) 
 - Land Reform, Emerging Grassroots Democracy and Political Trust: Evidence from China’s Collective Forest Tenure Reform (First author  with [Yuanyuan Yi](https://nsd.pku.edu.cn/szdw/yjyxl/y6/515466.htm#), [Jintao Xu](https://nsd.pku.edu.cn/szdw/qzjs/x/262188.htm) and Andong Zhuge).[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0). under review
 - From Scarcity to Spike: The Impact of Childhood Famine Trauma on Fiscal Expenditure Behavior (with Andong Zhuge). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4646240). under review
-- Bridging trust through institution and process: the causal effect of e-government on political trust (with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/dpa/409af343e573423d9fecc98e39474c7e.htm)).under review
+- Bridging trust through institution and process: the causal effect of e-government on political trust (with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/xzglx/32b832e6a5fd4c61a50c7a0924a5cd1b.htm)).under review
   
 ## Working in Progress
 - I feel as if they were me，with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)
