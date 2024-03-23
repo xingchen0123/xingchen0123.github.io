@@ -54,16 +54,16 @@ My experience at Shanghai ignited my interest in politics and diverted me from m
 ## Teaching
 At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels and sometimes received incredibly high teaching evaluation scores. At Peking University, I taught graduate-level microeconomics for international students. 
 ### *Instructor at Fudan University*
-- **Research Methods in Social Science(POLI620041)**: graduate course, Fall 2021 Average Ratings: 99.76/100.[[slides]](https://www.dropbox.com/scl/fo/v3s13hmyw4n4zntshz8lj/h?rlkey=e3he03k7m7b3hhcpzev13dgop&dl=0)
+- **Research Methods in Social Science(POLI620041)**: graduate course, Fall 2021 Average Ratings: 99.76/100.
   <details><summary>Introduction:</summary>
   This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
   </details>
 - **Quantitative research methods in public administration (POLI630112)**: graduate course, Spring 2021, Spring 2022, Spring
-2024, Average Ratings: 99.64/100.[[readinglist](https://www.dropbox.com/scl/fi/0niw72qcwv1hiib7byzrf/Method_reading_list.pdf?rlkey=ztn32vemmm39po2ggu9yojq1f&dl=0)][[slides]](https://www.dropbox.com/scl/fo/8zw2nzi5oc29eu37pu59i/h?rlkey=ygr5qgwlmpqlsj7a9kjy1c6a3&dl=0)
+2024, Average Ratings: 99.64/100.[[readinglist](https://www.dropbox.com/scl/fi/0niw72qcwv1hiib7byzrf/Method_reading_list.pdf?rlkey=ztn32vemmm39po2ggu9yojq1f&dl=0)]
   <details><summary>Introduction:</summary>
   Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference and empirical strategy, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to clean data, create graphs and tables, and conduct basic statistical analysis.
    </details>
-- **Principles of Economics(POLI130004)**: undergraduate course, Fall 2022, Fall 2023, Average Ratings: 93.1/100.[[slides]](https://www.dropbox.com/scl/fo/4lr7infcxsp0vvcbgvrc3/h?rlkey=3qrszd8uhv2cd0j0guqcgwtt0&dl=0)
+- **Principles of Economics(POLI130004)**: undergraduate course, Fall 2022, Fall 2023, Average Ratings: 93.1/100.
   <details><summary>Introduction:</summary>
    An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.
    </details>
