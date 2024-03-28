@@ -32,9 +32,9 @@ My experience at Shanghai ignited my interest in politics and diverted me from m
 - Land Reform, Emerging Grassroots Democracy and Political Trust: Evidence from China’s Collective Forest Tenure Reform (First author  with [Yuanyuan Yi](https://nsd.pku.edu.cn/szdw/yjyxl/y6/515466.htm#), [Jintao Xu](https://nsd.pku.edu.cn/szdw/qzjs/x/262188.htm) and Andong Zhuge).[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0). under review
 - From Scarcity to Spike: The Impact of Childhood Famine Trauma on Fiscal Expenditure Behavior (with Andong Zhuge). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4646240). under review
 - Bridging trust through institution and process: the causal effect of e-government on political trust (with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/xzglx/32b832e6a5fd4c61a50c7a0924a5cd1b.htm)).under review
+- Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust，with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)
   
 ## Working in Progress
-- I feel as if they were me，with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)
 - Motivated free-riding
 - Relocation to Urbanization, with [Jianzi He](https://igpp.fudan.edu.cn/igppen/e6/02/c20933a386562/page.htm) and Jiayu Gu
 - corruption, with [Maoliang Ye](https://www.sustech.edu.cn/en/faculties/yemaoliang.html)
