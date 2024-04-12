@@ -101,9 +101,8 @@ World Development, 经济学季刊(*2), Journal of Chinese Political Science, Ch
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
   
 ## Awards
-Third prize for best papers in China Public Administration Annual Conference (2023)
-Peking University Outstanding Research Award(2019)
-
+- Third prize for best papers in China Public Administration Annual Conference (2023)
+- Peking University Outstanding Research Award(2019)
 
 ## PhD Program Placements of RAs
 - Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester)
@@ -113,6 +112,6 @@ Peking University Outstanding Research Award(2019)
 ## Additional Information
 - Language: English (fluent); Mandarin Chinese (native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
-- Personal: born in 1993, married
+- Personal: Born 1993, Jiangsu, China; Married.
 - Interests: Hiking, [Astrology](https://www.dropbox.com/scl/fi/i0fz5znkpvxnhtjcjyvvn/astrology.pdf?rlkey=f88s2ca17gbmhq9p7242zezv2&dl=0)
 
