@@ -13,9 +13,7 @@ My experience at Shanghai ignited my interest in politics and diverted me from m
  
 ## Education
 - PhD in Environmental Economics, Peking University, 2020
-<br>
 - Visiting scholar, Agricultural and Resource Economics, UC Berkeley, 2017-2018
-<br>
 - B.S.in Environmental Science, Peking University, 2015
 
 
