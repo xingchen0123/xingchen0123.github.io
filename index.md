@@ -14,7 +14,7 @@ My experience at Shanghai ignited my interest in politics and diverted me from m
 ## Education
 - PhD in Environmental Economics, Peking University, 2020
 <br>
-- Visiting scholar, UC Berkeley, 2017-2018
+- Visiting scholar, Agricultural and Resource Economics, UC Berkeley, 2017-2018
 <br>
 - B.S.in Environmental Science, Peking University, 2015
 
@@ -34,7 +34,7 @@ My experience at Shanghai ignited my interest in politics and diverted me from m
 - Bridging trust through institution and process: the causal effect of e-government on political trust (First author with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/xzglx/32b832e6a5fd4c61a50c7a0924a5cd1b.htm)).under review
 - Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust (First and corresponding author with [Xiaoxiao Shen](https://xiaoxiaoshen.co/))
   
-## Selected Working in Progress
+## Working in Progress
 - Motivated free-riding
 - Unintended Liberation : The Political Impact of Hong Kong Entertainment TV (with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
   
@@ -65,12 +65,10 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
   <details><summary>Introduction:</summary>
    An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.
    </details>
-  
 - **Quantitative Research Method (POLI130173)**:undergraduate course, Fall 2022, Average Ratings: 89.76/100.
     <details><summary>Introduction:</summary>
      An introduction course covering basic statistical analysis. 
    </details>
-   
 - **Environmental policy and management (POLI130226)**:undergraduate course, Spring 2022, Average Ratings: 92.44/100.
   <details><summary>Introduction:</summary>
    This course provides an overview of China's environmental governance since 2000. By introducing the microeconomic foundations of environmental policies, analyzing China's pollution control efforts, and examining the impacts of environmental regulation, this course aims to equip students with the knowledge about the policy design and implementation in addressing future environmental challenges.
