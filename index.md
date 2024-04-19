@@ -35,6 +35,7 @@ My experience at Shanghai ignited my interest in politics and diverted me from m
 ## Working in Progress
 - Motivated free-riding
 - Unintended Liberation : The Political Impact of Hong Kong Entertainment TV (with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
+- Mental health and political trust (with Xiaoxiao Shen)
   
 ## Book Chapters
 - Chapter 8: Simple Regression Analysis; Chapter 9: Multiple Regression Analysis. Political Science Research Methods (in Chinese).[[link]](http://www.fudanpress.com/news/showdetail.asp?bookid=15604)
