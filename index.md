@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! My name is Xing Chen (陈醒). I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my PhD in Environmental Economics and bachelor degree in Environmental Science from [Peking University](https://english.pku.edu.cn/). My advisor was Professor [Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm#) from [National School of Development](https://www.nsd.pku.edu.cn/xygk/xygk1/index.htm). Additionally, I spent a year as a visiting scholar at [UC Berkeley](https://are.berkeley.edu/), supervised by the esteemed environmental economist, [Peter Berck](https://are.berkeley.edu/users/peter-berck).
 
-My experience at Shanghai ignited my interest in politics and diverted me from my initial academic path. I now study **Public Opinion, Political Economy, and Political Psychology**. Leveraging observations from the real world, I provide evidence-based insights into how information, trauma, and cultural norms shape political trust and decision-making. My research connects public administration, political science, and economics, with work published in  **Governance**, **Public Performance&Management Review**. If you want to collaborate, feel free to email me.
+My experience at Shanghai ignited my interest in politics and diverted me from my initial academic path. I now study **Political Economy, Public Opinion, and Political Psychology**. Leveraging observations from the real world, I provide evidence-based insights into how information, trauma, and cultural norms shape political trust and decision-making. My research connects public administration, political science, and economics, with work published in  **Governance**, **Public Performance&Management Review**. If you want to collaborate, feel free to email me.
 
 ## Academic Position
 -  2020-present, Assistant professor, School of International Relations and Public Affairs, Fudan University
@@ -35,11 +35,6 @@ My experience at Shanghai ignited my interest in politics and diverted me from m
 - From Scarcity to Spike: The Impact of Childhood Famine Trauma on Fiscal Expenditure Behavior (First and corresponding author with Ping Zhang, Andong Zhuge). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4646240). under review
 - Bridging trust through institution and process: the causal effect of e-government on political trust (First author with [Hanchen Jiang](http://schpa.uibe.edu.cn/szdw/xxjs/xzglx/32b832e6a5fd4c61a50c7a0924a5cd1b.htm)).under review
 - Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust (First and corresponding author with [Xiaoxiao Shen](https://xiaoxiaoshen.co/)). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4786195)
-  
-## Working in Progress
-- Motivated free-riding
-- Unintended Liberation : The Political Impact of Hong Kong Entertainment TV (with [Renji Zhou](https://ii.umich.edu/ii/people/all/r/renjizh.html))
-- Mental health and political trust (with Xiaoxiao Shen)
   
 ## Book Chapters
 - Chapter 8: Simple Regression Analysis; Chapter 9: Multiple Regression Analysis. Political Science Research Methods (in Chinese).[[link]](http://www.fudanpress.com/news/showdetail.asp?bookid=15604)
