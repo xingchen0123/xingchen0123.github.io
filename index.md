@@ -24,8 +24,8 @@ My experience at Shanghai ignited my interest in politics and diverted me from m
 - **Chen, Xing**, and [Jintao Xu](https://en.nsd.pku.edu.cn/faculty/fulltime/x/239550.htm). 2018. "Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects." ***Asian Development Review*** 35(2): 131–52. [[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of), [[PDF]](https://www.dropbox.com/scl/fi/i9uh9jhm752v6jiooa93r/1.ADR.pdf?rlkey=zje9pc6y9tl5eqqq2pwmvwxe4&dl=0)
   
 ## Publications in Chinese
-- 陈醒,余晓非.中国碳交易市场的减排效果：基于合成控制法的实证分析[J].复旦公共行政评论,2023(01):207-240.
-- 陈醒,徐晋涛.化工企业污染物影子价格的估计——基于参数化的方向性距离函数[J].北京大学学报(自然科学版),2021,57(02):341-350.
+- 陈醒,余晓非.中国碳交易市场的减排效果：基于合成控制法的实证分析[J].复旦公共行政评论,2023(01):207-240.[[link]](https://kns.cnki.net/kcms2/article/abstract?v=1ya23wS0yuD3nbJlPKVqOBi5skBtcJ-hlRD26m1QkFW9nHh5vA8g_an7g5F16GBvSeFdcbqKFutjM1X8yBMzXmxqebsw0GMn-c7EwxTYFoKd-3zFFFNMMjaNxXM9cog5WR2j_Nfj8bU=&uniplatform=NZKPT&language=CHS)
+- 陈醒,徐晋涛.化工企业污染物影子价格的估计——基于参数化的方向性距离函数[J].北京大学学报(自然科学版),2021,57(02):341-350.[[link]](https://kns.cnki.net/kcms2/article/abstract?v=1ya23wS0yuAnvTQlGTNGY0MfJuZXKYlCrFxYaXI8aoSi1u3RwBDSOobMbeSQAGh8OXVbPzqxZGYk0egp-iQqVCGgIBJksvDyUuYqj_v64zWITiuJv0HGO2QTS2kPj9LZ0v9EoCPAXKeT6kHJ_GNG1A==&uniplatform=NZKPT&language=CHS)
 - 北京大学国家发展研究院能源安全与国家发展研究中心、中国人民大学经济学院能源经济系联合课题组,王敏.关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究[J].国际经济评论,2018(04):67-85+6.(以课题组名义发表). [[link]](https://oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GJPP201804005&uniplatform=OVERSEA&v=MY23A1ckSLSZTyb5XPa4j7QkPXk3Y_fQJAJsdN2Jp5kwko9MWWXZVS7HRJIIzrBd), [[PDF]](https://www.dropbox.com/scl/fi/hrryf7cbds9y7ppkarfr2/2..pdf?rlkey=pl94l7x84ecwsjk6zj76z2clh&dl=0)
 
 ## Working Papers
