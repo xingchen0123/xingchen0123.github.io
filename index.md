@@ -98,7 +98,7 @@ World Development, 经济学季刊(*2), Journal of Chinese Political Science, Ch
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
   
 ## Awards
-- Third prize for best papers in China Public Administration Annual Conference (2023)
+- China Public Administration Annual Conference 2023 Third Prize for Best Papers
 - Peking University Outstanding Research Award(2019)
 
 ## PhD Program Placements of RAs
