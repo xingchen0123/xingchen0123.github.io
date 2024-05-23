@@ -9,7 +9,7 @@ Hi! My name is Xing Chen (陈醒). I am an assistant professor at [School of In
 My experience at Shanghai ignited my interest in Political Science and Public Administration. Extending beyond Environmental Economics, I now study **Political Behavior, Public Opinion, and Political Economy**. Leveraging real-world observations and applied econometrics, I provide evidence-based insights into how information, trauma, and cultural norms shape political trust and decision-making. My research connects public administration, political science, and economics, with work published in  **Governance**, **Public Performance&Management Review**. If you want to collaborate, feel free to email me.
 
 ## Academic Position
--  2020-present, Assistant professor, Department of Public Administration, School of International Relations and Public Affairs, Fudan University
+-  2020-present, Assistant professor, School of International Relations and Public Affairs, Fudan University
  
 ## Education
 - PhD in Environmental Economics, Peking University, 2020
