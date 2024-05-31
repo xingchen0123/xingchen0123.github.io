@@ -28,9 +28,6 @@ My experience at Shanghai ignited my interest in Political Science and Public Ad
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162) 
 - Land Reform, Emerging Grassroots Democracy, and Political Trust: Evidence from China’s Collective Forest Tenure Reform (first author  with Yuanyuan Yi, Jintao Xu and Andong Zhuge).[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0). under review
-- Bridging Trust Through Institution and Process: the Causal Effect of E-government on Political Trust (first author with Hanchen Jiang).under review
-- The Enduring Trauma: How officials’ Childhood Famine Experiences Affect Year-End Spending Surge (first author with Peng Zhang, Ping Zhang, Andong Zhuge)
-- Old Boys’ power Illusion: Hometown Elites’ Promotion and Political Trust  (first and corresponding author with Xiaoxiao Shen)
   
 ## Book Chapters
 - Chapter 8: Simple Regression Analysis; Chapter 9: Multiple Regression Analysis. Political Science Research Methods (in Chinese).[[link]](http://www.fudanpress.com/news/showdetail.asp?bookid=15604)
