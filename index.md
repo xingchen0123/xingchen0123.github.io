@@ -91,7 +91,7 @@ World Development, 经济学季刊(*2), Journal of Chinese Political Science, Ch
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
   
 ## Awards
-- Runner-up for the APPAM-CPSG Best Policy Research Article Award (2024)
+- Runner-up for CPSG Best Policy Research Article Award (2024)
 - China Public Administration Annual Conference Third Prize for Best Papers (2023)
 - Peking University Outstanding Research Award (2019)
 
