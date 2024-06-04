@@ -91,9 +91,9 @@ World Development, 经济学季刊(*2), Journal of Chinese Political Science, Ch
 - [Research Fellow, EfD in China/EEPC.](https://www.efdinitiative.org/about-efd/people/chen-xing)
   
 ## Awards
-- Runner-up for the CPSG Best Policy Research Article Award
-- China Public Administration Annual Conference 2023 Third Prize for Best Papers
-- Peking University Outstanding Research Award(2019)
+- Runner-up for the CPSG Best Policy Research Article Award (2024)
+- China Public Administration Annual Conference Third Prize for Best Papers (2023)
+- Peking University Outstanding Research Award (2019)
 
 ## PhD Program Placements of RAs
 - Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester)
