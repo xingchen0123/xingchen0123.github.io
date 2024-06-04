@@ -19,7 +19,7 @@ My experience at Shanghai ignited my interest in Political Science and Public Ad
 
 ## Publications
 - **Chen, Xing**, Xiaoxiao Shen, and Andong Zhuge. 2023. "Pollution Matters: The Political Cost of Information Disclosure". ***Governance***: 1-23. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847), [[PDF]](https://www.dropbox.com/scl/fi/ioegdz93cav9s4qj3gatq/pollution_trust_governance.pdf?rlkey=txcla4ewh4f09sbqgmmesq3dl&dl=0)
-  - runner-up for the CPSG Best Policy Research Article Award
+  - Runner-up for the CPSG Best Policy Research Article Award
   - China Public Administration Annual Conference 2023 Third Prize for Best Papers
 - **Chen, Xing**, Hanchen Jiang, and Jiaheng Ling. 2024. “Addressing Multitasking Problems through Promotion Incentives: An Empirical Study of Local Governments in China.” ***Public Performance & Management Review***: 1–27.[[link]](https://www.tandfonline.com/doi/full/10.1080/15309576.2024.2302390),[[PDF]](https://www.dropbox.com/scl/fi/9nskogo75r9z4o62lx6sz/border_promotion_PPMR.pdf?rlkey=ie83bzz2kpf3v5jy68f1rlzsl&dl=0)
 - **Chen, Xing**, Xuan Wang, Tianyang Xi, and Jintao Xu. 2023. "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China’s Industrial Sector: A Firm-Level Analysis." ***China Economic Journal*** 16(2): 217–39. [[link]](https://www.tandfonline.com/doi/abs/10.1080/17538963.2023.2244281), [[PDF]](https://www.dropbox.com/scl/fi/gr3vm1ktbbhjp03tt9elj/Estimating-the-CO2-marginal-abatement-cost-and-implications-for-climate-policies-in-China-s-industrial-sector-A-firm-level-analysis.pdf?rlkey=onayf0x48pwa3tymmfw2seom5&dl=0)
