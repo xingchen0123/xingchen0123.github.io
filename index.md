@@ -105,6 +105,5 @@ World Development, 经济学季刊(*2), Journal of Chinese Political Science, Ch
 ## Additional Information
 - Language: English (fluent); Mandarin Chinese (native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
-- Personal: Born 1993, Jiangsu, China; Married.
 - Interests: Hiking, [Astrology](https://www.dropbox.com/scl/fi/i0fz5znkpvxnhtjcjyvvn/astrology.pdf?rlkey=f88s2ca17gbmhq9p7242zezv2&dl=0)
 
