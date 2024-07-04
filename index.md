@@ -32,9 +32,9 @@ My experience at Shanghai ignited my interest in Political Science and Public Ad
 - Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust (first and corresponding author  with Xiaoxiao Shen). under review
 
 ## Awards
-- Runner-up for CPSG Best Policy Research Article Award (2024)
-- China Public Administration Annual Conference Third Prize for Best Papers (2023)
-- Peking University Outstanding Research Award (2019)
+- Runner-up for CPSG Best Policy Research Article Award, 2024
+- China Public Administration Annual Conference Third Prize for Best Papers, 2023
+- Peking University Outstanding Research Award, 2019
   
 ## Book Chapters
 - Chapter 8: Simple Regression Analysis; Chapter 9: Multiple Regression Analysis. Political Science Research Methods (in Chinese).[[link]](http://www.fudanpress.com/news/showdetail.asp?bookid=15604)
