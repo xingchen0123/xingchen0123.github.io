@@ -28,8 +28,8 @@ My experience at Shanghai ignited my interest in Political Science and Public Ad
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162) 
 - Land Reform, Emerging Grassroots Democracy, and Political Trust: Evidence from China’s Collective Forest Tenure Reform (first author  with Yuanyuan Yi, Jintao Xu and Andong Zhuge).[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0). 
-- The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge （first and corresponding author  with Ping Zhang and Andong Zhuge). 
-- Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust (first and corresponding author  with Xiaoxiao Shen). 
+- The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge （first and corresponding author with Ping Zhang and Andong Zhuge). 
+- Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust (first and corresponding author with Xiaoxiao Shen). 
 
 ## Awards
 - Runner-up for CPSG Best Policy Research Article Award, 2024
@@ -95,7 +95,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 
 ## PhD Program Placements of RAs
 - Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester)
-- Master Students: Jiaheng Ling (PhD in Public Administration, Tsinghua), Andong Zhuge (PhD in Public Administration, Fudan)
+- Master Students: Zhuowen Qin (PhD in Political Economy, KCL), Gulijiayina Wusufukan (PhD in International Development, Oxford), Jiaheng Ling (PhD in Public Policy, Tsinghua), Andong Zhuge (PhD in Public Policy, Fudan)
 - I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
   
 ## Additional Information
