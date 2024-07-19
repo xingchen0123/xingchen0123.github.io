@@ -101,5 +101,5 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 ## Additional Information
 - Language: English (fluent); Mandarin Chinese (native)
 - Software: Stata, MATLAB, ArcGIS, LaTeX
-- Interests: Hiking, [Astrology](https://www.dropbox.com/scl/fi/i0fz5znkpvxnhtjcjyvvn/astrology.pdf?rlkey=f88s2ca17gbmhq9p7242zezv2&dl=0)
+- Interests: Hiking, Astrology
 
