@@ -94,7 +94,8 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 - 2017: Asian Development Review Conference, Seoul, Korea
 
 ## Referee for
-经济学季刊(*2), Chinese Political Science Review, Global Public Policy and Governanc, International Journal of Public Administration, Journal of Chinese Political Science, Public Administration and Development, World Development
+经济学季刊(*2), Chinese Political Science Review, Global Public Policy and Governanc, International Journal of Public Administration, Journal of
+Chinese Governance, Journal of Chinese Political Science, Public Administration and Development, World Development
 
 ## PhD Program Placements of RAs
 - Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester)
