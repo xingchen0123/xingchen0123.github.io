@@ -9,7 +9,7 @@ Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktiona
 My experience at Shanghai ignited my interest in Political Science and Public Administration. Leveraging real-world observations and applied econometrics, I provide evidence-based insights into how information, personal experiences, and cultural norms shape political trust and decision-making. My research has appeared in **Governance**, **Public Performance&Management Review**. If you want to collaborate, feel free to email me.
 
 ## Research Interest
-- Public Policy, Public Opinion, Political Behavior, Political Economy
+- Public Policy, Public Opinion, Political Economy
 
 ## Academic Position
 -  2020-present, Assistant professor, School of International Relations and Public Affairs, Fudan University
