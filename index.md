@@ -38,7 +38,8 @@ My experience at Shanghai ignited my interest in Political Science and Public Ad
 - Runner-up for CPSG Best Policy Research Article Award, 2024
 - China Public Administration Annual Conference Third Prize for Best Papers, 2023
 - Peking University Outstanding Research Award, 2019
-  
+- Scholarships for Joint Doctoral Programs, China Scholarship Council (CSC), 2017
+
 ## Book Chapters
 - Chapter 8: Simple Regression Analysis; Chapter 9: Multiple Regression Analysis. Political Science Research Methods (in Chinese).[[link]](http://www.fudanpress.com/news/showdetail.asp?bookid=15604)
 - "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1), [[PDF]](https://www.dropbox.com/scl/fi/8de5p3w8rox311rdkxbnw/book1_Chen_BuildingCarbonMarketInChina.pdf?rlkey=rsye4mznd6arvgyiimxgv2brr&st=2go8nhkg&dl=0)
@@ -86,7 +87,10 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 -  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
 
 ## Conference and Invited talks
-- 2024: MPSA (virtual); Public Management Research Conference (PMRC); International Conference on Comparative Public Policy; APSA
+- 2024: Midwest Political Science Association Annual Conference (MPSA), American Political Sci-
+ence Association Annual Meeting (APSA), International Conference on Comparative Public Pol-
+icy, IRSPM, PMRC, International Conference on China Policy Studies, Authoritarian Political
+Systems Group Workshop (virtual)
 - 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
 - 2021: CCER Summer Institute
 - 2019: China Economics Annual Conference; The 8th Congress of the East Asian Association of Environmental and Resource Economics
