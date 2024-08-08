@@ -22,7 +22,7 @@ My experience at Shanghai ignited my interest in Political Science and Public Ad
 
 ## Publications
 - **Chen, Xing**, Xiaoxiao Shen, and Andong Zhuge. 2023. "Pollution Matters: The Political Cost of Information Disclosure". ***Governance***: 1-23. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847), [[PDF]](https://www.dropbox.com/scl/fi/ioegdz93cav9s4qj3gatq/pollution_trust_governance.pdf?rlkey=txcla4ewh4f09sbqgmmesq3dl&dl=0)
-  - CPSG (APPAM) Best Policy Journal Article Award (honorable mention), 2024
+  - APPAM-CPSG Best Policy Journal Article Award (Honorable Mention), 2024
   - China Public Administration Annual Conference Best Paper Award (Third Prize), 2023
 - **Chen, Xing**, Hanchen Jiang, and Jiaheng Ling. 2024. “Addressing Multitasking Problems through Promotion Incentives: An Empirical Study of Local Governments in China.” ***Public Performance & Management Review***: 1–27.[[link]](https://www.tandfonline.com/doi/full/10.1080/15309576.2024.2302390),[[PDF]](https://www.dropbox.com/scl/fi/9nskogo75r9z4o62lx6sz/border_promotion_PPMR.pdf?rlkey=ie83bzz2kpf3v5jy68f1rlzsl&dl=0)
 - **Chen, Xing**, Xuan Wang, Tianyang Xi, and Jintao Xu. 2023. "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China’s Industrial Sector: A Firm-Level Analysis." ***China Economic Journal*** 16(2): 217–39. [[link]](https://www.tandfonline.com/doi/abs/10.1080/17538963.2023.2244281), [[PDF]](https://www.dropbox.com/scl/fi/gr3vm1ktbbhjp03tt9elj/Estimating-the-CO2-marginal-abatement-cost-and-implications-for-climate-policies-in-China-s-industrial-sector-A-firm-level-analysis.pdf?rlkey=onayf0x48pwa3tymmfw2seom5&dl=0)
@@ -32,8 +32,8 @@ My experience at Shanghai ignited my interest in Political Science and Public Ad
 ## Working Papers
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162) 
-- Land Reform, Emerging Grassroots Democracy, and Political Trust in China (first author  with Yuanyuan Yi, Jintao Xu and Andong Zhuge).[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0). Revise and Resubmist at World Development
-- The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge （first and corresponding author with Ping Zhang and Andong Zhuge). Revise and Resubmist at Journal of Development Economics
+- Land Reform, Emerging Grassroots Democracy, and Political Trust in China (first author  with Yuanyuan Yi, Jintao Xu and Andong Zhuge).[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0). Revise and Resubmist at World Development.
+- The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge （first and corresponding author with Ping Zhang and Andong Zhuge). Revise and Resubmist at Journal of Development Economics.
 - Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust (first and corresponding author with Xiaoxiao Shen). 
 
 ## Awards
