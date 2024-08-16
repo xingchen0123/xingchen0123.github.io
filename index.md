@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my PhD in Environmental Economics and bachelor degree in Environmental Science from [Peking University](https://english.pku.edu.cn/). My advisor was Professor [Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm#) from [National School of Development](https://www.nsd.pku.edu.cn/xygk/xygk1/index.htm). Additionally, I spent a year as a visiting scholar at [UC Berkeley](https://are.berkeley.edu/), supervised by Professor [Peter Berck](https://are.berkeley.edu/users/peter-berck).
 
-My experience in Shanghai ignited my interest in Politics, which has since become a central focus of my research. Leveraging real-world observations and applied econometrics, I provide evidence-based insights into how information, trauma experiences, and cultural norms shape political trust and decision-making, with a focus on China. I am particularly interested in how unconscious, deep-seated cultural factors lead to deviations from rational behavior and distort perceptions of new information. My work has been recognized across disciplines, with research published or forthcoming in **Governance**, **Public Performance&Management Review**. 
+My experience in Shanghai ignited my interest in Politics, which has since become the focus of my research. Leveraging real-world observations and applied econometrics, I provide evidence-based insights into how information, trauma experiences, and cultural norms shape political trust and decision-making, particularly in China. I am particularly interested in how unconscious, deep-seated cultural factors lead to deviations from rational behavior and distort perceptions of new information. My work has been recognized across disciplines, with research published or forthcoming in **Governance**, **Public Performance&Management Review**. 
 
 ## Research Interest
 - Public Policy, Public Opinion, Political Economy, Political Behavior
@@ -89,10 +89,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 -  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
 
 ## Conference and Invited talks
-- 2024: Midwest Political Science Association Annual Conference (MPSA), American Political Sci-
-ence Association Annual Meeting (APSA), International Conference on Comparative Public Pol-
-icy, IRSPM, PMRC, International Conference on China Policy Studies, Authoritarian Political
-Systems Group Workshop (virtual)
+- 2024: Midwest Political Science Association Annual Conference (MPSA), American Political Science Association Annual Meeting (APSA), International Conference on Comparative Public Policy, IRSPM, PMRC, International Conference on China Policy Studies, Authoritarian Political Systems Group Workshop (virtual)
 - 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
 - 2021: CCER Summer Institute
 - 2019: China Economics Annual Conference; The 8th Congress of the East Asian Association of Environmental and Resource Economics
