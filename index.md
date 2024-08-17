@@ -21,6 +21,7 @@ My experience in Shanghai ignited my interest in Politics, which has since becom
 
 
 ## Publications
+- **Chen, Xing**, Peng Zhang, Ping Zhang, and Andong Zhuge. 2024. The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge. **Journal of Development Economics**. Forthcoming. [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4875766)
 - **Chen, Xing**, Xiaoxiao Shen, and Andong Zhuge. 2023. "Pollution Matters: The Political Cost of Information Disclosure". ***Governance***: 1-23. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847), [[PDF]](https://www.dropbox.com/scl/fi/ioegdz93cav9s4qj3gatq/pollution_trust_governance.pdf?rlkey=txcla4ewh4f09sbqgmmesq3dl&dl=0)
   - APPAM-CPSG Best Policy Journal Article Award (Honorable Mention), 2024
   - China Public Administration Annual Conference Best Paper Award (Third Prize), 2023
@@ -33,7 +34,6 @@ My experience in Shanghai ignited my interest in Politics, which has since becom
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162) 
 - Land Reform, Emerging Grassroots Democracy, and Political Trust in China (first author  with Yuanyuan Yi, Jintao Xu, and Andong Zhuge).[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0). Revise and Resubmit at **World Development**
-- The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge （first author with Peng Zhang, Ping Zhang, and Andong Zhuge). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4875766). Revise and Resubmit at **Journal of Development Economics**
 - Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust (first and corresponding author with Xiaoxiao Shen). 
 
 ## Awards
