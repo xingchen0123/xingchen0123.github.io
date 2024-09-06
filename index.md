@@ -98,7 +98,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 
 ## Referee for
 经济学季刊(*2), Chinese Political Science Review, Global Public Policy and Governanc, International Journal of Public Administration, Journal of
-Chinese Governance, Journal of Chinese Political Science, Public Administration and Development, Public Performance & Management Review, World Development
+Chinese Governance, Journal of Chinese Political Science, Public Administration and Development, Public Management Review, Public Performance & Management Review, World Development
 
 ## PhD Program Placements of RAs
 - Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester)
