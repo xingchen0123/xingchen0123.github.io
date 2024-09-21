@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my PhD in Environmental Economics and bachelor degree in Environmental Science from [Peking University](https://english.pku.edu.cn/). My advisor was Professor [Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm#) from [National School of Development](https://www.nsd.pku.edu.cn/xygk/xygk1/index.htm). Additionally, I spent a year as a visiting scholar at [UC Berkeley](https://are.berkeley.edu/), supervised by Professor [Peter Berck](https://are.berkeley.edu/users/peter-berck).
 
-My experience in Shanghai ignited my interest in Politics, which has since become the focus of my research. Leveraging real-world observations and applied econometrics, I provide evidence-based insights into how information, trauma experiences, and cultural norms shape political trust and decision-making. I am particularly interested in how unconscious, deep-seated cultural factors lead to deviations from rational behavior and distort perceptions of new information. My work has been recognized across disciplines, with research published or forthcoming in **Governance**, **Journal of Development Economics**, **Public Performance&Management Review**. 
+My experience in Shanghai ignited my interest in Politics, which has since become the focus of my research. Leveraging real-world observations and applied econometrics, I provide evidence-based insights into how information, trauma experiences, and cultural norms shape political trust and decision-making. I am particularly interested in how unconscious, deep-seated cultural factors lead to deviations from rational behavior and distort perceptions of new information. My work has been recognized across disciplines, with research published or forthcoming in **Governance**, **Journal of Development Economics**, **Public Performance&Management Review**, **World Development**. 
 
 ## Research Interest
 - Public Policy, Public Opinion, Political Economy, Political Psychology
@@ -21,6 +21,7 @@ My experience in Shanghai ignited my interest in Politics, which has since becom
 
 
 ## Publications
+- **Chen, Xing**,  Jintao Xu, Yuanyuan Yi, and Andong Zhuge. 2024."Land Reform, Emerging Grassroots Democracy and Political Trust in China." **World Development**. [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0).
 - **Chen, Xing**, Peng Zhang, Ping Zhang, and Andong Zhuge. 2024. "The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge." ***Journal of Development Economics*** 171: 103356. [[link]](https://www.sciencedirect.com/science/article/pii/S0304387824001056), [[PDF]](https://www.dropbox.com/scl/fi/j33aor9v3n6f60d524djp/trauma_yess.pdf?rlkey=utzfbjeray27u9stltavswjyo&st=vm60jq69&dl=0)
 - **Chen, Xing**, Hanchen Jiang, and Jiaheng Ling. 2024. “Addressing Multitasking Problems through Promotion Incentives: An Empirical Study of Local Governments in China.” ***Public Performance & Management Review*** 47(3): 654–80.[[link]](https://www.tandfonline.com/doi/full/10.1080/15309576.2024.2302390),[[PDF]](https://www.dropbox.com/scl/fi/9nskogo75r9z4o62lx6sz/border_promotion_PPMR.pdf?rlkey=ie83bzz2kpf3v5jy68f1rlzsl&dl=0)
 - **Chen, Xing**, Xiaoxiao Shen, and Andong Zhuge. 2023. "Pollution Matters: The Political Cost of Information Disclosure". ***Governance***: 1-23. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847), [[PDF]](https://www.dropbox.com/scl/fi/ioegdz93cav9s4qj3gatq/pollution_trust_governance.pdf?rlkey=txcla4ewh4f09sbqgmmesq3dl&dl=0)
@@ -35,8 +36,7 @@ My experience in Shanghai ignited my interest in Politics, which has since becom
 ## Working Papers
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162) 
-- Land Reform, Emerging Grassroots Democracy and Political Trust in China (first author  with Jintao Xu, Yuanyuan Yi, and Andong Zhuge).[[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0). Revise and Resubmit at **World Development**
-- Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust (first and corresponding author with Xiaoxiao Shen). 
+- Old Boys' Power Illusion: Hometown Elites' Promotion and Political Trust (first and corresponding author with Xiaoxiao Shen)
 
 ## Awards
 - CPSG Best Policy Research Article Award (honorable mention), 2024
