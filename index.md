@@ -23,6 +23,7 @@ My research has appeared or is forthcoming in leading journals, including **Gove
 
 
 ## Publications
+### Publications in English
 - **Chen, Xing**, Jintao Xu, Yuanyuan Yi, and Andong Zhuge. 2024. "Land Reform, Emerging Grassroots Democracy and Political Trust in China." ***World Development***. Forthcoming. [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4569967) [[CCER讨论稿]](https://nsd.pku.edu.cn/cbw/tlg1/tlg2023/532016.htm)[[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0).
 - **Chen, Xing**, Peng Zhang, Ping Zhang, and Andong Zhuge. 2024. "The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge." ***Journal of Development Economics*** 171: 103356. [[link]](https://www.sciencedirect.com/science/article/pii/S0304387824001056), [[PDF]](https://www.dropbox.com/scl/fi/j33aor9v3n6f60d524djp/trauma_yess.pdf?rlkey=utzfbjeray27u9stltavswjyo&st=vm60jq69&dl=0)
 - **Chen, Xing**, Xiaoxiao Shen, and Andong Zhuge. 2024. “Pollution Matters: The Political Cost of Information Disclosure.” ***Governance*** 37(4): 1275–97. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847), [[PDF]](https://www.dropbox.com/scl/fi/g96ygorhtfdqojthqg6nu/pollution_trust.pdf?rlkey=g603ksk85qlilftjmpjfit0sg&st=dhjumfyk&dl=0)
