@@ -8,7 +8,7 @@ Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktiona
 
 My experiences in Shanghai ignited my interest in politics. My current research focuses on public opinion in authoritarian regimes, particularly in China. Leveraging real-world observations and applied econometrics, I explore how information, trauma, and cultural norms shape political trust and decision-making. I am particularly interested in how deep-seated psychocultural factors, operating subconsciously, distort perceptions of information for individuals living under authoritarian rule.
 
-My research has appeared or is forthcoming in leading journals, including **Governance, Journal of Development Economics, and World Development**.
+My research has appeared or is forthcoming in **Governance, Journal of Development Economics, and World Development**, among other journals.
 
 ## Research Interest
 - Public Policy, Public Opinion, Political Economy
