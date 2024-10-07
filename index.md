@@ -13,14 +13,15 @@ My research has appeared or is forthcoming in ***Governance, Journal of Developm
 ## Research Interest
 - Public Policy, Public Opinion, Political Economy
 
-## Academic Position
+## Academic Employment
 -  2020-present, Assistant professor, School of International Relations and Public Affairs, Fudan University
+
+## Visiting Appointments
+- Visiting scholar, Agricultural and Resource Economics, UC Berkeley, 2017-2018
  
 ## Education
 - PhD in Environmental Economics, Peking University, 2020
-- Visiting scholar, Agricultural and Resource Economics, UC Berkeley, 2017-2018
 - B.S. in Environmental Science, Peking University, 2015
-
 
 ## Publications
 - **Chen, Xing**, Jintao Xu, Yuanyuan Yi, and Andong Zhuge. 2025. “Land Reform, Emerging Grassroots Democracy and Political Trust in China.” ***World Development*** 185: 106792. [[link]](https://www.sciencedirect.com/science/article/pii/S0305750X24002626), [[PDF]](https://www.dropbox.com/scl/fi/x0zhy4i5w38utneojwloz/democracy.pdf?rlkey=sdc0g51oxxk531z7z0457udsx&st=glj2dpq7&dl=0), [[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0).
