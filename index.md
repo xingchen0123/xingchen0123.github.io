@@ -102,11 +102,11 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 - 2018: The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
 - 2017: Asian Development Review Conference, Seoul, Korea
 
+## Manuscript Reviewer 
+经济学季刊(*2), Chinese Political Science Review, Global Public Policy and Governanc, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science, Public Administration and Development, Public Management Review, Public Performance & Management Review, World Development
+
 ## Professional Activities
-### Manuscript Reviewer 
-经济学季刊(*2), Chinese Political Science Review, Global Public Policy and Governanc, International Journal of Public Administration, Journal of
-Chinese Governance, Journal of Chinese Political Science, Public Administration and Development, Public Management Review, Public Performance & Management Review, World Development
-### Editorial board: Global Public Policy and Governance, October 2024- 
+- Editorial board: Global Public Policy and Governance, October 2024- 
 
 ## PhD Program Placements of RAs
 - Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester)
