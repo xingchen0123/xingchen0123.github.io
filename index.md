@@ -16,11 +16,9 @@ My research has appeared or is forthcoming in ***Governance, Journal of Developm
 ## Employment
 -  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
 
-## Visiting Positions
-- Visiting scholar, Agricultural and Resource Economics, UC Berkeley, 2017-2018
- 
 ## Education
 - PhD in Environmental Economics, Peking University, 2020
+- Visiting scholar, Agricultural and Resource Economics, UC Berkeley, 2017-2018
 - B.S. in Environmental Science, Peking University, 2015
 
 ## Publications
