@@ -8,7 +8,7 @@ Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktiona
 
 My experiences in Shanghai ignited my interest in politics. My current research focuses on political economy and political behavior under authoritarianism. Drawing on real-world observations, I provide empirical insights into how information, trauma, and the collective unconscious, individually or collectively, shape political trust and decision-making.
 
-My research has appeared or is forthcoming in ***Governance, Journal of Development Economics, and World Development***, among other journals.
+My research has appeared or is forthcoming in ***Governance, Journal of Development Economics, and World Development***, and other journals.
 
 ## Research Interests
 - Environmental Economics and Politics, Political Economy, Political Behavior, Public Opinion
