@@ -6,12 +6,12 @@ layout: homepage
 
 Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an assistant professor at [School of International Relations and Public Affairs](https://sirpa.fudan.edu.cn/) at [Fudan University](https://www.fudan.edu.cn/en/). I obtained my PhD in Environmental Economics and bachelor degree in Environmental Science from [Peking University](https://english.pku.edu.cn/). My advisor was Professor [Jintao Xu](https://www.nsd.pku.edu.cn/szdw/qzjs/x/262188.htm#) from [National School of Development](https://www.nsd.pku.edu.cn/xygk/xygk1/index.htm). Additionally, I spent a year as a visiting scholar at [UC Berkeley](https://are.berkeley.edu/), supervised by Professor [Peter Berck](https://are.berkeley.edu/users/peter-berck).
 
-My experiences in Shanghai ignited my interest in politics. My current research focuses on political economy and political behavior under authoritarianism. Drawing on real-world observations, I provide empirical insights into how information, trauma, and the collective unconscious shape political trust and decision-making.
+My experiences in Shanghai ignited my interest in politics. My current research focuses on political economy and political opinion under authoritarianism. Drawing on real-world observations, I provide empirical insights into how information, trauma, and psychosocial factors shape political trust and elite decision-making. I am particularly interested in how the collective unconscious of authoritarianism distorts rational perceptions of new information.
 
 My research has appeared or is forthcoming in ***Governance, Journal of Development Economics, World Development***, and other journals.
 
 ## Research Interests
-- Environmental Economics and Politics, Political Economy, Political Behavior, Public Opinion
+- Environmental Economics and Politics, Political Economy, Public Opinion
 
 ## Employment
 -  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
