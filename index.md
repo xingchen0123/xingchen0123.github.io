@@ -103,7 +103,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 - 2017: Asian Development Review Conference, Seoul, Korea
 
 ## Manuscript Reviewer 
-公共管理评论，经济学季刊(*2), Chinese Political Science Review, Environmental Politics, Global Public Policy and Governance, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science, Public Administration and Development, Public Management Review, Public Performance & Management Review, World Development
+公共管理评论，经济学季刊(*2), Chinese Political Science Review, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science, Public Administration and Development, Public Management Review, Public Performance & Management Review, World Development
 
 ## Professional Activities
 - Editorial board: Global Public Policy and Governance, October 2024- 
