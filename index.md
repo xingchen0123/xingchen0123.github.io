@@ -66,7 +66,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
   This course will prepare newly admitted graduate students for other quantitative analysis courses offered in the Politics/Public Administration department and elsewhere. Students will learn basic probability and statistics, as well as programming using Stata. Course is equivalent to intermediate econometrics, covering cross-sectional data analysis.
   </details>
 - **Quantitative Research Methods in Public Administration (POLI630112)**: graduate course, Spring 2021, Spring 2022, Spring
-2024, Average Ratings: 99.64/100.[[readinglist](https://www.dropbox.com/scl/fi/0niw72qcwv1hiib7byzrf/Method_reading_list.pdf?rlkey=ztn32vemmm39po2ggu9yojq1f&dl=0)]
+2024, Spring 2025, Average Ratings: 99.64/100.[[readinglist](https://www.dropbox.com/scl/fi/0niw72qcwv1hiib7byzrf/Method_reading_list.pdf?rlkey=ztn32vemmm39po2ggu9yojq1f&dl=0)]
   <details><summary>Introduction:</summary>
   Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference and empirical strategy, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to clean data, create graphs and tables, and conduct basic statistical analysis.
    </details>
