@@ -11,7 +11,7 @@ My experiences in Shanghai ignited my interest in politics. My current research 
 My research has appeared or is forthcoming in ***Governance, Journal of Development Economics, World Development***, and other journals.
 
 ## Research Interests
-- Environmental Economics and Politics, Political Economy, Political Psychology, Public Opinion
+- Political Psychology, Public Opinion, Political Economy, Environmental Economics and Politics
 
 ## Employment
 -  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
@@ -101,13 +101,13 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 - 2018: The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
 - 2017: Asian Development Review Conference, Seoul, Korea
 
-## Manuscript Reviewer 
+## Manuscript Referee
 公共管理评论, 经济学季刊(*2), Chinese Political Science Review, Comparative Political Studies, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science, Journal of Policy Analysis and Management, Public Administration and Development, Public Management Review, Public Performance & Management Review, World Development
 
 ## Professional Activities
 - Editorial board: Global Public Policy and Governance, October 2024- 
 
-## PhD Program Placements of RAs
+## PhD Program Placements of Research Assistants
 - Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester)
 - Master Students: Zhuowen Qin (PhD in Political Economy, KCL), Gulijiayina Wusufukan (PhD in International Development, Oxford), Jiaheng Ling (PhD in Public Policy, Tsinghua), Andong Zhuge (PhD in Public Policy, Fudan)
 - I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
