@@ -37,8 +37,9 @@ My research has appeared or is forthcoming in ***Governance, Journal of Developm
 
 ## Working Papers
 - The Dynamics of Public Opinion on COVID-19 Policies in China
- (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162) 
-
+ (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
+- Depression Undermines Political Trust (first author with Xiaoxiao Shen)
+  
 ## Awards
 - CPSG Best Policy Research Article Award (honorable mention), 2024
 - China Public Administration Annual Conference Third Prize for Best Papers, 2023
