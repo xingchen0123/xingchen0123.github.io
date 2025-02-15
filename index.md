@@ -50,7 +50,7 @@ My research has appeared or is forthcoming in ***Governance, Journal of Developm
 - Chen, Xing. 2024. Environmental Governance in China: Theory and Practice (in Chinese). Fudan University Press.[[link]](http://www.fudanpress.com/showdetail.asp?bookid=15974)
 - Chapter 8: Simple Regression Analysis; Chapter 9: Multiple Regression Analysis. Political Science Research Methods (in Chinese).[[link]](http://www.fudanpress.com/news/showdetail.asp?bookid=15604)
 - "Building Carbon Market in China: Take Stock and Look Ahead", Climate Mitigation and Adaptation in China: Policy,Technology and Market.  Springer. 2022.[[link]](https://link.springer.com/book/10.1007/978-981-16-4310-1), [[PDF]](https://www.dropbox.com/scl/fi/8de5p3w8rox311rdkxbnw/book1_Chen_BuildingCarbonMarketInChina.pdf?rlkey=rsye4mznd6arvgyiimxgv2brr&st=2go8nhkg&dl=0)
-- Review of the Progress of China's Carbon Trading Pilots, Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[link]](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611), [[PDF]](https://www.dropbox.com/scl/fi/mh3yfunsvwnk59ihxwkj7/book2_-_.pdf?rlkey=j27bbj2jvq2vp5wo1c9e3z3dd&st=ptsebh1e&dl=0)
+- Review of the Progress of China's Carbon Trading Pilots, Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[link]](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)
 - Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese).[[link]](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)
 
 ## Fundings and Projects
