@@ -2,3 +2,11 @@
 ---
 
 @import "minimal-light";
+
+ul li, ol li {
+  margin-bottom: 0.2rem !important; /* Adjust value as needed */
+}
+
+ul, ol {
+  margin-bottom: 0 !important;
+}
