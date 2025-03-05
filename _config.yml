@@ -15,3 +15,17 @@ avatar: ./assets/img/photo3.jpg
 favicon: ./assets/img/2.2_meitu_cut.jpg
 favicon_dark: ./assets/img/2.2_meitu_cut.jpg
 
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+    - assets/css
+
+# include custom CSS
+defaults:
+  - scope:
+      path: ""
+    values:
+      css:
+        - assets/css/custom.css
