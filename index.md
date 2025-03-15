@@ -95,7 +95,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 -  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
 
 ## Conference and Invited talks
-- 2025: Midwest Political Science Association Conference (co-author presentation), Southern Political Science Association Conference (co-author presentation)
+- 2025: Shanghai Jiaotong University (School of International and Public Affairs), Midwest Political Science Association Conference (co-author presentation), Southern Political Science Association Conference (co-author presentation)
 - 2024: Authoritarian Political Systems Group Workshop (virtual), American Political Science Association Annual Meeting (APSA), Midwest Political Science Association Annual Conference (MPSA), International Conference on China Policy Studies, PMRC, International Conference on Comparative Public Policy, IRSPM
 - 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
 - 2021: CCER Summer Institute
