@@ -35,6 +35,7 @@ My research has appeared or is forthcoming in ***Governance, Journal of Developm
 - 陈醒, 余晓非. 2023. “中国碳交易市场的减排效果：基于合成控制法的实证分析.” 复旦公共行政评论 (1): 207–40.[[link]](https://kns.cnki.net/kcms2/article/abstract?v=xyKmmUzEPx1Uyh2P7q1bebk3ScSKURw8iVKVa0kwAp4R8lf5AQXOl6uOIuPN8J_jAcDnPx5xhh23VF4u7zlsn7SBF3JkYterUQt9qc-ttzYiL6HSIFV46Zc_AxlFjCZpnZBRUDiuJo5wxO8UlJ82AYePPWO4qNvZLUs8T510P2ynIGBhMyOb-A0zUZ825cgi&uniplatform=NZKPT&language=CHS)
 - 陈醒, 徐晋涛. 2021. “化工企业污染物影子价格的估计—— 基于参数化的方向性距离函数.” 北京大学学报自然科学版 57(2): 341.[[link]](https://kns-cnki-net-443.webvpn.las.ac.cn/kcms2/article/abstract?v=7gnxONS3vkk6EHD-OYFAhmKv_6-6s630_KpLcPrGaT4uhO0ap1l4gr4t003PoDVnFTIudvFrEVry1DhzrJt3s_fsD38o4o1t94QqFcYrguBw3AuFtm869iH8As5Vu-BYmvTEnZQOmbpSX_3E47rJeEs_JXM2seMnXBLdbG0w7k-CgrdfIx0CW7XXF3dXNCumXOp3ZYTx1vkJwn_2qEGo6YaAtJgyWro-vgNX-jI6xqA=&uniplatform=NZKPT&language=CHS)
 - 北京大学国家发展研究院能源安全与国家发展研究中心、中国人民大学经济学院能源经济系联合课题组,王敏. 2018. “关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究.” ***国际经济评论*** (4): 67-85+6.[[link]](https://kns.cnki.net/kcms2/article/abstract?v=xyKmmUzEPx2PsZSutLI4Q4Et_XawQ54bj4x_BNcAzG5hqR58XV9oUJ-SyU2vIBEIunIZFN1zIdwWgraLgRAKW5EaVwaR9HkpBjrn1BacGucEer7PFw8Fx1RF_IRSDYcjN4GLVYwI_m5t5n26_hEXPqehOLKevi4gWMp7cZG31tOm_e-7p3pWu-in4ncW1SlK&uniplatform=NZKPT&language=CHS)
+  - Led to policy change in China's renewable energy auction rules.
 
 ## Working Papers
 - The Dynamics of Public Opinion on COVID-19 Policies in China
