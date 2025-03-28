@@ -102,8 +102,8 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 - 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
 - 2021: CCER Summer Institute
 - 2019: China Economics Annual Conference; The 8th Congress of the East Asian Association of Environmental and Resource Economics
-- 2018: The 6th World Congress of Environmental and Resource Economists, Gothenburg, Sweden
-- 2017: Asian Development Review Conference, Seoul, Korea
+- 2018: The 6th World Congress of Environmental and Resource Economists
+- 2017: Asian Development Review Conference
 
 ## Manuscript Referee
 公共管理评论, 经济学季刊(*2), Chinese Political Science Review, Comparative Political Studies, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science, Journal of Policy Analysis and Management, Public Administration and Development, Public Management Review, Public Performance & Management Review, World Development
