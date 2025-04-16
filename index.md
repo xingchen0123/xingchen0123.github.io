@@ -60,6 +60,20 @@ My research has appeared or is forthcoming in ***Governance, Journal of Developm
 - Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank)[[link]](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)
 - BHP-PKU Carbon Capture, Use and Storage Research[[link]](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)
 
+## Conference and Invited talks
+- 2025: APSA, Shanghai Jiaotong University (School of International and Public Affairs), MPSA (co-author presentation), SPSA (co-author presentation)
+- 2024: Authoritarian Political Systems Group Workshop (virtual), APSA, MPSA, International Conference on China Policy Studies, PMRC, International Conference on Comparative Public Policy, IRSPM
+- 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
+- 2021: CCER Summer Institute
+- 2019: China Economics Annual Conference; The 8th Congress of the East Asian Association of Environmental and Resource Economics
+- 2018: The 6th World Congress of Environmental and Resource Economists
+- 2017: Asian Development Review Conference
+
+## Manuscript Referee
+公共管理评论, 经济学季刊(*2), Chinese Political Science Review, Comparative Political Studies, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science, Journal of Policy Analysis and Management, Public Administration and Development, Public Management Review, Public Performance & Management Review, World Development
+
+## Professional Activities
+- Editorial board: Global Public Policy and Governance, October 2024- 
 
 ## Teaching
 At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels and sometimes received incredibly high teaching evaluation scores. At Peking University, I taught graduate-level microeconomics for international students. 
@@ -95,21 +109,6 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
    
 ### *Teaching Assistant at Peking University*
 -  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
-
-## Conference and Invited talks
-- 2025: Shanghai Jiaotong University (School of International and Public Affairs), MPSA (co-author presentation), SPSA (co-author presentation)
-- 2024: Authoritarian Political Systems Group Workshop (virtual), APSA, MPSA, International Conference on China Policy Studies, PMRC, International Conference on Comparative Public Policy, IRSPM
-- 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
-- 2021: CCER Summer Institute
-- 2019: China Economics Annual Conference; The 8th Congress of the East Asian Association of Environmental and Resource Economics
-- 2018: The 6th World Congress of Environmental and Resource Economists
-- 2017: Asian Development Review Conference
-
-## Manuscript Referee
-公共管理评论, 经济学季刊(*2), Chinese Political Science Review, Comparative Political Studies, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science, Journal of Policy Analysis and Management, Public Administration and Development, Public Management Review, Public Performance & Management Review, World Development
-
-## Professional Activities
-- Editorial board: Global Public Policy and Governance, October 2024- 
 
 ## PhD Program Placements of Research Assistants
 - Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester), Renji Zhou (MA in Michigan)
