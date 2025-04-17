@@ -111,7 +111,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
 -  **Microeconomics**:Graduate Courses, ([Institute of South-South Cooperation and Development](https://cnisscad.pku.edu.cn/))
 
 ## PhD Program Placements of Research Assistants
-- Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester), Renji Zhou (MA in Michigan)
+- Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester), Renji Zhou (MA in Michigan; PhD in Political Science, MIT)
 - Master Students: Zhuowen Qin (PhD in Political Economy, KCL), Gulijiayina Wusufukan (PhD in International Development, Oxford), Jiaheng Ling (PhD in Public Policy, Tsinghua), Andong Zhuge (PhD in Public Policy, Fudan)
 - I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
   
