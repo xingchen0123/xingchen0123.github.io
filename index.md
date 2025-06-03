@@ -40,7 +40,7 @@ My research has appeared or is forthcoming in ***Governance, Journal of Developm
 ## Working Papers
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
-- Silent Suffering: Depression and Political Trust (first and corresponding author with Xiaoxiao Shen)
+- Silent Suffering: Depression and Political Trust Under Authoritarianism (first and corresponding author with Xiaoxiao Shen) 
 - Power Illusion and Regime Support (first and corresponding author with Xiaoxiao Shen)
   
 ## Awards
