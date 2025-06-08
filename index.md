@@ -42,6 +42,7 @@ My research has appeared or is forthcoming in ***Governance, Journal of Developm
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
 - Silent Suffering: Depression and Political Trust (first and corresponding author with Xiaoxiao Shen)
 - Power Illusion and Regime Support (first and corresponding author with Xiaoxiao Shen)
+- Bridging Trust through Institution and Process: How Does Digital Government Increase Citizens’ Trust in Local Government? (first author with Hanchen Jiang)
   
 ## Awards
 - CPSG Best Policy Research Article Award (honorable mention), 2024
