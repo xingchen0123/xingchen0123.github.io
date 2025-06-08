@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/c3c889a4-98ef-4094-80a0-d14b99f493bc)---
-layout: homepage
----
 
 ## About Me
 
