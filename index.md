@@ -11,7 +11,7 @@ My experiences in Shanghai ignited my interest in Politics. My current research 
 My research has appeared or is forthcoming in ***World Development, Journal of Development Economics, Governance***, and other journals.
 
 ## Research Interests
-- Public Opinion, Political Psychology, Political Economy, Environmental Economics and Politics
+- Political Economy, Public Opinion, Political Psychology, Environmental Economics and Politics
 
 ## Employment
 -  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
