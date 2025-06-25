@@ -11,7 +11,7 @@ cv_link: assets/CV.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/photo3.jpg
+avatar: ./assets/img/photo4.jpg
 favicon: ./assets/img/2.2_meitu_cut.jpg
 favicon_dark: ./assets/img/2.2_meitu_cut.jpg
 
