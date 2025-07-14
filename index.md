@@ -43,8 +43,6 @@ My research has appeared or is forthcoming in ***World Development, Journal of D
 - Silent Suffering: How Depression Erodes Political Trust(first and corresponding author with Xiaoxiao Shen), RR.
 - Bridging Trust through Institution and Process: How Does Digital Government Increase Citizens’ Trust in Local Government? (first author with Hanchen Jiang), RR.
 - Power Illusion and Regime Support (first and corresponding author with Xiaoxiao Shen)
-- Communicating Loyalty, Losing Support: Performative Propaganda under Economic Openness (with Haifeng Huang)
-- Threshold Heuristics: How Official Categories Shape Citizen Judgments of Government
   
 ## Awards
 - CPSG Best Policy Research Article Award (honorable mention), 2024
