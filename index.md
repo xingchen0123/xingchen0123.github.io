@@ -8,7 +8,7 @@ Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktiona
 
 My experiences in Shanghai ignited my interest in Politics. My current research focuses on political psychology and political economy under authoritarianism, exploring how information, trauma, and psychosocial factors shape political trust and elite decision-making. I am particularly interested in how the collective unconscious of authoritarianism distorts rational perceptions of new information.
 
-My research has appeared or is forthcoming in ***World Development, Journal of Development Economics, Governance***, and other journals.
+My research has appeared or is forthcoming in ***World Development, Research & Politics，Journal of Development Economics, Governance***, and other journals.
 
 ## Research Interests
 - Political Economy, Political Psychology, Public Opinion, Environmental Economics and Politics
@@ -22,6 +22,7 @@ My research has appeared or is forthcoming in ***World Development, Journal of D
 - B.S. in Environmental Science, Peking University, 2015
 
 ## Publications
+- **Chen, Xing**, and Xiaoxiao Shen. 2025. “Silent Suffering: Depression and Political Trust in China.” ***Research & Politics***. Forthcoming.
 - **Chen, Xing**, Jintao Xu, Yuanyuan Yi, and Andong Zhuge. 2025. “Land Reform, Emerging Grassroots Democracy and Political Trust in China.” ***World Development*** 185: 106792. [[link]](https://www.sciencedirect.com/science/article/pii/S0305750X24002626), [[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0), [[中文简介]](https://mp.weixin.qq.com/s/usbXKMpSPWF9jsd6kGiEmQ).
 - **Chen, Xing**, Peng Zhang, Ping Zhang, and Andong Zhuge. 2024. "The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge." ***Journal of Development Economics*** 171: 103356. [[link]](https://www.sciencedirect.com/science/article/pii/S0304387824001056)
 - **Chen, Xing**, Xiaoxiao Shen, and Andong Zhuge. 2024. “Pollution Matters: The Political Cost of Information Disclosure.” ***Governance*** 37(4): 1275–97. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)
@@ -40,7 +41,6 @@ My research has appeared or is forthcoming in ***World Development, Journal of D
 ## Working Papers
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
-- Silent Suffering: Depression and Political Trust in China (first and corresponding author with Xiaoxiao Shen), RR.
 - Bridging Trust through Institution and Process: How Does Digital Government Increase Citizens’ Trust in Local Government? (first author with Hanchen Jiang), RR.
 - Power Illusion and Regime Support (first and corresponding author with Xiaoxiao Shen)
   
