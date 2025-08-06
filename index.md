@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an assistant professor at School of International Relations and Public Affairs at Fudan University. I obtained my PhD from [Peking University](https://english.pku.edu.cn/about.html) in 2020. 
 
-My experiences in Shanghai ignited my interest in Politics. My research operates at the intersection of political psychology and political economy, with a focus on authoritarian contexts. I study the psychological micro-foundations of authoritarianism, examining how information, historical trauma, and psychosocial legacies shape both mass political trust and elite decision-making. A central theme of my work is how the collective unconscious of authoritarianism structures the perception of new information.
+My experiences in Shanghai ignited my interest in Politics. My research is at the intersection of political psychology and political economy, with a focus on authoritarian contexts. I study the psychological micro-foundations of authoritarianism, examining how information, historical trauma, and psychosocial legacies shape both mass political trust and elite decision-making. A central theme of my work is how the collective unconscious of authoritarianism structures the perception of new information.
 
 My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals.
 
