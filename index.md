@@ -43,6 +43,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
 - Bridging Trust through Institution and Process: How Does Digital Government Increase Citizens’ Trust in Local Government? (first author with Hanchen Jiang), RR.
 - Power Illusion and Regime Support (first and corresponding author with Xiaoxiao Shen)
+- Unintended Liberation (with Renji Zhou)
   
 ## Awards
 - CPSG Best Policy Research Article Award (honorable mention), 2024
