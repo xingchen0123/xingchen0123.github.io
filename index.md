@@ -75,7 +75,8 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 公共管理评论, 经济学季刊(✖2), Chinese Political Science Review, Comparative Political Studies, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science, Journal of Policy Analysis and Management, Political Behavior, Public Administration and Development, Public Management Review(✖2), Public Performance & Management Review, Review of Development Economics, Technological Forecasting & Social Change, World Development
 
 ## Professional Activities
-- Editorial board: Global Public Policy and Governance, October 2024- 
+- Editorial board: Global Public Policy and Governance, October 2024-
+- Director of the Campus Asia Program (Fudan)
 
 ## Teaching
 At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels and sometimes received incredibly high teaching evaluation scores. At Peking University, I taught graduate-level microeconomics for international students. 
@@ -101,7 +102,6 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
   <details><summary>Introduction:</summary>
    This course provides an overview of China's environmental governance since 2000. By introducing the microeconomic foundations of environmental policies, analyzing China's pollution control efforts, and examining the impacts of environmental regulation, this course aims to equip students with the knowledge about the policy design and implementation in addressing future environmental challenges.
    </details>
-  
 - **Performance Evaluation in Public Sector (POLI130114)**: undergraduate course, Spring 2021, Spring 2022, Average Ratings: 95.87/100.
   <details><summary>Introduction:</summary>
    An introductory course for causal inference and policy evaluation techniques in the context of China governance.
