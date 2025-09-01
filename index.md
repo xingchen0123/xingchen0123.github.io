@@ -22,7 +22,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - B.S. in Environmental Science, Peking University, 2015
 
 ## Publications
-*Denotes corresponding author.*
+*\* denotes corresponding author.*
 - **Chen, Xing***, and Xiaoxiao Shen. 2025. “Silent Suffering: Depression, Perceived Inequality, and Political Trust.” ***Research & Politics***. Forthcoming.
 - **Chen, Xing**, Jintao Xu, Yuanyuan Yi*, and Andong Zhuge. 2025. “Land Reform, Emerging Grassroots Democracy and Political Trust in China.” ***World Development*** 185: 106792. [[link]](https://www.sciencedirect.com/science/article/pii/S0305750X24002626), [[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0), [[中文简介]](https://mp.weixin.qq.com/s/usbXKMpSPWF9jsd6kGiEmQ).
 - **Chen, Xing**, Peng Zhang*, Ping Zhang, and Andong Zhuge. 2024. "The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge." ***Journal of Development Economics*** 171: 103356. [[link]](https://www.sciencedirect.com/science/article/pii/S0304387824001056)
