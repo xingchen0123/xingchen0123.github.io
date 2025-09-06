@@ -23,7 +23,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 
 ## Publications
 *\* denotes corresponding author.*
-- **Chen, Xing**\*, and Xiaoxiao Shen. 2025. “Silent Suffering: Depression, Perceived Inequality, and Political Trust.” Research & Politics 12(3): 20531680251374167. [[link]](https://journals.sagepub.com/doi/10.1177/20531680251374167)
+- **Chen, Xing**\*, and Xiaoxiao Shen. 2025. “Silent Suffering: Depression, Perceived Inequality, and Political Trust.” ***Research & Politics*** 12(3): 20531680251374167. [[link]](https://journals.sagepub.com/doi/10.1177/20531680251374167)
 - **Chen, Xing**, Jintao Xu, Yuanyuan Yi\*, and Andong Zhuge. 2025. “Land Reform, Emerging Grassroots Democracy and Political Trust in China.” ***World Development*** 185: 106792. [[link]](https://www.sciencedirect.com/science/article/pii/S0305750X24002626), [[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0), [[中文简介]](https://mp.weixin.qq.com/s/usbXKMpSPWF9jsd6kGiEmQ).
 - **Chen, Xing**, Peng Zhang\*, Ping Zhang, and Andong Zhuge. 2024. "The Enduring Trauma: How Officials' Childhood Famine Experiences Affect Year-End Spending Surge." ***Journal of Development Economics*** 171: 103356. [[link]](https://www.sciencedirect.com/science/article/pii/S0304387824001056)
 - **Chen, Xing**\*, Xiaoxiao Shen, and Andong Zhuge. 2024. “Pollution Matters: The Political Cost of Information Disclosure.” ***Governance*** 37(4): 1275–97. [[link]](https://onlinelibrary.wiley.com/doi/10.1111/gove.12847)
