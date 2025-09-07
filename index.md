@@ -12,7 +12,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 
 ## Research Interests
 - Fields: Public Policy, Political Behavior, Political Economy
-- Topics: The Psychology of Politics, Information and Technology, Public Opinion, Environmental Policy
+- Topics: Political Psychology, Public Opinion, Information and Technology, Environment Policy
 
 ## Employment
 -  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
