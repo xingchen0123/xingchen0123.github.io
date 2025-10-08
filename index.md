@@ -66,7 +66,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - BHP-PKU Carbon Capture, Use and Storage Research[[link]](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)
 
 ## Conference and Invited talks
-- 2025 (scheduled): Korea University (Inaugural Conference on Peace and Democracy in Asia Pacific and the World), Tsinghua University (Department of Political Science), University of International Business and Economics (School of Government), APSA, Peking University (CCER Summer Institute), Hong Kong University (8th Empirical Political Science Workshop in Hong Kong), Shanghai Jiaotong University (School of International and Public Affairs)
+- 2025 (scheduled): Tsinghua University (Department of Political Science), University of International Business and Economics (School of Government), Korea University (Inaugural Conference on Peace and Democracy in Asia Pacific and the World), APSA, Peking University (CCER Summer Institute), Hong Kong University (8th Empirical Political Science Workshop in Hong Kong), Shanghai Jiaotong University (School of International and Public Affairs)
 - 2024: Authoritarian Political Systems Group Workshop (virtual), APSA, MPSA, International Conference on China Policy Studies, PMRC, International Conference on Comparative Public Policy, IRSPM
 - 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
 - 2021: CCER Summer Institute
