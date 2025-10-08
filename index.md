@@ -93,7 +93,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
   <details><summary>Introduction:</summary>
   Graduate Course. An advanced course covering panel data analysis, as well as techniques for causal inference and empirical strategy, including Difference-in-difference(DID), instrumental variable method (IV), regression discontinuity design(RDD), and synthetic control methond (SCM). Using data from published journal articles, students will learn how to clean data, create graphs and tables, and conduct basic statistical analysis.
    </details>
-- **Principles of Economics(POLI130004)**: undergraduate course, Fall 2022, Fall 2023, Fall 2024. Average Ratings: 93.1/100.
+- **Principles of Economics(POLI130004)**: undergraduate course, Fall 2022, Fall 2023, Fall 2024, Fall 2025. Average Ratings: 93.1/100.
   <details><summary>Introduction:</summary>
    An introduction course to core concepts and theories of economics for newly admitted undergrads at Fudan.
    </details>
@@ -109,7 +109,7 @@ At Fudan University, I have a lot of joy teaching quantitative methods and causa
   <details><summary>Introduction:</summary>
    An introductory course for causal inference and policy evaluation techniques in the context of China governance.
    </details>
-- **Public Economics (MPA630060)**:Spring 2023, Fall 2024. MPA course
+- **Public Economics (MPA630060)**:Spring 2023, Fall 2024, Fall 2025. MPA course
 - **Performance evaluation and strategic management**: Spring 2021, MPA course. Average Ratings: 99.55/100
    
 ### *Teaching Assistant at Peking University*
