@@ -44,9 +44,6 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 ## Working Papers
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
-- Chen, Xing\*, and Xiaoxiao Shen. "Power Illusion and Regime Support"
-- Chen, Xing and Haifeng Huang\*. "Signaling Loyalty, Losing Support: Performative Propaganda under Economic Openness" 
-- Chen, Xing\* and Andong Zhuge, "Threshold Matters: How Heuristic Perceptions of Pollution Affect Governmental Satisfaction"
   
 ## Awards
 - CPSG Best Policy Research Article Award (honorable mention), 2024
