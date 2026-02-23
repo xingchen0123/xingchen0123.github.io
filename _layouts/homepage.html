@@ -27,10 +27,13 @@
     <div class="wrapper">
       <header>
         
-        {% if site.avatar %}
-        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
-        {% endif %}
 
+        {% if site.avatar %}
+<a class="image avatar">
+  <img src="{{site.avatar}}" alt="avatar" style="width: 180px; height: 180px; padding: 5px; object-fit: cover;" onContextMenu="return false" />
+</a>
+{% endif %}
+        
         <h1>{{ site.title }}</h1> 
         
         {% if site.position %}
