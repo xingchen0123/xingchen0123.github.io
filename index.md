@@ -4,11 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an assistant professor at School of International Relations and Public Affairs at Fudan University. I obtained my PhD from [Peking University](https://english.pku.edu.cn/about.html) in 2020. 
+Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an assistant professor at School of International Relations and Public Affairs (SIRPA) at Fudan University. I obtained my PhD from [Peking University](https://english.pku.edu.cn/about.html) and was a visiting scholar at UC Berkeley.
 
-My experiences in Shanghai ignited my interest in Politics. I study political behavior and political psychology under authoritarianism, exploring how information, trauma, and psychosocial legacies shape mass political trust and elite decision-making. I am particularly interested in how the collective unconscious shaped by authoritarianism influences citizens' information processing.
+My research sits at the intersection of political behavior, political psychology, and political economy, with a focus on China. I am broadly interested in how information, institutions, and psychosocial legacies shape mass political attitudes and elite decision-making.
 
-My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals.
+Specifically, my work pursues two interrelated agendas. First, I examine how collective experiences under authoritarianism internalize into citizens' psychological dispositions, reinforcing authoritarian resilience by embedding regime-sustaining beliefs into political culture. Second, I study how local officials strategically navigate competing objectives and promotion incentives, and how this strategic behavior shapes political and economic outcomes.
+
+My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals. I am also contributing a chapter to the forthcoming ***Oxford Handbook on Authoritarian Politics***.
 
 ## Research Interests
 - Political Behavior, Political Psychology, Public Opinion, Public Policy (Environmental Policy)
