@@ -8,12 +8,12 @@ Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktiona
 
 My research sits at the intersection of political behavior, political psychology, and political economy, with a focus on China. I am broadly interested in how information, institutions, and psychosocial legacies shape mass political attitudes and elite decision-making.
 
-Specifically, my work pursues two interrelated agendas. First, I examine how citizens process information under authoritarianism. I argue that authoritarian environments cultivate a distinctive collective unconscious that shapes these processing in ways that ultimately reinforce regime resilience. Second, I study how local officials strategically respond to incentive structures such as multiple-tasking problems, principal-agent dilemmas, and promotion incentives, and how this shapes political outcomes.
+Specifically, my work pursues two interrelated agendas. First, I examine how citizens process information under authoritarianism. I argue that authoritarian environments cultivate a distinctive collective unconscious that shapes these processing in ways that ultimately reinforce regime resilience. Second, I study elite behavior, focusing on how local officials strategically respond to bureaucratic structures such as multitasking dilemmas, principal-agent problems, and promotion incentives, and how these responses shape governance outcomes.
 
 My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals. I am also contributing a chapter to the forthcoming ***Oxford Handbook on Authoritarian Politics***.
 
 ## Research Interests
-- Political Behavior, Political Psychology, Public Opinion, Public Policy (Environmental Policy)
+- Political Behavior, Political Psychology, Public Opinion, Comparative Political Economy
 
 ## Employment
 -  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
