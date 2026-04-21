@@ -21,9 +21,8 @@ My research has appeared or is forthcoming in ***Journal of Development Economic
 - Visiting scholar, Agricultural and Resource Economics, UC Berkeley, 2017-2018
 - B.S. in Environmental Science, Peking University, 2015
 
-## Publications
+## Publications: Political Science & Political Economy
 *\* denotes corresponding author.*
-### *Political Science & Political Economy*
 - **Chen, Xing**\*, and Xiaoxiao Shen. 2025. “Silent Suffering: Depression, Perceived Inequality, and Political Trust.” ***Research & Politics*** 12(3): 20531680251374167. [[link]](https://journals.sagepub.com/doi/10.1177/20531680251374167)
 - **Chen, Xing**, and Hanchen Jiang\*. 2025. “Bridging Trust through Institution and Process: How Does Digital Government Increase Citizens’ Trust in Local Government?” ***Public Management Review***: 1–26. [[link]](https://www.tandfonline.com/doi/full/10.1080/14719037.2025.2605469?scroll=top&needAccess=true)
 - **Chen, Xing**, Jintao Xu, Yuanyuan Yi\*, and Andong Zhuge. 2025. “Land Reform, Emerging Grassroots Democracy and Political Trust in China.” ***World Development*** 185: 106792. [[link]](https://www.sciencedirect.com/science/article/pii/S0305750X24002626), [[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0), [[中文简介]](https://mp.weixin.qq.com/s/usbXKMpSPWF9jsd6kGiEmQ).
@@ -33,8 +32,8 @@ My research has appeared or is forthcoming in ***Journal of Development Economic
   - China Public Administration Annual Conference Best Paper Award (Third Prize), 2023
 - **Chen, Xing**, Hanchen Jiang\*, and Jiaheng Ling. 2024. “Addressing Multitasking Problems through Promotion Incentives: An Empirical Study of Local Governments in China.” ***Public Performance & Management Review*** 47(3): 654–80.[[link]](https://www.tandfonline.com/doi/full/10.1080/15309576.2024.2302390)
   - Cited by Handbook of Political Economy (edited by Daron Acemoglu and James Robinson)
----
-### *Environmental Economics (prior work)*
+
+## Publications: Environmental Economics (prior work)
 - **Chen, Xing**, Xuan Wang\*, Tianyang Xi, and Jintao Xu. 2023. "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China’s Industrial Sector: A Firm-Level Analysis." ***China Economic Journal*** 16(2): 217–39. [[link]](https://www.tandfonline.com/doi/abs/10.1080/17538963.2023.2244281)
 - **Chen, Xing**, and Jintao Xu\*. 2018. "Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects." ***Asian Development Review*** 35(2): 131–52. [[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
 - 陈醒\*，李睿. 2024. "目标设定的边界效应：省级政府设定经济与环保目标的策略性行为研究." 复旦城市治理评论 (01):330-354.(Title in English: The Border Effect of Target Setting: A Study on the Strategic Behavior of Provincial Governments in Setting Economic and Environmental Targets).[[link]](https://kns.cnki.net/kcms2/article/abstract?v=xyKmmUzEPx13KaMsACgPTSXEltQRcdM5FNY-jk_2eeqvJ3fzXQlin8MC3fcC2DTY2-OcDJbxMDHaUiubmbTtp-y6APD-ifbEtSSBpuC-rt0UpyVjx85kxWPV53uNAGIbYEnwXGqtFe7Nn4IkeVGIj8MJyVnebGXUJnW3gOUCVuHnXdHZOJy5i0g6SG86RqvZ&uniplatform=NZKPT&language=CHS)
