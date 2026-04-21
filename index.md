@@ -42,7 +42,6 @@ My research has appeared or is forthcoming in ***Journal of Development Economic
 - 北京大学国家发展研究院能源安全与国家发展研究中心、中国人民大学经济学院能源经济系联合课题组,王敏. 2018. “关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究.” ***国际经济评论*** (4): 67-85+6.(Title in English: A Study on the Subsidy Gap and High Curtailment of Wind and Solar Power in China).[[link]](https://kns.cnki.net/kcms2/article/abstract?v=xyKmmUzEPx2PsZSutLI4Q4Et_XawQ54bj4x_BNcAzG5hqR58XV9oUJ-SyU2vIBEIunIZFN1zIdwWgraLgRAKW5EaVwaR9HkpBjrn1BacGucEer7PFw8Fx1RF_IRSDYcjN4GLVYwI_m5t5n26_hEXPqehOLKevi4gWMp7cZG31tOm_e-7p3pWu-in4ncW1SlK&uniplatform=NZKPT&language=CHS)
   - Led to key revisions to China's renewable energy auction policy.
 
-
 ## Working Papers
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
