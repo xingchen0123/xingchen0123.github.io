@@ -33,6 +33,7 @@ My research has appeared or is forthcoming in ***Journal of Development Economic
   - China Public Administration Annual Conference Best Paper Award (Third Prize), 2023
 - **Chen, Xing**, Hanchen Jiang\*, and Jiaheng Ling. 2024. “Addressing Multitasking Problems through Promotion Incentives: An Empirical Study of Local Governments in China.” ***Public Performance & Management Review*** 47(3): 654–80.[[link]](https://www.tandfonline.com/doi/full/10.1080/15309576.2024.2302390)
   - Cited by Handbook of Political Economy (edited by Daron Acemoglu and James Robinson)
+---
 ### *Environmental Economics (prior work)*
 - **Chen, Xing**, Xuan Wang\*, Tianyang Xi, and Jintao Xu. 2023. "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China’s Industrial Sector: A Firm-Level Analysis." ***China Economic Journal*** 16(2): 217–39. [[link]](https://www.tandfonline.com/doi/abs/10.1080/17538963.2023.2244281)
 - **Chen, Xing**, and Jintao Xu\*. 2018. "Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects." ***Asian Development Review*** 35(2): 131–52. [[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
