@@ -4,16 +4,14 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an assistant professor at School of International Relations and Public Affairs (SIRPA) at Fudan University. I obtained my PhD from [Peking University](https://english.pku.edu.cn/about.html) and was a visiting scholar at UC Berkeley.
+Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an assistant professor at School of International Relations and Public Affairs (SIRPA) at Fudan University. I obtained my PhD from [Peking University](https://english.pku.edu.cn/about.html) and was a visiting scholar at UC Berkeley. 
 
-My research sits at the intersection of political behavior, political psychology, and political economy, with a focus on China. I am broadly interested in how information, institutions, and psychosocial legacies shape mass political attitudes and elite decision-making.
+My research lies at the intersection of political psychology, political behavior, and political economy, with China as my primary empirical setting. My work examines how psychological mechanisms shape political behavior, at two levels. At the mass level, I study how emotions, trauma, and cognitive biases shape citizens' political attitudes. At the elite level, I examine how formative experiences and psychological legacies shape official decision-making and governance outcomes. Cutting across both levels is an interest in how authoritarian regimes channel these psychological processes to reinforce regime resilience.
 
-Specifically, my work pursues two interrelated agendas. First, I examine how citizens process information under authoritarianism. I argue that authoritarian environments cultivate a distinctive collective unconscious that shapes these processing in ways that ultimately reinforce regime resilience. Second, I study elite behavior, focusing on how local officials strategically respond to bureaucratic structures such as multitasking dilemmas, principal-agent problems, and promotion incentives, and how these responses shape governance outcomes.
-
-My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals. I am also contributing a chapter to the forthcoming ***Oxford Handbook on Authoritarian Politics***.
+My research has appeared or is forthcoming in ***Journal of Development Economics, World Development, Research & Politics, Governance***, and other journals. I am also contributing a chapter to the forthcoming ***Oxford Handbook on Authoritarian Politics***.
 
 ## Research Interests
-- Political Behavior, Political Psychology, Public Opinion, Comparative Political Economy
+- Political Psychology, Political Behavior, Public Opinion, Comparative Political Economy
 
 ## Employment
 -  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
@@ -25,6 +23,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 
 ## Publications
 *\* denotes corresponding author.*
+### Political Science & Political Economy
 - **Chen, Xing**, and Hanchen Jiang\*. 2025. “Bridging Trust through Institution and Process: How Does Digital Government Increase Citizens’ Trust in Local Government?” ***Public Management Review***: 1–26. [[link]](https://www.tandfonline.com/doi/full/10.1080/14719037.2025.2605469?scroll=top&needAccess=true)
 - **Chen, Xing**\*, and Xiaoxiao Shen. 2025. “Silent Suffering: Depression, Perceived Inequality, and Political Trust.” ***Research & Politics*** 12(3): 20531680251374167. [[link]](https://journals.sagepub.com/doi/10.1177/20531680251374167)
 - **Chen, Xing**, Jintao Xu, Yuanyuan Yi\*, and Andong Zhuge. 2025. “Land Reform, Emerging Grassroots Democracy and Political Trust in China.” ***World Development*** 185: 106792. [[link]](https://www.sciencedirect.com/science/article/pii/S0305750X24002626), [[slides]](https://www.dropbox.com/scl/fi/o7tx7fdd3x5c5ai8t8bb9/democracy.pdf?rlkey=qrj4w4arrqbkjodd9td8wq86d&dl=0), [[中文简介]](https://mp.weixin.qq.com/s/usbXKMpSPWF9jsd6kGiEmQ).
@@ -34,6 +33,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
   - China Public Administration Annual Conference Best Paper Award (Third Prize), 2023
 - **Chen, Xing**, Hanchen Jiang\*, and Jiaheng Ling. 2024. “Addressing Multitasking Problems through Promotion Incentives: An Empirical Study of Local Governments in China.” ***Public Performance & Management Review*** 47(3): 654–80.[[link]](https://www.tandfonline.com/doi/full/10.1080/15309576.2024.2302390)
   - Cited by Handbook of Political Economy (edited by Daron Acemoglu and James Robinson)
+### Environmental Economics (prior work)
 - **Chen, Xing**, Xuan Wang\*, Tianyang Xi, and Jintao Xu. 2023. "Estimating the CO2 Marginal Abatement Cost and Implications for Climate Policies in China’s Industrial Sector: A Firm-Level Analysis." ***China Economic Journal*** 16(2): 217–39. [[link]](https://www.tandfonline.com/doi/abs/10.1080/17538963.2023.2244281)
 - **Chen, Xing**, and Jintao Xu\*. 2018. "Carbon Trading Scheme in the People’s Republic of China: Evaluating the Performance of Seven Pilot Projects." ***Asian Development Review*** 35(2): 131–52. [[link]](https://direct.mit.edu/adev/article/35/2/131/9958/Carbon-Trading-Scheme-in-the-People-s-Republic-of)
 - 陈醒\*，李睿. 2024. "目标设定的边界效应：省级政府设定经济与环保目标的策略性行为研究." 复旦城市治理评论 (01):330-354.(Title in English: The Border Effect of Target Setting: A Study on the Strategic Behavior of Provincial Governments in Setting Economic and Environmental Targets).[[link]](https://kns.cnki.net/kcms2/article/abstract?v=xyKmmUzEPx13KaMsACgPTSXEltQRcdM5FNY-jk_2eeqvJ3fzXQlin8MC3fcC2DTY2-OcDJbxMDHaUiubmbTtp-y6APD-ifbEtSSBpuC-rt0UpyVjx85kxWPV53uNAGIbYEnwXGqtFe7Nn4IkeVGIj8MJyVnebGXUJnW3gOUCVuHnXdHZOJy5i0g6SG86RqvZ&uniplatform=NZKPT&language=CHS)
@@ -41,6 +41,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - 陈醒, 徐晋涛\*. 2021. “化工企业污染物影子价格的估计—— 基于参数化的方向性距离函数.” 北京大学学报自然科学版 57(2): 341.(Title in English: Estimating the Shadow Prices of Pollutants in Chemical Enterprises: Based on a Parametric Directional Distance Function).[[link]](https://kns-cnki-net-443.webvpn.las.ac.cn/kcms2/article/abstract?v=7gnxONS3vkk6EHD-OYFAhmKv_6-6s630_KpLcPrGaT4uhO0ap1l4gr4t003PoDVnFTIudvFrEVry1DhzrJt3s_fsD38o4o1t94QqFcYrguBw3AuFtm869iH8As5Vu-BYmvTEnZQOmbpSX_3E47rJeEs_JXM2seMnXBLdbG0w7k-CgrdfIx0CW7XXF3dXNCumXOp3ZYTx1vkJwn_2qEGo6YaAtJgyWro-vgNX-jI6xqA=&uniplatform=NZKPT&language=CHS)
 - 北京大学国家发展研究院能源安全与国家发展研究中心、中国人民大学经济学院能源经济系联合课题组,王敏. 2018. “关于中国风电和光伏发电补贴缺口和大比例弃电问题的研究.” ***国际经济评论*** (4): 67-85+6.(Title in English: A Study on the Subsidy Gap and High Curtailment of Wind and Solar Power in China).[[link]](https://kns.cnki.net/kcms2/article/abstract?v=xyKmmUzEPx2PsZSutLI4Q4Et_XawQ54bj4x_BNcAzG5hqR58XV9oUJ-SyU2vIBEIunIZFN1zIdwWgraLgRAKW5EaVwaR9HkpBjrn1BacGucEer7PFw8Fx1RF_IRSDYcjN4GLVYwI_m5t5n26_hEXPqehOLKevi4gWMp7cZG31tOm_e-7p3pWu-in4ncW1SlK&uniplatform=NZKPT&language=CHS)
   - Led to key revisions to China's renewable energy auction policy.
+
 
 ## Working Papers
 - The Dynamics of Public Opinion on COVID-19 Policies in China
@@ -82,7 +83,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - Director of the Campus Asia Program (Fudan)
 
 ## Teaching
-At Fudan University, I have a lot of joy teaching quantitative methods and causal inference courses at various levels and sometimes received incredibly high teaching evaluation scores. At Peking University, I taught graduate-level microeconomics for international students. 
+At Fudan University, I teach quantitative methods and causal inference at both undergraduate and graduate levels, with consistently high student evaluations. At Peking University, I taught graduate-level microeconomics for international students. 
 ### *Instructor at Fudan University*
 - **Research Methods in Social Science(POLI620041)**: graduate course, Fall 2021 Average Ratings: 99.76/100.
   <details><summary>Introduction:</summary>
