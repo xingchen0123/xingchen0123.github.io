@@ -11,7 +11,7 @@ I study the psychology of political life under authoritarianism. My research tra
 My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals. I am also contributing a chapter to the forthcoming ***Oxford Handbook on Authoritarian Politics***.
 
 ## Research Interests
-- Political Psychology, Political Behavior, Public Opinion, Comparative Political Economy
+- Political Psychology, Political Behavior, Authoritarian Information Politics, Chinese Politics
 
 ## Employment
 -  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
