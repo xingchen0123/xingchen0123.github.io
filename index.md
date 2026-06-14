@@ -57,7 +57,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - Review of the Progress of China's Carbon Trading Pilots, Chapter 5 of China Low Carbon Economic Development Report 2017(in Chinese)[[link]](https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=9313611)
 - Identifying the problems of China's wind power and photovoltaic power generation subsidy policies," Chapter 3 of Study on Subsidy Policies for Wind Power and Photovoltaic Power Generation in China(in Chinese).[[link]](http://www.csspw.com.cn/booksdetail_15923_2075299_0.jhtml)
 
-## Fundings and Projects
+## Fundings and Grants
 - Study on Renewable Energy Electricity Price Subsidy and Price Formation Mechanism. China Renewable Energy Scale-Up Program Phase II, NDRC & CRESP (the World Bank)[[link]](https://projects.worldbank.org/en/projects-operations/project-detail/P127033?lang=en)
 - BHP-PKU Carbon Capture, Use and Storage Research[[link]](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)
 
