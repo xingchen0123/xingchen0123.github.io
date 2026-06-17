@@ -11,15 +11,10 @@ I study the psychology of political life under authoritarianism. My research tra
 My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals. I am also contributing a chapter to the forthcoming ***Oxford Handbook on Authoritarian Politics***.
 
 ## Research Interests
-- Political Psychology, Political Behavior, Authoritarian Information Politics, Chinese Politics
+- Political Psychology, Public Opinion, Authoritarian Information Politics, Chinese Politics
 
 ## Employment
 -  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
-
-## Education
-- PhD in Environmental Economics, Peking University, 2020
-- Visiting scholar, Agricultural and Resource Economics, UC Berkeley, 2017-2018
-- B.S. in Environmental Science, Peking University, 2015
 
 ## Publications: 
 - **Chen, Xing**\*, and Xiaoxiao Shen. 2025. “Silent Suffering: Depression, Perceived Inequality, and Political Trust.” ***Research & Politics*** 12(3): 20531680251374167. [[link]](https://journals.sagepub.com/doi/10.1177/20531680251374167)
@@ -40,8 +35,10 @@ My research has appeared or is forthcoming in ***World Development, Research & P
   - Led to key revisions to China's renewable energy auction policy.
 
 ## Working Papers
+- Signaling Loyalty while Preserving Markets: Performative Propaganda under Economic Openness (with Haifeng Huang)
+- The “Old Boys” Power Illusion: Hometown Elite Promotion and Political Trust (with Xiaoxiao Shen)
 - The Dynamics of Public Opinion on COVID-19 Policies in China
- (first author  with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
+ (with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
   
 ## Awards
 - CPSG Best Policy Research Article Award (honorable mention), 2024
@@ -116,6 +113,11 @@ At Fudan University, I teach quantitative methods and causal inference at both u
 - Undergraduate Students: Xintian Wang (PhD in Political Science, Rochester), Renji Zhou (MA in Michigan; PhD in Political Science, MIT)
 - Master Students: Zhuowen Qin (PhD in Political Economy, KCL), Gulijiayina Wusufukan (PhD in International Development, Oxford), Jiaheng Ling (PhD in Public Policy, Tsinghua), Andong Zhuge (PhD in Public Policy, Fudan)
 - I’m currently looking for a part-time research assistant. Please send me an email if you are interested.
+
+## Education
+- PhD in Environmental Economics, Peking University, 2020
+- Visiting scholar, Agricultural and Resource Economics, UC Berkeley, 2017-2018
+- B.S. in Environmental Science, Peking University, 2015
   
 ## Additional Information
 - Language: English (fluent); Mandarin Chinese (native)
