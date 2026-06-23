@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an assistant professor at School of International Relations and Public Affairs (SIRPA) at Fudan University. I obtained my PhD from [Peking University](https://english.pku.edu.cn/about.html) and was a visiting scholar at UC Berkeley. 
+Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an associate professor at School of International Relations and Public Affairs (SIRPA) at Fudan University. I obtained my PhD from [Peking University](https://english.pku.edu.cn/about.html) and was a visiting scholar at UC Berkeley. 
 
 I study the psychology of political life under authoritarianism. My research traces how citizens and officials adapt to environments of constrained information, hierarchical authority, and uncertain accountability, often emotionally and unconsciously. I am especially interested in how these adaptive psychologies sustain authoritarian rule without deliberate design.
 
@@ -14,7 +14,8 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - Political Psychology, Public Opinion, Authoritarian Information Politics, Chinese Politics
 
 ## Employment
--  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-present
+-  Associate professor, School of International Relations and Public Affairs, Fudan University, 2026-present
+-  Assistant professor, School of International Relations and Public Affairs, Fudan University, 2020-2026
 
 ## Publications: 
 - **Chen, Xing**\*, and Xiaoxiao Shen. 2025. “Silent Suffering: Depression, Perceived Inequality, and Political Trust.” ***Research & Politics*** 12(3): 20531680251374167. [[link]](https://journals.sagepub.com/doi/10.1177/20531680251374167)
