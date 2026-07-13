@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an associate professor at School of International Relations and Public Affairs (SIRPA) at Fudan University. I obtained my PhD from [Peking University](https://english.pku.edu.cn/about.html) and was a visiting scholar at UC Berkeley. 
+Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an associate professor at the School of International Relations and Public Affairs (SIRPA) at Fudan University. I obtained my PhD in Economics from [Peking University](https://english.pku.edu.cn/about.html) and was a visiting scholar at UC Berkeley. 
 
-I study the psychology of political life under authoritarianism. My research traces how citizens and officials adapt to environments of constrained information, hierarchical authority, and uncertain accountability, often emotionally and unconsciously. I am especially interested in how these adaptive psychologies sustain authoritarian rule without deliberate design.
+I study the psychology of political life under authoritarianism. My research traces how citizens and officials adapt to environments of constrained information, hierarchical authority, and uncertain accountability, often emotionally and unconsciously. I am especially interested in how these adaptive psychologies sustain authoritarian rule even without deliberate design. I approach these questions with causal inference methods, drawing on original surveys, experiments, and administrative data, primarily from China.
 
-My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals. I am also contributing a chapter to the forthcoming ***Oxford Handbook on Authoritarian Politics***.
+My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals, as well as the ***Oxford Handbook on Authoritarian Politics***.
 
 ## Research Interests
-- Political Psychology, Public Opinion, Authoritarian Information Politics, Chinese Politics
+- Political Economy, Political Psychology, Authoritarian Politics, Chinese Politics
 
 ## Employment
 -  Associate professor, School of International Relations and Public Affairs, Fudan University, 2026-present
@@ -70,7 +70,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - 2017: Asian Development Review Conference
 
 ## Manuscript Referee
-公共管理评论, 经济学季刊(✖2), Chinese Political Science Review(✖2), Comparative Political Studies, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science(✖2), Journal of Contemporary China, Journal of Economic Behavior and Organization, Journal of Economic History, Journal of Policy Analysis and Management, Political Behavior, Public Administration and Development, Public Management Review(✖3), Public Performance & Management Review, Review of Development Economics, Technological Forecasting & Social Change, World Development
+公共管理评论, 公共行政评论，经济学季刊(✖2), Chinese Political Science Review(✖2), Comparative Political Studies, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science(✖2), Journal of Contemporary China, Journal of Economic Behavior and Organization, Journal of Economic History, Journal of Policy Analysis and Management, Political Behavior, Public Administration and Development, Public Management Review(✖3), Public Performance & Management Review, Review of Development Economics, Technological Forecasting & Social Change, World Development
 
 ## Professional Activities
 - Editorial board: Global Public Policy and Governance, October 2024-
