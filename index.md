@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an associate professor at the School of International Relations and Public Affairs (SIRPA) at Fudan University. I obtained my PhD in Economics from [Peking University](https://english.pku.edu.cn/about.html) and was a visiting scholar at UC Berkeley. 
+Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an associate professor at the School of International Relations and Public Affairs (SIRPA) at Fudan University. I obtained my PhD in Environmental Economics from [Peking University](https://english.pku.edu.cn/about.html) and was a visiting scholar at UC Berkeley. 
 
 I study the psychology of political life under authoritarianism. My research traces how citizens and officials adapt to environments of constrained information, hierarchical authority, and uncertain accountability, often emotionally and unconsciously. I am especially interested in how these adaptive psychologies sustain authoritarian rule even without deliberate design. I approach these questions with causal inference methods, drawing on original surveys, experiments, and administrative data, primarily from China.
 
