@@ -36,8 +36,6 @@ My research has appeared or is forthcoming in ***World Development, Research & P
   - Led to key revisions to China's renewable energy auction policy.
 
 ## Working Papers
-- Signaling Loyalty while Preserving Markets: Performative Propaganda under Economic Openness (with Haifeng Huang)
-- The “Old Boys” Power Illusion: Hometown Elite Promotion and Political Trust (with Xiaoxiao Shen)
 - The Dynamics of Public Opinion on COVID-19 Policies in China
  (with Jiakun Zheng, Jianhua Xu and Yana Jin). [[ssrn]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4667162)
   
