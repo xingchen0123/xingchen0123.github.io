@@ -6,9 +6,9 @@ layout: homepage
 
 Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an associate professor at the School of International Relations and Public Affairs (SIRPA) at Fudan University.  
 
-I study the political economy of authoritarian information: how states produce political messages, and how citizens make sense of them. On the supply side, I show that propaganda is frequently performative, produced to signal loyalty upward rather than to persuade downward. On the demand side, I find that citizens often evaluate their government through official labels and identity cues rather than underlying conditions. Both are adaptations, often unconscious and emotional, to an environment of constrained information, hierarchical authority, and uncertain accountability. What interests me most is how such adaptations sustain authoritarian rule even without deliberate design.
+I study the political economy of authoritarian information: how states produce political messages, and how citizens perceive them. On the supply side, I show that propaganda is often performative, produced to signal loyalty upward rather than to persuade downward. On the demand side, I find that citizens often evaluate their government through official labels and identity cues rather than underlying conditions. Both are largely unconscious, emotional adaptations to an environment of distorted information and hierarchical authority. Ultimately, I want to explain how such adaptations sustain authoritarian rule even without deliberate design.
 
-I approach these questions with causal inference methods, drawing on original surveys, experiments, and administrative data, primarily from China. Before turning to political science, I studied environmental economics, and I received my Ph.D. from [Peking University](https://english.pku.edu.cn/about.html).
+I approach these questions with causal inference methods, drawing on original surveys, experiments, and administrative data, primarily from China. Before turning to political science, I trained in environmental economics, earning my Ph.D. from [Peking University](https://english.pku.edu.cn/about.html).
 
 My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals, as well as the ***Oxford Handbook on Authoritarian Politics***.
 
@@ -60,7 +60,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - BHP-PKU Carbon Capture, Use and Storage Research[[link]](https://www.nsd.pku.edu.cn/ccus/ccus/project/271707.htm)
 
 ## Conference and Invited talks
-- 2026: Aarhus University (Information from Abroad Workshop), UCSD (Young Scholars Conference), Peking University (Inaugural PKUSG-HKUPPA Joint Conference on Development and Governance), Fudan University (Comparative Politics Conference), Duke Kunshan University, Renmin University of China, Tsinghua University, NYU Shanghai
+- 2026: Aarhus University (Information from Abroad Workshop), UCSD (Young Scholars Conference), Peking University (Inaugural PKUSG-HKUPPA Joint Conference on Development and Governance), Fudan University (Comparative Politics Conference), Duke Kunshan University, Renmin University of China, Tsinghua University, NYU Shanghai, Nanjing University
 - 2025: Tsinghua University (Department of Political Science), University of International Business and Economics (School of Government), Korea University (Inaugural Conference on Peace and Democracy in Asia Pacific and the World), APSA, Peking University (CCER Summer Institute), Hong Kong University (8th Empirical Political Science Workshop in Hong Kong), Shanghai Jiaotong University (School of International and Public Affairs)
 - 2024: Authoritarian Political Systems Group Workshop (virtual), APSA, MPSA, International Conference on China Policy Studies, PMRC, International Conference on Comparative Public Policy, IRSPM
 - 2023: China Economics Annual Conference; Political Science Speaker Series (virtual)
@@ -70,7 +70,7 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - 2017: Asian Development Review Conference
 
 ## Manuscript Referee
-公共管理评论, 公共行政评论，经济学季刊(✖2), Chinese Political Science Review(✖2), Comparative Political Studies, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science(✖2), Journal of Contemporary China, Journal of Economic Behavior and Organization, Journal of Economic History, Journal of Policy Analysis and Management, Political Behavior, Public Administration and Development, Public Management Review(✖3), Public Performance & Management Review, Review of Development Economics, Technological Forecasting & Social Change, World Development
+公共管理评论, 公共行政评论，经济学季刊(✖2), Chinese Political Science Review(✖2), Comparative Political Studies, Environmental Politics, Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science(✖3), Journal of Contemporary China, Journal of Economic Behavior and Organization, Journal of Economic History, Journal of Policy Analysis and Management, Political Behavior, Public Administration and Development, Public Management Review(✖3), Public Performance & Management Review, Review of Development Economics, Technological Forecasting & Social Change, World Development
 
 ## Professional Activities
 - Editorial board: Global Public Policy and Governance, October 2024-
