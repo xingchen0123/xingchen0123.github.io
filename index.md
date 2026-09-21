@@ -6,9 +6,7 @@ layout: homepage
 
 Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an associate professor at the School of International Relations and Public Affairs (SIRPA) at Fudan University.  
 
-I study the political economy of authoritarian information: how states produce political messages, and how citizens perceive them. On the supply side, I show that propaganda is often performative, produced to signal loyalty upward rather than to persuade downward. On the demand side, I find that citizens often evaluate their government through official labels and identity cues rather than underlying conditions. Both are largely unconscious, emotional adaptations to an environment of distorted information and hierarchical authority. Ultimately, I want to explain how such adaptations sustain authoritarian rule even without deliberate design.
-
-I approach these questions with causal inference methods, drawing on original surveys, experiments, and administrative data, primarily from China. Before turning to political science, I trained in environmental economics, earning my Ph.D. from [Peking University](https://english.pku.edu.cn/about.html).
+I study the political economy of authoritarian information: how states produce political messages, and how citizens perceive them. On the supply side, I show that propaganda is often performative, produced to signal loyalty upward rather than to persuade downward. On the demand side, I find that citizens often evaluate their government through official labels and identity cues rather than underlying conditions. I approach these questions with causal inference methods, drawing on original surveys, experiments, and administrative data, primarily from China. Before turning to political science, I trained in environmental economics, earning my Ph.D. from [Peking University](https://english.pku.edu.cn/about.html).
 
 My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals, as well as the ***Oxford Handbook on Authoritarian Politics***.
 
