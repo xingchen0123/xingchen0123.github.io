@@ -69,7 +69,10 @@ My research has appeared or is forthcoming in ***World Development, Research & P
 - 2017: Asian Development Review Conference
 
 ## Manuscript Referee
-公共管理评论, 公共行政评论，经济学季刊(✖2), Chinese Political Science Review(✖2), Comparative Political Studies, Environmental Politics(✖2), Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Chinese Political Science(✖3), Journal of Contemporary China, Journal of Economic Behavior and Organization, Journal of Economic History, Journal of Policy Analysis and Management, Political Behavior, Public Administration and Development, Public Management Review(✖3), Public Performance & Management Review, Review of Development Economics, Technological Forecasting & Social Change, World Development
+- **Political Science:** Chinese Political Science Review (×2), Comparative Political Studies, Environmental Politics (×2), Journal of Chinese Political Science (×2), Journal of Contemporary China, Political Behavior
+- **Public Administration and Policy:** Global Public Policy and Governance, Humanities and Social Sciences Communications, International Journal of Public Administration, Journal of Chinese Governance, Journal of Policy Analysis and Management, Public Administration and Development, Public Management Review (×3), Public Performance & Management Review, Technological Forecasting & Social Change
+- **Economics:** Applied Economics, Environment and Development Economics, Journal of Economic Behavior and Organization, Journal of Economic History, Review of Development Economics, World Development
+- 《公共管理评论》，《公共行政评论》，《经济学（季刊）》（×2）
 
 ## Professional Activities
 - Editorial board: Global Public Policy and Governance, October 2024-
