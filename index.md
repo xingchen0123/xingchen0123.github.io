@@ -11,7 +11,7 @@ I study how authoritarian states produce information, and how citizens perceive 
 My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals, as well as the ***Oxford Handbook on Authoritarian Politics***.
 
 ## Research Interests
-- Authoritarian Politics, Political Economy of Information, Political Psychology, Public Opinion
+- Authoritarian Politics, Political Economy, Political Behavior, Public Opinion
   
 ## Employment
 -  Associate professor, School of International Relations and Public Affairs, Fudan University, 2026-present
