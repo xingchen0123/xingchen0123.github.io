@@ -5,8 +5,8 @@ layout: homepage
 ## About Me
 
 Hi! My name is Xing Chen (陈醒, [meaning of my first name](https://en.wiktionary.org/wiki/%E9%86%92#Definitions)). I am an associate professor at the School of International Relations and Public Affairs (SIRPA) at Fudan University.  
- 
-I study how authoritarian states produce information, and how citizens perceive it. On the supply side, I show that officials often produce government information to signal loyalty to their superiors rather than to persuade the public. On the demand side, I find that citizens often evaluate their government through official labels and identity cues rather than underlying conditions. I approach these questions with causal inference methods, drawing on original surveys, experiments, and administrative data, primarily from China. 
+
+My research asks how authoritarian regimes endure. I study this question from two sides. Inside the state, I show that local officials facing multiple, high-pressure evaluations comply in distorted ways: they produce propaganda for their superiors rather than the public, and they meet targets by shifting costs elsewhere. In society, I show that citizens adapt to authoritarian rule by identifying with power and internalizing hardship. These habits sustain support until information or crises overwhelm them. I use causal inference with original surveys, experiments, administrative data, and text, mostly from China.
 
 My research has appeared or is forthcoming in ***World Development, Research & Politics, Journal of Development Economics, Governance***, and other journals, as well as the ***Oxford Handbook on Authoritarian Politics***.
 
